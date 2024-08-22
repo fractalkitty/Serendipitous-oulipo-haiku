@@ -5,89 +5,83 @@ I copied, pasted, cut, poked, threaded, beaded, coded, and finished Serendipitou
 I could go into the parallels of three lines and the Three Princes of Serendip or the potential within myself and of this earth reflected in the potential literature (Oulipo), or the temporary sand-like nature that each poem feels like, but I won't. I want you, the viewer/maker/reader, to find the poems that speak to you; the poetry that is serendipitous for who you are in this space and time. Serendipity only happens with action - poems only become when written.*/
 
 //Poetry posts are here: https://fractalkitty.com/2022/01/02/a-year-of-haiku/
+
 let box1 = false,
   box2 = false,
   box3 = false,
   box4 = false;
+let di = 0.2
+let c1 = '#ffffff';
+let c2 = '#fcfbf7'
+
 function setup() {
-  cnv = createCanvas(600, 400);
+  cnv = createCanvas(350, 400);
   textAlign(CENTER);
   //randomize first poem (line1,2,3)
   line1 = int(random(0, firstlines.length));
   line2 = 364; //int(random(0, firstlines.length));
   line3 = int(random(0, firstlines.length));
-  textFont('Courier New');
+  textFont('Paltino');
 }
 
 function draw() {
   translate(0, -50);
-  background('#d4c4b2');
-  fill(50);
-  //shadow rects
-  rect(12, 185, width - 20, 30);
-  triangle(0, 198, 12, 185, 12, 215);
-  triangle(width, 198, width - 8, 185, width - 8, 215);
-  rect(12, 235, width - 20, 30);
-  triangle(0, 248, 12, 235, 12, 265);
-  triangle(width, 248, width - 8, 235, width - 8, 265);
-  rect(12, 285, width - 20, 30);
-  triangle(0, 298, 12, 285, 12, 315);
-  triangle(width, 298, width - 8, 285, width - 8, 315);
+  background('#d4cdc5');
 
   //paper pieces
   noStroke();
   if (box1) {
-    fill('#e1eced');
+    fill(c1);
   } else {
-    fill('#ded5d4');
+    fill(c2);
   }
-  rect(10, 175, width - 20, 35);
+  rect(14, 175, width - 28, 35);
   triangle(0, 195, 10, 175, 10, 210);
   triangle(width, 195, width - 10, 175, width - 10, 210);
   if (box2) {
-    fill('#e1eced');
+    fill(c1);
   } else {
-    fill('#ded5d4');
+    fill(c2);
   }
-  rect(10, 225, width - 20, 35);
+  rect(14, 225, width - 28, 35);
   triangle(0, 245, 10, 225, 10, 260);
   triangle(width, 245, width - 10, 225, width - 10, 260);
   if (box3) {
-    fill('#e1eced');
+    fill(c1);
   } else {
-    fill('#ded5d4');
+    fill(c2);
   }
-  rect(10, 275, width - 20, 35);
+  rect(14, 275, width - 28, 35);
   triangle(0, 295, 10, 275, 10, 310);
   triangle(width, 295, width - 10, 275, width - 10, 310);
-  fill(20);
 
-  //new
-  fill(50);
-  rect(12, 50 + height - 25, 50, 20);
+
+
   if (box4) {
-    fill('#e1eced');
+    fill(c1);
   } else {
-    fill('#5da7b0');
+    fill(c2);
   }
 
-  rect(10, 50 + height - 27, 50, 20);
+  rect(130, 50 + height - 27, 80, 20);
   fill(0);
 
   //poem:
-  textSize(22);
-  text(firstlines[line1], width / 2, 200);
-  text(secondlines[line2], width / 2, 250);
-  text(thirdlines[line3], width / 2, 300);
-  textSize(12);
+  textSize(18);
+  text(firstlines[int(line1)], width / 2, 200);
+  text(secondlines[int(line2)], width / 2, 250);
+  text(thirdlines[int(line3)], width / 2, 300);
+  textSize(25);
   //plate-haiku number id
+  textSize(16)
   text(
-    'haiku: ' + line1 + ' - ' + line2 + ' - ' + line3,
+    'haiku: ' + int(line1) + ' - ' + int(line2) + ' - ' + int(line3),
     width / 2,
     height - 15
   );
 
-  text('random', 34, 50 + height - 13);
+  text('random', 170, 50 + height - 13);
+
   highlight();
   scrollThrough();
 }
@@ -122,8 +116,8 @@ function scrollThrough() {
     mouseIsPressed &&
     mouseY > height - 30 &&
     mouseY < height &&
-    mouseX > 10 &&
-    mouseX < 62
+    mouseX > 120 &&
+    mouseX < 220
   ) {
     line1 = int(random(0, firstlines.length));
     line2 = int(random(0, firstlines.length));
@@ -132,36 +126,36 @@ function scrollThrough() {
   if (mouseIsPressed && mouseY > -50 + 175 && mouseY < -50 + 215) {
     if (mouseX > 0 && mouseX < 60) {
       if (line1 > 0) {
-        line1--;
+        line1 -= di;
       }
     }
     if (mouseX > width - 60 && mouseX < width) {
       if (line1 < firstlines.length - 1) {
-        line1++;
+        line1 += di;
       }
     }
   }
   if (mouseIsPressed && mouseY > -50 + 225 && mouseY < -50 + 265) {
     if (mouseX > 0 && mouseX < 60) {
       if (line2 > 0) {
-        line2--;
+        line2 -= di;
       }
     }
     if (mouseX > width - 60 && mouseX < width) {
       if (line2 < firstlines.length - 1) {
-        line2++;
+        line2 += di;
       }
     }
   }
   if (mouseIsPressed && mouseY > -50 + 280 && mouseY < -50 + 315) {
     if (mouseX > 0 && mouseX < 60) {
       if (line3 > 0) {
-        line3--;
+        line3 -= di;
       }
     }
     if (mouseX > width - 60 && mouseX < width) {
       if (line3 < firstlines.length - 1) {
-        line3++;
+        line3 += di;
       }
     }
   }
@@ -169,7 +163,7 @@ function scrollThrough() {
 //save haiku if s is pressed and randomized if any other key
 function keyPressed() {
   if (keyCode === 83) {
-    save(cnv, 'haiku_' + line1 + '_' + line2 + '_' + line3);
+    save(cnv, 'haiku_' + int(line1) + '_' + int(line2) + '_' + int(line3));
   } else {
     line1 = int(random(0, firstlines.length));
     line2 = int(random(0, firstlines.length));
@@ -958,7 +952,7 @@ let secondlines = [
   'so you can hear the whispers',
   'I will reach with all my time',
   'can reflect heavenly light',
-  'fill my soul with joy,love. In',
+  'fill my soul with joy, love. In',
   'swirls in your radiant light', //set19
   'that your trail will not be full',
   'contemplating reflection',
