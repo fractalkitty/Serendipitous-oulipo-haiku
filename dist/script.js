@@ -21,7 +21,7 @@ function setup() {
 
 function draw() {
   translate(0, -50);
-  background('#4d868c');
+  background('#d4c4b2');
   fill(50);
   //shadow rects
   rect(12, 185, width - 20, 30);

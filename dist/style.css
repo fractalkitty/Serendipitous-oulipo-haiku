@@ -6,11 +6,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #3d6d73;
+  background: #d4c4b2;
 }
+
 .wrapper {
   width: 250px;
 }
+
 #button {
   position: fixed;
   left: 30px;
@@ -37,8 +39,12 @@ body {
 }
 
 * {
-  -webkit-user-select: none; /* Safari */
-  -moz-user-select: none; /* Firefox */
-  -ms-user-select: none; /* IE10+/Edge */
-  user-select: none; /* Standard */
+  -webkit-user-select: none;
+  /* Safari */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* IE10+/Edge */
+  user-select: none;
+  /* Standard */
 }
