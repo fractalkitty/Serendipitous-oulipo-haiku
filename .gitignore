@@ -52,3 +52,5 @@ Thumbs.db
 *.temp
 crontab.txt
 .DS_Store
+**/*WebstormProjects*
+**/*fk*
