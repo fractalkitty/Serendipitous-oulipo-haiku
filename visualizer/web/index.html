@@ -1,0 +1,392 @@
+ <!DOCTYPE html>
+<html>
+ <head>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+   <style>
+     body {
+       margin: 0;
+       padding: 10px;
+       background-color: #adb6c4;
+       font-family: Arial, sans-serif;
+       overflow-x: hidden;
+       touch-action: manipulation;
+     }
+ 
+     .word-circle {
+       cursor: pointer;
+       transition: opacity 0.8s ease;
+       -webkit-tap-highlight-color: transparent;
+     }
+ 
+     .word-circle.dimmed {
+       opacity: 0.1;
+     }
+ 
+     .word-circle.highlighted {
+       opacity: 1;
+     }
+ 
+     .word-label {
+       opacity: 0;
+       transition: opacity 0.2s;
+       pointer-events: none;
+     }
+ 
+     g:hover .word-label {
+       opacity: 1;
+     }
+ 
+     @media (hover: none) {
+       g:active .word-label {
+         opacity: 1;
+       }
+     }
+ 
+     #modal {
+       display: none;
+       position: fixed;
+       top: 0;
+       left: 0;
+       width: 100%;
+       height: 100%;
+       background: rgba(0, 0, 0, 0.7);
+       z-index: 1000;
+       -webkit-overflow-scrolling: touch;
+     }
+ 
+     #modal.visible {
+       opacity: 1;
+     }
+ 
+     .modal-content {
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       margin: 0 auto;
+       width: 100%;
+       max-width: 95vw;
+       background: rgb(255, 255, 255, 0.3);
+       border-radius: 20px;
+       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+       padding: 10px;
+       box-sizing: border-box;
+     }
+ 
+     .close {
+       position: absolute;
+       right: 10px;
+       top: 10px;
+       width: 40px;
+       height: 40px;
+       background: #f3f4f6;
+       border: none;
+       border-radius: 50%;
+       cursor: pointer;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       font-size: 24px;
+       color: #666;
+       z-index: 2;
+       -webkit-tap-highlight-color: transparent;
+       touch-action: manipulation;
+     }
+ 
+     .close:hover {
+       background: #e5e7eb;
+     }
+ 
+     .haiku-node circle {
+       transition: fill 0.2s;
+       -webkit-tap-highlight-color: transparent;
+     }
+ 
+     .haiku-node text {
+       pointer-events: none;
+       user-select: none;
+       -webkit-user-select: none;
+     }
+ 
+     .center-word {
+       pointer-events: none;
+       text-anchor: middle;
+       dominant-baseline: middle;
+     }
+ 
+     .center-count {
+       pointer-events: none;
+       text-anchor: middle;
+       dominant-baseline: middle;
+       fill: #666;
+       font-size: 14px;
+     }
+ 
+     #haiku-display {
+       width: 100%;
+       max-width: min(500px, 90vw);
+       background: white;
+       padding: 15px;
+       border-radius: 10px;
+       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+       margin: -10px auto 10px auto;
+       text-align: center;
+       font-size: clamp(14px, 4vw, 16px);
+       line-height: 1.8;
+       height: min(250px, 50vh);
+       overflow: auto;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       -webkit-overflow-scrolling: touch;
+     }
+ 
+     @media (max-width: 480px) {
+       body {
+         padding: 5px;
+       }
+ 
+       .modal-content {
+         padding: 5px;
+       }
+ 
+       .close {
+         width: 36px;
+         height: 36px;
+         right: 5px;
+         top: 5px;
+       }
+ 
+       #haiku-display {
+         margin-top: 0;
+         padding: 10px;
+       }
+     }
+   </style>
+ </head>
+ <body>
+  <svg id="main-viz"></svg>
+  <div id="modal">
+    <div class="modal-content">
+      <span class="close">x</span>
+      <svg id="modal-viz"></svg>
+      <div id="haiku-display">
+        <p id="haiku-text"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+  <script>
+    const getOptimalDimensions = () => {
+      const padding = window.innerWidth <= 480 ? 10 : 40;
+      return {
+        width: window.innerWidth - padding,
+        height: window.innerHeight - padding
+      };
+    };
+    
+    let { width, height } = getOptimalDimensions();
+    
+    const svg = d3.select("#main-viz")
+      .attr("viewBox", `0 0 ${width} ${height}`)
+      .attr("preserveAspectRatio", "xMidYMid meet")
+      .style("width", "100%")
+      .style("height", "100vh");
+    
+    let haikuDataGlobal = [];
+    // Load both datasets
+    Promise.all([
+      d3.json("haiku_data.json"),
+      d3.json("haiku_word_cloud.json")
+    ]).then(([haikuData, cloudData]) => {
+      haikuDataGlobal = haikuData.haikus;
+      createVisualization(cloudData);
+    }).catch(error => console.error("Error loading data:", error));
+
+    function createVisualization(data) {
+      const root = {
+        name: "words",
+        children: data.map(d => ({
+          name: d.text,
+          value: d.size,
+          haiku_indices: d.haiku_indices
+        }))
+      };
+      const pack = d3.pack()
+        .size([width, height])
+        .padding(3);
+      const rootNode = d3.hierarchy(root)
+        .sum(d => d.value)
+        .sort((a, b) => b.value - a.value);
+      const nodes = pack(rootNode).descendants().slice(1);
+      const colorScale = d3.scaleSequential()
+        .domain([0, d3.max(data, d => d.size)])
+        .interpolator(d3.interpolateBlues);
+      const circles = svg.selectAll("g")
+        .data(nodes)
+        .join("g")
+        .attr("transform", d => `translate(${d.x},${d.y})`);
+      circles.append("circle")
+        .attr("class", "word-circle")
+        .attr("r", d => d.r)
+        .style("fill", d => colorScale(d.data.value))
+        .on("click", (event, d) => {
+          showHaikuCloud(d.data.name, d.data.value, d.data.haiku_indices);
+        })
+        .on("mouseover", (event, d) => {
+          highlightSharedHaikus(d.data.haiku_indices);
+        })
+        .on("mouseout", () => {
+          resetHighlighting();
+        });
+      circles.append("text")
+        .attr("class", "word-label")
+        .attr("text-anchor", "middle")
+        .attr("dy", "0.3em")
+        .style("font-size", d => Math.min(d.r * 0.8, 16) + "px")
+        .style("fill", d => d.data.value > d3.max(data, d => d.size) / 2 ? "white" : "black")
+        .text(d => d.data.name);
+
+      function highlightSharedHaikus(haikuIndices) {
+        svg.selectAll(".word-circle")
+          .classed("dimmed", true)
+          .classed("highlighted", false);
+        svg.selectAll("g")
+          .filter(d => {
+            if (!d || !d.data || !d.data.haiku_indices) return false;
+            return d.data.haiku_indices.some(index =>
+              haikuIndices.includes(index)
+            );
+          })
+          .select(".word-circle")
+          .classed("dimmed", false)
+          .classed("highlighted", true);
+      }
+
+      function resetHighlighting() {
+        svg.selectAll(".word-circle")
+          .classed("dimmed", false)
+          .classed("highlighted", false);
+      }
+    }
+
+    function showHaikuCloud(word, size, haikuIndices) {
+      document.getElementById("haiku-text").innerHTML = "";
+      modal.style.display = "block";
+      modal.offsetHeight;
+      modal.classList.add("visible");
+      
+      const modalSize = window.innerWidth <= 480 
+        ? Math.min(350, window.innerWidth * 0.9, window.innerHeight * 0.7)
+        : Math.min(500, window.innerWidth * 0.9, window.innerHeight * 0.8);
+    
+      const modalSvg = d3.select("#modal-viz")
+        .attr("width", modalSize)
+        .attr("height", modalSize);
+      
+      
+      modalSvg.selectAll("*").remove();
+      const centerX = modalSize / 2;
+      const centerY = modalSize / 2;
+      const radius = modalSize * 0.35;
+      const centerGroup = modalSvg.append("g")
+        .attr("transform", `translate(${centerX}, ${centerY})`);
+      centerGroup.append("circle")
+        .attr("r", modalSize * 0.15)
+        .style("fill", d3.interpolateBlues(0.7));
+      centerGroup.append("text")
+        .attr("class", "center-word")
+        .attr("dy", "-0.2em")
+        .style("fill", "white")
+        .style("font-size", "24px")
+        .style("font-weight", "bold")
+        .text(word);
+      centerGroup.append("text")
+        .attr("class", "center-count")
+        .attr("dy", "1.2em")
+        .style("fill", "white")
+        .text(`${size} times`);
+      const nodes = haikuIndices.map(index => ({
+        index: index,
+        x: centerX + Math.cos(Math.random() * 2 * Math.PI) * radius,
+        y: centerY + Math.sin(Math.random() * 2 * Math.PI) * radius,
+        r: modalSize * 0.04
+      }));
+      const simulation = d3.forceSimulation(nodes)
+        .force("center", d3.forceCenter(centerX, centerY))
+        .force("charge", d3.forceManyBody().strength(-50))
+        .force("collide", d3.forceCollide().radius(d => d.r * 1.5))
+        .force("radial", d3.forceRadial(radius * 0.6, centerX, centerY).strength(1))
+        .on("tick", updatePositions);
+      const nodeGroups = modalSvg.selectAll(".haiku-node")
+        .data(nodes)
+        .join("g")
+        .attr("class", "haiku-node");
+      nodeGroups.append("circle")
+        .attr("r", d => d.r)
+        .style("fill", d3.interpolateBlues(0.3))
+        .style("cursor", "pointer")
+        .on("mouseover", function(event, d) {
+          d3.select(this).style("fill", d3.interpolateBlues(0.6));
+          const haikuIndex = haikuIndices[d.index];
+          const haiku = haikuDataGlobal.find(h => Number(h.index) === haikuIndex);
+          const haikuText = haiku ? haiku.text.replace(/\n/g, "<br><br>") : "<em>Haiku not found</em>";
+          document.getElementById("haiku-text").innerHTML = `<strong>Haiku #${haikuIndex}</strong><br>${haikuText}`;
+        })
+        .on("mouseout", function() {
+          d3.select(this).style("fill", d3.interpolateBlues(0.3));
+        });
+      nodeGroups.append("text")
+        .attr("text-anchor", "middle")
+        .attr("dy", "0.35em")
+        .style("font-size", d => `${Math.max(d.r * 0.4, 10)}px`)
+        .text(d => haikuIndices[d.index]);
+
+      function updatePositions() {
+        nodeGroups.attr("transform", d => `translate(${d.x},${d.y})`);
+      }
+      const drag = d3.drag()
+        .on("start", (event, d) => {
+          if (!event.active) simulation.alphaTarget(0.3).restart();
+          d.fx = d.x;
+          d.fy = d.y;
+        })
+        .on("drag", (event, d) => {
+          d.fx = event.x;
+          d.fy = event.y;
+        })
+        .on("end", (event, d) => {
+          if (!event.active) simulation.alphaTarget(0);
+          d.fx = null;
+          d.fy = null;
+        });
+      nodeGroups.call(drag);
+    }
+
+    function closeModal() {
+      modal.classList.remove("visible");
+      document.querySelector(".modal-content").classList.remove("visible");
+      setTimeout(() => {
+        modal.style.display = "none";
+      }, 300);
+    }
+    document.querySelector(".close").onclick = closeModal;
+    window.onclick = (event) => {
+      if (event.target === modal) closeModal();
+    };
+    let resizeTimeout;
+    window.addEventListener("resize", () => {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(() => {
+        const { width: newWidth, height: newHeight } = getOptimalDimensions();
+        width = newWidth;
+        height = newHeight;
+        svg.attr("viewBox", `0 0 ${width} ${height}`);
+      }, 250);
+    });
+    
+  </script>
+</body>
+
+</html>

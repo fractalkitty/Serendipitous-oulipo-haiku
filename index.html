@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+          name="description"
+          content="Serendipitous Oulipo Haiku generates haikus based from the serendipitous-oulipo-haiku project."
+  />
+  <title>Serendipitous Oulipo Haiku</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="icon" type="image/x-icon" href="./logo.png" />
+  <link rel="alternate" type="application/rss+xml" title="so haiku | RSS" href="./rss.xml" />
+  <style>
+    .nav-container {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 1000;
+    }
+    #button,
+    #button2,
+    .nav-links {
+      display: block;
+      transition: transform 0.3s ease;
+    }
+    #button:hover,
+    #button2:hover,
+    .nav-links:hover {
+      transform: scale(1.1);
+    }
+    .nav-links {
+      background: rgba(255, 255, 255, 0.9);
+      padding: 10px;
+      border-radius: 5px;
+      text-decoration: none;
+      color: black;
+      text-align: center;
+      font-family: sans-serif;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+    .nav-links:hover {
+      background: rgba(255, 255, 255, 1);
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+  </style>
+</head>
+<body>
+<div class="nav-container">
+  <a
+          id="button"
+          href="https://fractalkitty.com/2022/04/03/serendipitous-oulipo-haiku/"
+          target="_blank"
+  >
+    <img
+            src="./logo.png"
+            alt="logo"
+    />
+  </a>
+  <div class="nav-links-container">
+    <a class="nav-links" href="./archive.html">Archive</a>
+    <a class="nav-links" href="./rss.xml">RSS</a>
+    <a class="nav-links" href="/visualizer/web/index.html"target="_blank">Visualization</a>
+  </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+<script src="./script.js"></script>
+</body>
+</html>

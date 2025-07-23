@@ -1,0 +1,11594 @@
+[
+  {
+    "text": "serendipity",
+    "size": 3,
+    "haiku_indices": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "text": "sky",
+    "size": 27,
+    "haiku_indices": [
+      1,
+      22,
+      26,
+      55,
+      58,
+      60,
+      90,
+      104,
+      158,
+      190,
+      253,
+      257,
+      267,
+      269,
+      273,
+      303,
+      309,
+      320,
+      323,
+      324,
+      334,
+      335,
+      339,
+      352,
+      356,
+      378,
+      417
+    ]
+  },
+  {
+    "text": "sits",
+    "size": 2,
+    "haiku_indices": [
+      1,
+      59
+    ]
+  },
+  {
+    "text": "ground",
+    "size": 4,
+    "haiku_indices": [
+      1,
+      52,
+      159,
+      237
+    ]
+  },
+  {
+    "text": "contained",
+    "size": 1,
+    "haiku_indices": [
+      1
+    ]
+  },
+  {
+    "text": "within",
+    "size": 12,
+    "haiku_indices": [
+      1,
+      25,
+      55,
+      67,
+      148,
+      154,
+      170,
+      254,
+      346,
+      364,
+      382,
+      406
+    ]
+  },
+  {
+    "text": "puddles",
+    "size": 5,
+    "haiku_indices": [
+      1,
+      2,
+      80,
+      104,
+      359
+    ]
+  },
+  {
+    "text": "clouds",
+    "size": 17,
+    "haiku_indices": [
+      1,
+      5,
+      51,
+      55,
+      119,
+      151,
+      153,
+      156,
+      204,
+      241,
+      253,
+      260,
+      273,
+      287,
+      311,
+      346,
+      375
+    ]
+  },
+  {
+    "text": "splash",
+    "size": 1,
+    "haiku_indices": [
+      1
+    ]
+  },
+  {
+    "text": "feet",
+    "size": 8,
+    "haiku_indices": [
+      1,
+      20,
+      128,
+      164,
+      234,
+      294,
+      368,
+      394
+    ]
+  },
+  {
+    "text": "beautiful",
+    "size": 5,
+    "haiku_indices": [
+      2,
+      13,
+      205,
+      220,
+      313
+    ]
+  },
+  {
+    "text": "run",
+    "size": 7,
+    "haiku_indices": [
+      2,
+      128,
+      250,
+      268,
+      304,
+      386,
+      388
+    ]
+  },
+  {
+    "text": "crows",
+    "size": 4,
+    "haiku_indices": [
+      2,
+      34,
+      61,
+      63
+    ]
+  },
+  {
+    "text": "trees",
+    "size": 14,
+    "haiku_indices": [
+      2,
+      10,
+      30,
+      39,
+      82,
+      85,
+      90,
+      105,
+      142,
+      178,
+      287,
+      316,
+      369,
+      399
+    ]
+  },
+  {
+    "text": "watch",
+    "size": 2,
+    "haiku_indices": [
+      2,
+      205
+    ]
+  },
+  {
+    "text": "smile",
+    "size": 4,
+    "haiku_indices": [
+      2,
+      186,
+      196,
+      275
+    ]
+  },
+  {
+    "text": "rain",
+    "size": 3,
+    "haiku_indices": [
+      3,
+      315,
+      417
+    ]
+  },
+  {
+    "text": "winter",
+    "size": 9,
+    "haiku_indices": [
+      3,
+      6,
+      9,
+      15,
+      42,
+      45,
+      311,
+      336,
+      338
+    ]
+  },
+  {
+    "text": "closest",
+    "size": 1,
+    "haiku_indices": [
+      3
+    ]
+  },
+  {
+    "text": "sun",
+    "size": 9,
+    "haiku_indices": [
+      3,
+      6,
+      65,
+      142,
+      175,
+      178,
+      239,
+      256,
+      338
+    ]
+  },
+  {
+    "text": "today",
+    "size": 7,
+    "haiku_indices": [
+      3,
+      4,
+      9,
+      102,
+      109,
+      315,
+      317
+    ]
+  },
+  {
+    "text": "hide",
+    "size": 1,
+    "haiku_indices": [
+      3
+    ]
+  },
+  {
+    "text": "aphelion",
+    "size": 1,
+    "haiku_indices": [
+      3
+    ]
+  },
+  {
+    "text": "cup",
+    "size": 3,
+    "haiku_indices": [
+      4,
+      201,
+      233
+    ]
+  },
+  {
+    "text": "coffee",
+    "size": 3,
+    "haiku_indices": [
+      4,
+      201,
+      233
+    ]
+  },
+  {
+    "text": "smell",
+    "size": 1,
+    "haiku_indices": [
+      4
+    ]
+  },
+  {
+    "text": "taste",
+    "size": 1,
+    "haiku_indices": [
+      4
+    ]
+  },
+  {
+    "text": "awake",
+    "size": 2,
+    "haiku_indices": [
+      4,
+      112
+    ]
+  },
+  {
+    "text": "good",
+    "size": 5,
+    "haiku_indices": [
+      4,
+      5,
+      109,
+      229,
+      230
+    ]
+  },
+  {
+    "text": "morning",
+    "size": 6,
+    "haiku_indices": [
+      4,
+      5,
+      8,
+      23,
+      230,
+      414
+    ]
+  },
+  {
+    "text": "wake",
+    "size": 2,
+    "haiku_indices": [
+      5,
+      230
+    ]
+  },
+  {
+    "text": "hug",
+    "size": 6,
+    "haiku_indices": [
+      5,
+      46,
+      96,
+      234,
+      252,
+      330
+    ]
+  },
+  {
+    "text": "pink",
+    "size": 2,
+    "haiku_indices": [
+      5,
+      259
+    ]
+  },
+  {
+    "text": "wrap",
+    "size": 2,
+    "haiku_indices": [
+      5,
+      46
+    ]
+  },
+  {
+    "text": "around",
+    "size": 6,
+    "haiku_indices": [
+      5,
+      17,
+      88,
+      174,
+      260,
+      413
+    ]
+  },
+  {
+    "text": "eyes",
+    "size": 3,
+    "haiku_indices": [
+      5,
+      50,
+      291
+    ]
+  },
+  {
+    "text": "glory",
+    "size": 2,
+    "haiku_indices": [
+      5,
+      177
+    ]
+  },
+  {
+    "text": "gives",
+    "size": 3,
+    "haiku_indices": [
+      6,
+      107,
+      181
+    ]
+  },
+  {
+    "text": "hints",
+    "size": 4,
+    "haiku_indices": [
+      6,
+      51,
+      71,
+      345
+    ]
+  },
+  {
+    "text": "like",
+    "size": 19,
+    "haiku_indices": [
+      6,
+      8,
+      12,
+      16,
+      83,
+      100,
+      103,
+      161,
+      167,
+      184,
+      188,
+      189,
+      242,
+      254,
+      306,
+      314,
+      347,
+      385,
+      402
+    ]
+  },
+  {
+    "text": "love",
+    "size": 10,
+    "haiku_indices": [
+      6,
+      72,
+      133,
+      134,
+      158,
+      256,
+      275,
+      315,
+      360,
+      395
+    ]
+  },
+  {
+    "text": "note",
+    "size": 1,
+    "haiku_indices": [
+      6
+    ]
+  },
+  {
+    "text": "morn",
+    "size": 2,
+    "haiku_indices": [
+      6,
+      23
+    ]
+  },
+  {
+    "text": "glow",
+    "size": 3,
+    "haiku_indices": [
+      6,
+      15,
+      289
+    ]
+  },
+  {
+    "text": "warmth",
+    "size": 5,
+    "haiku_indices": [
+      6,
+      21,
+      100,
+      133,
+      148
+    ]
+  },
+  {
+    "text": "hoya",
+    "size": 1,
+    "haiku_indices": [
+      7
+    ]
+  },
+  {
+    "text": "nana",
+    "size": 3,
+    "haiku_indices": [
+      7,
+      177,
+      196
+    ]
+  },
+  {
+    "text": "generations",
+    "size": 3,
+    "haiku_indices": [
+      7,
+      32,
+      166
+    ]
+  },
+  {
+    "text": "green",
+    "size": 4,
+    "haiku_indices": [
+      7,
+      107,
+      123,
+      227
+    ]
+  },
+  {
+    "text": "full",
+    "size": 4,
+    "haiku_indices": [
+      7,
+      89,
+      188,
+      362
+    ]
+  },
+  {
+    "text": "blooming",
+    "size": 2,
+    "haiku_indices": [
+      7,
+      14
+    ]
+  },
+  {
+    "text": "sill",
+    "size": 1,
+    "haiku_indices": [
+      7
+    ]
+  },
+  {
+    "text": "foggy",
+    "size": 1,
+    "haiku_indices": [
+      8
+    ]
+  },
+  {
+    "text": "faint",
+    "size": 2,
+    "haiku_indices": [
+      8,
+      22
+    ]
+  },
+  {
+    "text": "branches",
+    "size": 10,
+    "haiku_indices": [
+      8,
+      21,
+      22,
+      30,
+      95,
+      156,
+      276,
+      370,
+      383,
+      410
+    ]
+  },
+  {
+    "text": "white",
+    "size": 10,
+    "haiku_indices": [
+      8,
+      26,
+      51,
+      74,
+      107,
+      231,
+      273,
+      361,
+      399,
+      411
+    ]
+  },
+  {
+    "text": "sea",
+    "size": 7,
+    "haiku_indices": [
+      8,
+      12,
+      71,
+      215,
+      323,
+      346,
+      369
+    ]
+  },
+  {
+    "text": "old",
+    "size": 3,
+    "haiku_indices": [
+      8,
+      166,
+      221
+    ]
+  },
+  {
+    "text": "memories",
+    "size": 2,
+    "haiku_indices": [
+      8,
+      103
+    ]
+  },
+  {
+    "text": "fog",
+    "size": 3,
+    "haiku_indices": [
+      9,
+      12,
+      357
+    ]
+  },
+  {
+    "text": "yet",
+    "size": 6,
+    "haiku_indices": [
+      9,
+      167,
+      188,
+      219,
+      304,
+      398
+    ]
+  },
+  {
+    "text": "different",
+    "size": 3,
+    "haiku_indices": [
+      9,
+      270,
+      304
+    ]
+  },
+  {
+    "text": "fractal",
+    "size": 3,
+    "haiku_indices": [
+      9,
+      218,
+      405
+    ]
+  },
+  {
+    "text": "days",
+    "size": 11,
+    "haiku_indices": [
+      9,
+      132,
+      179,
+      239,
+      243,
+      264,
+      269,
+      285,
+      301,
+      304,
+      311
+    ]
+  },
+  {
+    "text": "wind",
+    "size": 6,
+    "haiku_indices": [
+      10,
+      259,
+      283,
+      340,
+      353,
+      367
+    ]
+  },
+  {
+    "text": "gusts",
+    "size": 1,
+    "haiku_indices": [
+      10
+    ]
+  },
+  {
+    "text": "bending",
+    "size": 1,
+    "haiku_indices": [
+      10
+    ]
+  },
+  {
+    "text": "hummingbird",
+    "size": 4,
+    "haiku_indices": [
+      10,
+      115,
+      297,
+      396
+    ]
+  },
+  {
+    "text": "stands",
+    "size": 2,
+    "haiku_indices": [
+      10,
+      404
+    ]
+  },
+  {
+    "text": "firm",
+    "size": 2,
+    "haiku_indices": [
+      10,
+      261
+    ]
+  },
+  {
+    "text": "still",
+    "size": 13,
+    "haiku_indices": [
+      10,
+      48,
+      68,
+      108,
+      153,
+      209,
+      219,
+      249,
+      251,
+      256,
+      322,
+      401,
+      404
+    ]
+  },
+  {
+    "text": "strength",
+    "size": 1,
+    "haiku_indices": [
+      10
+    ]
+  },
+  {
+    "text": "small",
+    "size": 10,
+    "haiku_indices": [
+      10,
+      47,
+      71,
+      197,
+      234,
+      244,
+      252,
+      286,
+      411,
+      416
+    ]
+  },
+  {
+    "text": "life",
+    "size": 35,
+    "haiku_indices": [
+      10,
+      13,
+      31,
+      38,
+      41,
+      45,
+      46,
+      67,
+      78,
+      81,
+      89,
+      91,
+      92,
+      105,
+      117,
+      131,
+      154,
+      160,
+      162,
+      181,
+      194,
+      195,
+      219,
+      243,
+      249,
+      262,
+      268,
+      286,
+      321,
+      325,
+      332,
+      353,
+      376,
+      390,
+      413
+    ]
+  },
+  {
+    "text": "teaching",
+    "size": 1,
+    "haiku_indices": [
+      11
+    ]
+  },
+  {
+    "text": "math",
+    "size": 2,
+    "haiku_indices": [
+      11,
+      214
+    ]
+  },
+  {
+    "text": "day",
+    "size": 5,
+    "haiku_indices": [
+      11,
+      204,
+      227,
+      283,
+      387
+    ]
+  },
+  {
+    "text": "sine",
+    "size": 2,
+    "haiku_indices": [
+      11,
+      273
+    ]
+  },
+  {
+    "text": "cosine",
+    "size": 1,
+    "haiku_indices": [
+      11
+    ]
+  },
+  {
+    "text": "tangents",
+    "size": 1,
+    "haiku_indices": [
+      11
+    ]
+  },
+  {
+    "text": "function",
+    "size": 1,
+    "haiku_indices": [
+      11
+    ]
+  },
+  {
+    "text": "swimming",
+    "size": 1,
+    "haiku_indices": [
+      12
+    ]
+  },
+  {
+    "text": "droplets",
+    "size": 1,
+    "haiku_indices": [
+      12
+    ]
+  },
+  {
+    "text": "bubbles",
+    "size": 4,
+    "haiku_indices": [
+      12,
+      103,
+      158,
+      373
+    ]
+  },
+  {
+    "text": "air",
+    "size": 5,
+    "haiku_indices": [
+      12,
+      41,
+      46,
+      46,
+      266
+    ]
+  },
+  {
+    "text": "rolls",
+    "size": 1,
+    "haiku_indices": [
+      12
+    ]
+  },
+  {
+    "text": "tide",
+    "size": 5,
+    "haiku_indices": [
+      12,
+      82,
+      326,
+      347,
+      383
+    ]
+  },
+  {
+    "text": "pentagonal",
+    "size": 1,
+    "haiku_indices": [
+      13
+    ]
+  },
+  {
+    "text": "perfect",
+    "size": 3,
+    "haiku_indices": [
+      13,
+      158,
+      385
+    ]
+  },
+  {
+    "text": "flowers",
+    "size": 6,
+    "haiku_indices": [
+      13,
+      115,
+      171,
+      180,
+      191,
+      198
+    ]
+  },
+  {
+    "text": "beauty",
+    "size": 12,
+    "haiku_indices": [
+      13,
+      14,
+      28,
+      33,
+      67,
+      70,
+      92,
+      99,
+      154,
+      180,
+      223,
+      374
+    ]
+  },
+  {
+    "text": "abound",
+    "size": 2,
+    "haiku_indices": [
+      13,
+      67
+    ]
+  },
+  {
+    "text": "silver",
+    "size": 2,
+    "haiku_indices": [
+      14,
+      375
+    ]
+  },
+  {
+    "text": "lining",
+    "size": 1,
+    "haiku_indices": [
+      14
+    ]
+  },
+  {
+    "text": "orchid",
+    "size": 2,
+    "haiku_indices": [
+      14,
+      113
+    ]
+  },
+  {
+    "text": "year",
+    "size": 2,
+    "haiku_indices": [
+      14,
+      196
+    ]
+  },
+  {
+    "text": "home",
+    "size": 3,
+    "haiku_indices": [
+      14,
+      282,
+      297
+    ]
+  },
+  {
+    "text": "townsend",
+    "size": 1,
+    "haiku_indices": [
+      15
+    ]
+  },
+  {
+    "text": "warbler",
+    "size": 2,
+    "haiku_indices": [
+      15,
+      37
+    ]
+  },
+  {
+    "text": "yellow",
+    "size": 2,
+    "haiku_indices": [
+      15,
+      58
+    ]
+  },
+  {
+    "text": "streaks",
+    "size": 1,
+    "haiku_indices": [
+      15
+    ]
+  },
+  {
+    "text": "backyard",
+    "size": 1,
+    "haiku_indices": [
+      15
+    ]
+  },
+  {
+    "text": "fluffy",
+    "size": 1,
+    "haiku_indices": [
+      16
+    ]
+  },
+  {
+    "text": "whip",
+    "size": 1,
+    "haiku_indices": [
+      16
+    ]
+  },
+  {
+    "text": "chaotic",
+    "size": 2,
+    "haiku_indices": [
+      16,
+      147
+    ]
+  },
+  {
+    "text": "angry",
+    "size": 1,
+    "haiku_indices": [
+      16
+    ]
+  },
+  {
+    "text": "squirrel",
+    "size": 1,
+    "haiku_indices": [
+      16
+    ]
+  },
+  {
+    "text": "tail",
+    "size": 1,
+    "haiku_indices": [
+      16
+    ]
+  },
+  {
+    "text": "scolds",
+    "size": 1,
+    "haiku_indices": [
+      16
+    ]
+  },
+  {
+    "text": "path",
+    "size": 14,
+    "haiku_indices": [
+      17,
+      66,
+      94,
+      199,
+      210,
+      240,
+      253,
+      307,
+      329,
+      338,
+      364,
+      377,
+      397,
+      401
+    ]
+  },
+  {
+    "text": "flooded",
+    "size": 1,
+    "haiku_indices": [
+      17
+    ]
+  },
+  {
+    "text": "moment",
+    "size": 7,
+    "haiku_indices": [
+      17,
+      31,
+      53,
+      54,
+      69,
+      73,
+      379
+    ]
+  },
+  {
+    "text": "reflection",
+    "size": 6,
+    "haiku_indices": [
+      17,
+      80,
+      223,
+      284,
+      319,
+      363
+    ]
+  },
+  {
+    "text": "turn",
+    "size": 4,
+    "haiku_indices": [
+      17,
+      142,
+      267,
+      279
+    ]
+  },
+  {
+    "text": "base",
+    "size": 1,
+    "haiku_indices": [
+      18
+    ]
+  },
+  {
+    "text": "thirteen",
+    "size": 1,
+    "haiku_indices": [
+      18
+    ]
+  },
+  {
+    "text": "would",
+    "size": 2,
+    "haiku_indices": [
+      18,
+      180
+    ]
+  },
+  {
+    "text": "interesting",
+    "size": 1,
+    "haiku_indices": [
+      18
+    ]
+  },
+  {
+    "text": "thought",
+    "size": 12,
+    "haiku_indices": [
+      18,
+      55,
+      93,
+      180,
+      211,
+      217,
+      298,
+      331,
+      379,
+      380,
+      389,
+      412
+    ]
+  },
+  {
+    "text": "units",
+    "size": 1,
+    "haiku_indices": [
+      18
+    ]
+  },
+  {
+    "text": "isnt",
+    "size": 1,
+    "haiku_indices": [
+      19
+    ]
+  },
+  {
+    "text": "solstace",
+    "size": 1,
+    "haiku_indices": [
+      19
+    ]
+  },
+  {
+    "text": "years",
+    "size": 3,
+    "haiku_indices": [
+      19,
+      132,
+      221
+    ]
+  },
+  {
+    "text": "end",
+    "size": 2,
+    "haiku_indices": [
+      19,
+      228
+    ]
+  },
+  {
+    "text": "beginning",
+    "size": 1,
+    "haiku_indices": [
+      19
+    ]
+  },
+  {
+    "text": "space",
+    "size": 6,
+    "haiku_indices": [
+      19,
+      55,
+      120,
+      188,
+      217,
+      331
+    ]
+  },
+  {
+    "text": "paths",
+    "size": 5,
+    "haiku_indices": [
+      20,
+      86,
+      128,
+      300,
+      304
+    ]
+  },
+  {
+    "text": "beneath",
+    "size": 10,
+    "haiku_indices": [
+      20,
+      55,
+      74,
+      96,
+      178,
+      294,
+      368,
+      380,
+      411,
+      417
+    ]
+  },
+  {
+    "text": "nodes",
+    "size": 2,
+    "haiku_indices": [
+      20,
+      285
+    ]
+  },
+  {
+    "text": "past",
+    "size": 3,
+    "haiku_indices": [
+      20,
+      163,
+      406
+    ]
+  },
+  {
+    "text": "future",
+    "size": 1,
+    "haiku_indices": [
+      20
+    ]
+  },
+  {
+    "text": "graphs",
+    "size": 1,
+    "haiku_indices": [
+      20
+    ]
+  },
+  {
+    "text": "crow",
+    "size": 4,
+    "haiku_indices": [
+      21,
+      24,
+      48,
+      59
+    ]
+  },
+  {
+    "text": "grabs",
+    "size": 1,
+    "haiku_indices": [
+      21
+    ]
+  },
+  {
+    "text": "sunlight",
+    "size": 3,
+    "haiku_indices": [
+      21,
+      104,
+      287
+    ]
+  },
+  {
+    "text": "catching",
+    "size": 3,
+    "haiku_indices": [
+      21,
+      195,
+      231
+    ]
+  },
+  {
+    "text": "top",
+    "size": 3,
+    "haiku_indices": [
+      21,
+      24,
+      156
+    ]
+  },
+  {
+    "text": "black",
+    "size": 2,
+    "haiku_indices": [
+      21,
+      33
+    ]
+  },
+  {
+    "text": "feathers",
+    "size": 4,
+    "haiku_indices": [
+      21,
+      151,
+      165,
+      185
+    ]
+  },
+  {
+    "text": "dusk",
+    "size": 3,
+    "haiku_indices": [
+      21,
+      259,
+      292
+    ]
+  },
+  {
+    "text": "little",
+    "size": 16,
+    "haiku_indices": [
+      22,
+      66,
+      101,
+      141,
+      164,
+      185,
+      205,
+      231,
+      262,
+      286,
+      336,
+      360,
+      363,
+      396,
+      408,
+      414
+    ]
+  },
+  {
+    "text": "circle",
+    "size": 1,
+    "haiku_indices": [
+      22
+    ]
+  },
+  {
+    "text": "partially",
+    "size": 1,
+    "haiku_indices": [
+      22
+    ]
+  },
+  {
+    "text": "obscured",
+    "size": 1,
+    "haiku_indices": [
+      22
+    ]
+  },
+  {
+    "text": "reach",
+    "size": 9,
+    "haiku_indices": [
+      22,
+      50,
+      101,
+      226,
+      328,
+      330,
+      358,
+      377,
+      410
+    ]
+  },
+  {
+    "text": "yearning",
+    "size": 1,
+    "haiku_indices": [
+      22
+    ]
+  },
+  {
+    "text": "early",
+    "size": 1,
+    "haiku_indices": [
+      23
+    ]
+  },
+  {
+    "text": "song",
+    "size": 1,
+    "haiku_indices": [
+      23
+    ]
+  },
+  {
+    "text": "vibrato",
+    "size": 1,
+    "haiku_indices": [
+      23
+    ]
+  },
+  {
+    "text": "pierces",
+    "size": 1,
+    "haiku_indices": [
+      23
+    ]
+  },
+  {
+    "text": "birds",
+    "size": 6,
+    "haiku_indices": [
+      23,
+      32,
+      199,
+      225,
+      233,
+      379
+    ]
+  },
+  {
+    "text": "rouse",
+    "size": 1,
+    "haiku_indices": [
+      23
+    ]
+  },
+  {
+    "text": "whole",
+    "size": 1,
+    "haiku_indices": [
+      23
+    ]
+  },
+  {
+    "text": "earth",
+    "size": 16,
+    "haiku_indices": [
+      23,
+      41,
+      77,
+      105,
+      134,
+      229,
+      293,
+      319,
+      320,
+      323,
+      324,
+      351,
+      390,
+      394,
+      400,
+      403
+    ]
+  },
+  {
+    "text": "tip",
+    "size": 1,
+    "haiku_indices": [
+      24
+    ]
+  },
+  {
+    "text": "fir",
+    "size": 2,
+    "haiku_indices": [
+      24,
+      399
+    ]
+  },
+  {
+    "text": "tree",
+    "size": 6,
+    "haiku_indices": [
+      24,
+      46,
+      64,
+      80,
+      197,
+      396
+    ]
+  },
+  {
+    "text": "claim",
+    "size": 1,
+    "haiku_indices": [
+      24
+    ]
+  },
+  {
+    "text": "branch",
+    "size": 1,
+    "haiku_indices": [
+      24
+    ]
+  },
+  {
+    "text": "caw",
+    "size": 1,
+    "haiku_indices": [
+      24
+    ]
+  },
+  {
+    "text": "announce",
+    "size": 1,
+    "haiku_indices": [
+      24
+    ]
+  },
+  {
+    "text": "sunset",
+    "size": 2,
+    "haiku_indices": [
+      24,
+      314
+    ]
+  },
+  {
+    "text": "images",
+    "size": 1,
+    "haiku_indices": [
+      25
+    ]
+  },
+  {
+    "text": "vivid",
+    "size": 2,
+    "haiku_indices": [
+      25,
+      95
+    ]
+  },
+  {
+    "text": "inner",
+    "size": 3,
+    "haiku_indices": [
+      25,
+      229,
+      381
+    ]
+  },
+  {
+    "text": "gratitude",
+    "size": 4,
+    "haiku_indices": [
+      25,
+      111,
+      122,
+      264
+    ]
+  },
+  {
+    "text": "place",
+    "size": 3,
+    "haiku_indices": [
+      25,
+      335,
+      356
+    ]
+  },
+  {
+    "text": "gather",
+    "size": 6,
+    "haiku_indices": [
+      25,
+      51,
+      161,
+      270,
+      312,
+      336
+    ]
+  },
+  {
+    "text": "twisted",
+    "size": 1,
+    "haiku_indices": [
+      26
+    ]
+  },
+  {
+    "text": "growth",
+    "size": 8,
+    "haiku_indices": [
+      26,
+      38,
+      166,
+      186,
+      266,
+      380,
+      399,
+      411
+    ]
+  },
+  {
+    "text": "holding",
+    "size": 3,
+    "haiku_indices": [
+      26,
+      168,
+      410
+    ]
+  },
+  {
+    "text": "tangled",
+    "size": 3,
+    "haiku_indices": [
+      26,
+      342,
+      367
+    ]
+  },
+  {
+    "text": "limbs",
+    "size": 2,
+    "haiku_indices": [
+      26,
+      367
+    ]
+  },
+  {
+    "text": "silhouette",
+    "size": 2,
+    "haiku_indices": [
+      26,
+      267
+    ]
+  },
+  {
+    "text": "oak",
+    "size": 1,
+    "haiku_indices": [
+      26
+    ]
+  },
+  {
+    "text": "look",
+    "size": 12,
+    "haiku_indices": [
+      27,
+      28,
+      39,
+      200,
+      263,
+      265,
+      270,
+      284,
+      325,
+      339,
+      359,
+      377
+    ]
+  },
+  {
+    "text": "perspective",
+    "size": 2,
+    "haiku_indices": [
+      27,
+      323
+    ]
+  },
+  {
+    "text": "cedars",
+    "size": 1,
+    "haiku_indices": [
+      27
+    ]
+  },
+  {
+    "text": "converge",
+    "size": 1,
+    "haiku_indices": [
+      27
+    ]
+  },
+  {
+    "text": "together",
+    "size": 8,
+    "haiku_indices": [
+      27,
+      32,
+      64,
+      161,
+      166,
+      212,
+      281,
+      382
+    ]
+  },
+  {
+    "text": "whispering",
+    "size": 2,
+    "haiku_indices": [
+      27,
+      315
+    ]
+  },
+  {
+    "text": "blue",
+    "size": 4,
+    "haiku_indices": [
+      27,
+      51,
+      352,
+      352
+    ]
+  },
+  {
+    "text": "mind",
+    "size": 5,
+    "haiku_indices": [
+      28,
+      44,
+      55,
+      211,
+      222
+    ]
+  },
+  {
+    "text": "inwards",
+    "size": 1,
+    "haiku_indices": [
+      28
+    ]
+  },
+  {
+    "text": "boundlessness",
+    "size": 1,
+    "haiku_indices": [
+      28
+    ]
+  },
+  {
+    "text": "uncountable",
+    "size": 1,
+    "haiku_indices": [
+      28
+    ]
+  },
+  {
+    "text": "ribbons",
+    "size": 1,
+    "haiku_indices": [
+      29
+    ]
+  },
+  {
+    "text": "fungus",
+    "size": 1,
+    "haiku_indices": [
+      29
+    ]
+  },
+  {
+    "text": "gossamer",
+    "size": 2,
+    "haiku_indices": [
+      29,
+      175
+    ]
+  },
+  {
+    "text": "laced",
+    "size": 1,
+    "haiku_indices": [
+      29
+    ]
+  },
+  {
+    "text": "water",
+    "size": 6,
+    "haiku_indices": [
+      29,
+      35,
+      220,
+      351,
+      354,
+      362
+    ]
+  },
+  {
+    "text": "beads",
+    "size": 1,
+    "haiku_indices": [
+      29
+    ]
+  },
+  {
+    "text": "lifes",
+    "size": 5,
+    "haiku_indices": [
+      29,
+      54,
+      128,
+      182,
+      232
+    ]
+  },
+  {
+    "text": "intricacies",
+    "size": 1,
+    "haiku_indices": [
+      29
+    ]
+  },
+  {
+    "text": "modest",
+    "size": 2,
+    "haiku_indices": [
+      30,
+      369
+    ]
+  },
+  {
+    "text": "moss",
+    "size": 5,
+    "haiku_indices": [
+      30,
+      75,
+      105,
+      197,
+      388
+    ]
+  },
+  {
+    "text": "draping",
+    "size": 1,
+    "haiku_indices": [
+      30
+    ]
+  },
+  {
+    "text": "hidden",
+    "size": 6,
+    "haiku_indices": [
+      30,
+      71,
+      97,
+      113,
+      200,
+      391
+    ]
+  },
+  {
+    "text": "wood",
+    "size": 1,
+    "haiku_indices": [
+      30
+    ]
+  },
+  {
+    "text": "splashing",
+    "size": 1,
+    "haiku_indices": [
+      31
+    ]
+  },
+  {
+    "text": "pure",
+    "size": 1,
+    "haiku_indices": [
+      31
+    ]
+  },
+  {
+    "text": "joy",
+    "size": 12,
+    "haiku_indices": [
+      31,
+      44,
+      65,
+      155,
+      162,
+      186,
+      201,
+      227,
+      265,
+      360,
+      391,
+      408
+    ]
+  },
+  {
+    "text": "immersing",
+    "size": 1,
+    "haiku_indices": [
+      31
+    ]
+  },
+  {
+    "text": "three",
+    "size": 1,
+    "haiku_indices": [
+      32
+    ]
+  },
+  {
+    "text": "watching",
+    "size": 1,
+    "haiku_indices": [
+      32
+    ]
+  },
+  {
+    "text": "quiet",
+    "size": 7,
+    "haiku_indices": [
+      32,
+      48,
+      259,
+      266,
+      277,
+      308,
+      389
+    ]
+  },
+  {
+    "text": "etched",
+    "size": 1,
+    "haiku_indices": [
+      32
+    ]
+  },
+  {
+    "text": "time",
+    "size": 18,
+    "haiku_indices": [
+      32,
+      38,
+      54,
+      75,
+      83,
+      87,
+      95,
+      126,
+      165,
+      193,
+      204,
+      224,
+      285,
+      291,
+      331,
+      340,
+      355,
+      358
+    ]
+  },
+  {
+    "text": "soft",
+    "size": 4,
+    "haiku_indices": [
+      33,
+      104,
+      272,
+      308
+    ]
+  },
+  {
+    "text": "powder",
+    "size": 1,
+    "haiku_indices": [
+      33
+    ]
+  },
+  {
+    "text": "stick",
+    "size": 2,
+    "haiku_indices": [
+      33,
+      60
+    ]
+  },
+  {
+    "text": "raw",
+    "size": 1,
+    "haiku_indices": [
+      33
+    ]
+  },
+  {
+    "text": "transforms",
+    "size": 1,
+    "haiku_indices": [
+      33
+    ]
+  },
+  {
+    "text": "charcoal",
+    "size": 1,
+    "haiku_indices": [
+      33
+    ]
+  },
+  {
+    "text": "paper",
+    "size": 2,
+    "haiku_indices": [
+      33,
+      70
+    ]
+  },
+  {
+    "text": "probability",
+    "size": 1,
+    "haiku_indices": [
+      34
+    ]
+  },
+  {
+    "text": "checking",
+    "size": 1,
+    "haiku_indices": [
+      34
+    ]
+  },
+  {
+    "text": "leaf",
+    "size": 3,
+    "haiku_indices": [
+      34,
+      42,
+      396
+    ]
+  },
+  {
+    "text": "p",
+    "size": 1,
+    "haiku_indices": [
+      34
+    ]
+  },
+  {
+    "text": "finding",
+    "size": 2,
+    "haiku_indices": [
+      34,
+      168
+    ]
+  },
+  {
+    "text": "nuts",
+    "size": 1,
+    "haiku_indices": [
+      34
+    ]
+  },
+  {
+    "text": "nested",
+    "size": 1,
+    "haiku_indices": [
+      35
+    ]
+  },
+  {
+    "text": "circles",
+    "size": 6,
+    "haiku_indices": [
+      35,
+      41,
+      103,
+      126,
+      191,
+      212
+    ]
+  },
+  {
+    "text": "ripples",
+    "size": 2,
+    "haiku_indices": [
+      35,
+      221
+    ]
+  },
+  {
+    "text": "raindrops",
+    "size": 3,
+    "haiku_indices": [
+      35,
+      301,
+      312
+    ]
+  },
+  {
+    "text": "expand",
+    "size": 1,
+    "haiku_indices": [
+      35
+    ]
+  },
+  {
+    "text": "glitches",
+    "size": 1,
+    "haiku_indices": [
+      35
+    ]
+  },
+  {
+    "text": "various",
+    "size": 1,
+    "haiku_indices": [
+      36
+    ]
+  },
+  {
+    "text": "vs",
+    "size": 1,
+    "haiku_indices": [
+      36
+    ]
+  },
+  {
+    "text": "configurations",
+    "size": 1,
+    "haiku_indices": [
+      36
+    ]
+  },
+  {
+    "text": "flight",
+    "size": 9,
+    "haiku_indices": [
+      36,
+      61,
+      64,
+      108,
+      123,
+      153,
+      165,
+      366,
+      415
+    ]
+  },
+  {
+    "text": "absolute",
+    "size": 2,
+    "haiku_indices": [
+      36,
+      154
+    ]
+  },
+  {
+    "text": "values",
+    "size": 1,
+    "haiku_indices": [
+      36
+    ]
+  },
+  {
+    "text": "yellowrumped",
+    "size": 1,
+    "haiku_indices": [
+      37
+    ]
+  },
+  {
+    "text": "flit",
+    "size": 2,
+    "haiku_indices": [
+      37,
+      199
+    ]
+  },
+  {
+    "text": "fly",
+    "size": 7,
+    "haiku_indices": [
+      37,
+      98,
+      141,
+      202,
+      238,
+      340,
+      391
+    ]
+  },
+  {
+    "text": "jump",
+    "size": 1,
+    "haiku_indices": [
+      37
+    ]
+  },
+  {
+    "text": "play",
+    "size": 6,
+    "haiku_indices": [
+      37,
+      76,
+      76,
+      81,
+      162,
+      391
+    ]
+  },
+  {
+    "text": "pierce",
+    "size": 1,
+    "haiku_indices": [
+      37
+    ]
+  },
+  {
+    "text": "gray",
+    "size": 1,
+    "haiku_indices": [
+      37
+    ]
+  },
+  {
+    "text": "harbinger",
+    "size": 1,
+    "haiku_indices": [
+      37
+    ]
+  },
+  {
+    "text": "spring",
+    "size": 7,
+    "haiku_indices": [
+      37,
+      42,
+      74,
+      100,
+      145,
+      384,
+      396
+    ]
+  },
+  {
+    "text": "decay",
+    "size": 3,
+    "haiku_indices": [
+      38,
+      380,
+      399
+    ]
+  },
+  {
+    "text": "precious",
+    "size": 11,
+    "haiku_indices": [
+      38,
+      71,
+      113,
+      136,
+      215,
+      244,
+      265,
+      282,
+      293,
+      352,
+      414
+    ]
+  },
+  {
+    "text": "learning",
+    "size": 3,
+    "haiku_indices": [
+      38,
+      76,
+      198
+    ]
+  },
+  {
+    "text": "quarantunes",
+    "size": 1,
+    "haiku_indices": [
+      38
+    ]
+  },
+  {
+    "text": "always",
+    "size": 4,
+    "haiku_indices": [
+      39,
+      94,
+      314,
+      356
+    ]
+  },
+  {
+    "text": "magnificent",
+    "size": 1,
+    "haiku_indices": [
+      39
+    ]
+  },
+  {
+    "text": "smallness",
+    "size": 1,
+    "haiku_indices": [
+      39
+    ]
+  },
+  {
+    "text": "known",
+    "size": 1,
+    "haiku_indices": [
+      39
+    ]
+  },
+  {
+    "text": "lenses",
+    "size": 1,
+    "haiku_indices": [
+      40
+    ]
+  },
+  {
+    "text": "magnify",
+    "size": 1,
+    "haiku_indices": [
+      40
+    ]
+  },
+  {
+    "text": "distort",
+    "size": 1,
+    "haiku_indices": [
+      40
+    ]
+  },
+  {
+    "text": "bend",
+    "size": 1,
+    "haiku_indices": [
+      40
+    ]
+  },
+  {
+    "text": "reality",
+    "size": 2,
+    "haiku_indices": [
+      40,
+      159
+    ]
+  },
+  {
+    "text": "breath",
+    "size": 14,
+    "haiku_indices": [
+      41,
+      69,
+      74,
+      116,
+      122,
+      124,
+      139,
+      153,
+      215,
+      237,
+      249,
+      287,
+      387,
+      412
+    ]
+  },
+  {
+    "text": "eddies",
+    "size": 3,
+    "haiku_indices": [
+      41,
+      90,
+      325
+    ]
+  },
+  {
+    "text": "cumulative",
+    "size": 1,
+    "haiku_indices": [
+      42
+    ]
+  },
+  {
+    "text": "drops",
+    "size": 4,
+    "haiku_indices": [
+      42,
+      290,
+      345,
+      417
+    ]
+  },
+  {
+    "text": "glazing",
+    "size": 1,
+    "haiku_indices": [
+      42
+    ]
+  },
+  {
+    "text": "ice",
+    "size": 5,
+    "haiku_indices": [
+      42,
+      45,
+      47,
+      100,
+      131
+    ]
+  },
+  {
+    "text": "limb",
+    "size": 1,
+    "haiku_indices": [
+      42
+    ]
+  },
+  {
+    "text": "steps",
+    "size": 2,
+    "haiku_indices": [
+      42,
+      388
+    ]
+  },
+  {
+    "text": "generosity",
+    "size": 1,
+    "haiku_indices": [
+      43
+    ]
+  },
+  {
+    "text": "humbling",
+    "size": 1,
+    "haiku_indices": [
+      43
+    ]
+  },
+  {
+    "text": "loving",
+    "size": 2,
+    "haiku_indices": [
+      43,
+      43
+    ]
+  },
+  {
+    "text": "kind",
+    "size": 1,
+    "haiku_indices": [
+      43
+    ]
+  },
+  {
+    "text": "thy",
+    "size": 1,
+    "haiku_indices": [
+      43
+    ]
+  },
+  {
+    "text": "neighbor",
+    "size": 1,
+    "haiku_indices": [
+      43
+    ]
+  },
+  {
+    "text": "child",
+    "size": 3,
+    "haiku_indices": [
+      44,
+      76,
+      176
+    ]
+  },
+  {
+    "text": "creative",
+    "size": 1,
+    "haiku_indices": [
+      44
+    ]
+  },
+  {
+    "text": "curious",
+    "size": 1,
+    "haiku_indices": [
+      44
+    ]
+  },
+  {
+    "text": "never",
+    "size": 2,
+    "haiku_indices": [
+      44,
+      53
+    ]
+  },
+  {
+    "text": "let",
+    "size": 8,
+    "haiku_indices": [
+      44,
+      88,
+      110,
+      145,
+      152,
+      181,
+      249,
+      289
+    ]
+  },
+  {
+    "text": "go",
+    "size": 9,
+    "haiku_indices": [
+      44,
+      76,
+      117,
+      133,
+      141,
+      152,
+      255,
+      271,
+      337
+    ]
+  },
+  {
+    "text": "rains",
+    "size": 1,
+    "haiku_indices": [
+      45
+    ]
+  },
+  {
+    "text": "smoothing",
+    "size": 1,
+    "haiku_indices": [
+      45
+    ]
+  },
+  {
+    "text": "bumps",
+    "size": 1,
+    "haiku_indices": [
+      45
+    ]
+  },
+  {
+    "text": "magnifying",
+    "size": 1,
+    "haiku_indices": [
+      45
+    ]
+  },
+  {
+    "text": "chandeliers",
+    "size": 1,
+    "haiku_indices": [
+      45
+    ]
+  },
+  {
+    "text": "fires",
+    "size": 1,
+    "haiku_indices": [
+      46
+    ]
+  },
+  {
+    "text": "fingers",
+    "size": 2,
+    "haiku_indices": [
+      46,
+      386
+    ]
+  },
+  {
+    "text": "dance",
+    "size": 3,
+    "haiku_indices": [
+      46,
+      273,
+      361
+    ]
+  },
+  {
+    "text": "parallel",
+    "size": 2,
+    "haiku_indices": [
+      47,
+      392
+    ]
+  },
+  {
+    "text": "curves",
+    "size": 4,
+    "haiku_indices": [
+      47,
+      201,
+      232,
+      355
+    ]
+  },
+  {
+    "text": "encasing",
+    "size": 1,
+    "haiku_indices": [
+      47
+    ]
+  },
+  {
+    "text": "sedum",
+    "size": 2,
+    "haiku_indices": [
+      47,
+      166
+    ]
+  },
+  {
+    "text": "bubbly",
+    "size": 1,
+    "haiku_indices": [
+      47
+    ]
+  },
+  {
+    "text": "fractals",
+    "size": 4,
+    "haiku_indices": [
+      47,
+      132,
+      239,
+      365
+    ]
+  },
+  {
+    "text": "waits",
+    "size": 1,
+    "haiku_indices": [
+      48
+    ]
+  },
+  {
+    "text": "watches",
+    "size": 1,
+    "haiku_indices": [
+      48
+    ]
+  },
+  {
+    "text": "ruffles",
+    "size": 2,
+    "haiku_indices": [
+      48,
+      165
+    ]
+  },
+  {
+    "text": "flies",
+    "size": 1,
+    "haiku_indices": [
+      48
+    ]
+  },
+  {
+    "text": "moons",
+    "size": 1,
+    "haiku_indices": [
+      48
+    ]
+  },
+  {
+    "text": "dim",
+    "size": 2,
+    "haiku_indices": [
+      48,
+      357
+    ]
+  },
+  {
+    "text": "light",
+    "size": 31,
+    "haiku_indices": [
+      48,
+      81,
+      83,
+      111,
+      118,
+      142,
+      143,
+      159,
+      173,
+      175,
+      181,
+      195,
+      229,
+      240,
+      259,
+      260,
+      289,
+      300,
+      310,
+      311,
+      328,
+      338,
+      342,
+      345,
+      349,
+      354,
+      357,
+      359,
+      361,
+      381,
+      401
+    ]
+  },
+  {
+    "text": "plot",
+    "size": 1,
+    "haiku_indices": [
+      49
+    ]
+  },
+  {
+    "text": "devils",
+    "size": 1,
+    "haiku_indices": [
+      49
+    ]
+  },
+  {
+    "text": "curve",
+    "size": 5,
+    "haiku_indices": [
+      49,
+      70,
+      183,
+      273,
+      392
+    ]
+  },
+  {
+    "text": "center",
+    "size": 1,
+    "haiku_indices": [
+      49
+    ]
+  },
+  {
+    "text": "infinity",
+    "size": 1,
+    "haiku_indices": [
+      49
+    ]
+  },
+  {
+    "text": "lemniscate",
+    "size": 1,
+    "haiku_indices": [
+      49
+    ]
+  },
+  {
+    "text": "walls",
+    "size": 1,
+    "haiku_indices": [
+      49
+    ]
+  },
+  {
+    "text": "lofty",
+    "size": 1,
+    "haiku_indices": [
+      50
+    ]
+  },
+  {
+    "text": "sequoia",
+    "size": 1,
+    "haiku_indices": [
+      50
+    ]
+  },
+  {
+    "text": "spread",
+    "size": 2,
+    "haiku_indices": [
+      50,
+      98
+    ]
+  },
+  {
+    "text": "canopy",
+    "size": 1,
+    "haiku_indices": [
+      50
+    ]
+  },
+  {
+    "text": "envelope",
+    "size": 1,
+    "haiku_indices": [
+      50
+    ]
+  },
+  {
+    "text": "smeared",
+    "size": 1,
+    "haiku_indices": [
+      51
+    ]
+  },
+  {
+    "text": "orange",
+    "size": 1,
+    "haiku_indices": [
+      51
+    ]
+  },
+  {
+    "text": "purple",
+    "size": 2,
+    "haiku_indices": [
+      51,
+      241
+    ]
+  },
+  {
+    "text": "speak",
+    "size": 5,
+    "haiku_indices": [
+      51,
+      63,
+      161,
+      177,
+      222
+    ]
+  },
+  {
+    "text": "death",
+    "size": 3,
+    "haiku_indices": [
+      52,
+      131,
+      384
+    ]
+  },
+  {
+    "text": "friends",
+    "size": 2,
+    "haiku_indices": [
+      52,
+      246
+    ]
+  },
+  {
+    "text": "felt",
+    "size": 1,
+    "haiku_indices": [
+      52
+    ]
+  },
+  {
+    "text": "shake",
+    "size": 1,
+    "haiku_indices": [
+      52
+    ]
+  },
+  {
+    "text": "night",
+    "size": 8,
+    "haiku_indices": [
+      52,
+      95,
+      147,
+      174,
+      259,
+      319,
+      335,
+      402
+    ]
+  },
+  {
+    "text": "lay",
+    "size": 2,
+    "haiku_indices": [
+      52,
+      68
+    ]
+  },
+  {
+    "text": "cleft",
+    "size": 1,
+    "haiku_indices": [
+      52
+    ]
+  },
+  {
+    "text": "dawn",
+    "size": 1,
+    "haiku_indices": [
+      52
+    ]
+  },
+  {
+    "text": "one",
+    "size": 8,
+    "haiku_indices": [
+      53,
+      59,
+      59,
+      96,
+      166,
+      218,
+      312,
+      323
+    ]
+  },
+  {
+    "text": "head",
+    "size": 2,
+    "haiku_indices": [
+      53,
+      155
+    ]
+  },
+  {
+    "text": "injury",
+    "size": 1,
+    "haiku_indices": [
+      53
+    ]
+  },
+  {
+    "text": "loss",
+    "size": 1,
+    "haiku_indices": [
+      53
+    ]
+  },
+  {
+    "text": "silence",
+    "size": 1,
+    "haiku_indices": [
+      53
+    ]
+  },
+  {
+    "text": "tea",
+    "size": 2,
+    "haiku_indices": [
+      54,
+      306
+    ]
+  },
+  {
+    "text": "remove",
+    "size": 2,
+    "haiku_indices": [
+      54,
+      299
+    ]
+  },
+  {
+    "text": "leafs",
+    "size": 1,
+    "haiku_indices": [
+      54
+    ]
+  },
+  {
+    "text": "right",
+    "size": 5,
+    "haiku_indices": [
+      54,
+      178,
+      204,
+      289,
+      312
+    ]
+  },
+  {
+    "text": "gifts",
+    "size": 1,
+    "haiku_indices": [
+      54
+    ]
+  },
+  {
+    "text": "repose",
+    "size": 2,
+    "haiku_indices": [
+      55,
+      272
+    ]
+  },
+  {
+    "text": "find",
+    "size": 5,
+    "haiku_indices": [
+      55,
+      93,
+      229,
+      351,
+      386
+    ]
+  },
+  {
+    "text": "clear",
+    "size": 2,
+    "haiku_indices": [
+      55,
+      414
+    ]
+  },
+  {
+    "text": "delta",
+    "size": 1,
+    "haiku_indices": [
+      56
+    ]
+  },
+  {
+    "text": "changing",
+    "size": 1,
+    "haiku_indices": [
+      56
+    ]
+  },
+  {
+    "text": "growing",
+    "size": 1,
+    "haiku_indices": [
+      56
+    ]
+  },
+  {
+    "text": "condensing",
+    "size": 1,
+    "haiku_indices": [
+      56
+    ]
+  },
+  {
+    "text": "coding",
+    "size": 1,
+    "haiku_indices": [
+      57
+    ]
+  },
+  {
+    "text": "patterns",
+    "size": 1,
+    "haiku_indices": [
+      57
+    ]
+  },
+  {
+    "text": "knit",
+    "size": 1,
+    "haiku_indices": [
+      57
+    ]
+  },
+  {
+    "text": "purl",
+    "size": 1,
+    "haiku_indices": [
+      57
+    ]
+  },
+  {
+    "text": "yarn",
+    "size": 1,
+    "haiku_indices": [
+      57
+    ]
+  },
+  {
+    "text": "slip",
+    "size": 2,
+    "haiku_indices": [
+      57,
+      318
+    ]
+  },
+  {
+    "text": "loops",
+    "size": 4,
+    "haiku_indices": [
+      57,
+      126,
+      132,
+      243
+    ]
+  },
+  {
+    "text": "wool",
+    "size": 1,
+    "haiku_indices": [
+      57
+    ]
+  },
+  {
+    "text": "river",
+    "size": 3,
+    "haiku_indices": [
+      58,
+      292,
+      397
+    ]
+  },
+  {
+    "text": "fall",
+    "size": 5,
+    "haiku_indices": [
+      58,
+      138,
+      322,
+      333,
+      374
+    ]
+  },
+  {
+    "text": "came",
+    "size": 4,
+    "haiku_indices": [
+      58,
+      248,
+      303,
+      334
+    ]
+  },
+  {
+    "text": "tributaries",
+    "size": 1,
+    "haiku_indices": [
+      58
+    ]
+  },
+  {
+    "text": "gone",
+    "size": 2,
+    "haiku_indices": [
+      58,
+      206
+    ]
+  },
+  {
+    "text": "wire",
+    "size": 2,
+    "haiku_indices": [
+      59,
+      59
+    ]
+  },
+  {
+    "text": "single",
+    "size": 3,
+    "haiku_indices": [
+      59,
+      157,
+      346
+    ]
+  },
+  {
+    "text": "om",
+    "size": 1,
+    "haiku_indices": [
+      59
+    ]
+  },
+  {
+    "text": "resonant",
+    "size": 1,
+    "haiku_indices": [
+      59
+    ]
+  },
+  {
+    "text": "us",
+    "size": 20,
+    "haiku_indices": [
+      59,
+      72,
+      109,
+      119,
+      132,
+      158,
+      160,
+      165,
+      181,
+      187,
+      217,
+      224,
+      258,
+      261,
+      279,
+      283,
+      329,
+      335,
+      344,
+      409
+    ]
+  },
+  {
+    "text": "point",
+    "size": 8,
+    "haiku_indices": [
+      60,
+      87,
+      157,
+      188,
+      281,
+      345,
+      346,
+      375
+    ]
+  },
+  {
+    "text": "vector",
+    "size": 2,
+    "haiku_indices": [
+      60,
+      353
+    ]
+  },
+  {
+    "text": "fields",
+    "size": 1,
+    "haiku_indices": [
+      60
+    ]
+  },
+  {
+    "text": "cloth",
+    "size": 1,
+    "haiku_indices": [
+      60
+    ]
+  },
+  {
+    "text": "show",
+    "size": 2,
+    "haiku_indices": [
+      60,
+      158
+    ]
+  },
+  {
+    "text": "vortices",
+    "size": 1,
+    "haiku_indices": [
+      60
+    ]
+  },
+  {
+    "text": "council",
+    "size": 1,
+    "haiku_indices": [
+      61
+    ]
+  },
+  {
+    "text": "rupture",
+    "size": 1,
+    "haiku_indices": [
+      61
+    ]
+  },
+  {
+    "text": "chorus",
+    "size": 1,
+    "haiku_indices": [
+      61
+    ]
+  },
+  {
+    "text": "choices",
+    "size": 1,
+    "haiku_indices": [
+      61
+    ]
+  },
+  {
+    "text": "made",
+    "size": 3,
+    "haiku_indices": [
+      61,
+      275,
+      315
+    ]
+  },
+  {
+    "text": "see",
+    "size": 19,
+    "haiku_indices": [
+      62,
+      80,
+      86,
+      144,
+      149,
+      166,
+      171,
+      178,
+      187,
+      241,
+      288,
+      291,
+      295,
+      317,
+      333,
+      350,
+      377,
+      394,
+      413
+    ]
+  },
+  {
+    "text": "underneath",
+    "size": 1,
+    "haiku_indices": [
+      62
+    ]
+  },
+  {
+    "text": "silhouettes",
+    "size": 3,
+    "haiku_indices": [
+      62,
+      118,
+      403
+    ]
+  },
+  {
+    "text": "anthers",
+    "size": 2,
+    "haiku_indices": [
+      62,
+      226
+    ]
+  },
+  {
+    "text": "manifested",
+    "size": 1,
+    "haiku_indices": [
+      62
+    ]
+  },
+  {
+    "text": "gurgling",
+    "size": 1,
+    "haiku_indices": [
+      63
+    ]
+  },
+  {
+    "text": "back",
+    "size": 2,
+    "haiku_indices": [
+      63,
+      236
+    ]
+  },
+  {
+    "text": "forth",
+    "size": 5,
+    "haiku_indices": [
+      63,
+      109,
+      111,
+      344,
+      384
+    ]
+  },
+  {
+    "text": "poems",
+    "size": 3,
+    "haiku_indices": [
+      63,
+      322,
+      416
+    ]
+  },
+  {
+    "text": "seven",
+    "size": 1,
+    "haiku_indices": [
+      64
+    ]
+  },
+  {
+    "text": "aerie",
+    "size": 1,
+    "haiku_indices": [
+      64
+    ]
+  },
+  {
+    "text": "grace",
+    "size": 5,
+    "haiku_indices": [
+      64,
+      72,
+      112,
+      119,
+      372
+    ]
+  },
+  {
+    "text": "oh",
+    "size": 7,
+    "haiku_indices": [
+      65,
+      113,
+      265,
+      301,
+      310,
+      344,
+      367
+    ]
+  },
+  {
+    "text": "cedar",
+    "size": 3,
+    "haiku_indices": [
+      65,
+      140,
+      296
+    ]
+  },
+  {
+    "text": "waxwings",
+    "size": 2,
+    "haiku_indices": [
+      65,
+      140
+    ]
+  },
+  {
+    "text": "gulping",
+    "size": 1,
+    "haiku_indices": [
+      65
+    ]
+  },
+  {
+    "text": "berries",
+    "size": 2,
+    "haiku_indices": [
+      65,
+      176
+    ]
+  },
+  {
+    "text": "set",
+    "size": 1,
+    "haiku_indices": [
+      65
+    ]
+  },
+  {
+    "text": "bring",
+    "size": 9,
+    "haiku_indices": [
+      65,
+      79,
+      95,
+      109,
+      111,
+      154,
+      186,
+      329,
+      344
+    ]
+  },
+  {
+    "text": "pull",
+    "size": 3,
+    "haiku_indices": [
+      66,
+      173,
+      346
+    ]
+  },
+  {
+    "text": "string",
+    "size": 1,
+    "haiku_indices": [
+      66
+    ]
+  },
+  {
+    "text": "lead",
+    "size": 5,
+    "haiku_indices": [
+      66,
+      200,
+      217,
+      323,
+      381
+    ]
+  },
+  {
+    "text": "trail",
+    "size": 4,
+    "haiku_indices": [
+      66,
+      329,
+      362,
+      401
+    ]
+  },
+  {
+    "text": "thinking",
+    "size": 1,
+    "haiku_indices": [
+      66
+    ]
+  },
+  {
+    "text": "shows",
+    "size": 2,
+    "haiku_indices": [
+      67,
+      77
+    ]
+  },
+  {
+    "text": "tiny",
+    "size": 3,
+    "haiku_indices": [
+      67,
+      164,
+      286
+    ]
+  },
+  {
+    "text": "details",
+    "size": 1,
+    "haiku_indices": [
+      67
+    ]
+  },
+  {
+    "text": "know",
+    "size": 9,
+    "haiku_indices": [
+      68,
+      231,
+      246,
+      255,
+      256,
+      276,
+      335,
+      376,
+      406
+    ]
+  },
+  {
+    "text": "friend",
+    "size": 5,
+    "haiku_indices": [
+      68,
+      210,
+      230,
+      295,
+      407
+    ]
+  },
+  {
+    "text": "budding",
+    "size": 1,
+    "haiku_indices": [
+      68
+    ]
+  },
+  {
+    "text": "though",
+    "size": 3,
+    "haiku_indices": [
+      68,
+      256,
+      308
+    ]
+  },
+  {
+    "text": "cherish",
+    "size": 1,
+    "haiku_indices": [
+      68
+    ]
+  },
+  {
+    "text": "last",
+    "size": 4,
+    "haiku_indices": [
+      68,
+      174,
+      306,
+      333
+    ]
+  },
+  {
+    "text": "leaves",
+    "size": 7,
+    "haiku_indices": [
+      68,
+      71,
+      246,
+      283,
+      316,
+      333,
+      339
+    ]
+  },
+  {
+    "text": "lift",
+    "size": 3,
+    "haiku_indices": [
+      69,
+      190,
+      271
+    ]
+  },
+  {
+    "text": "folding",
+    "size": 1,
+    "haiku_indices": [
+      70
+    ]
+  },
+  {
+    "text": "creates",
+    "size": 1,
+    "haiku_indices": [
+      70
+    ]
+  },
+  {
+    "text": "dragon",
+    "size": 2,
+    "haiku_indices": [
+      70,
+      303
+    ]
+  },
+  {
+    "text": "spirals",
+    "size": 2,
+    "haiku_indices": [
+      70,
+      172
+    ]
+  },
+  {
+    "text": "corners",
+    "size": 1,
+    "haiku_indices": [
+      70
+    ]
+  },
+  {
+    "text": "presents",
+    "size": 1,
+    "haiku_indices": [
+      71
+    ]
+  },
+  {
+    "text": "tokens",
+    "size": 1,
+    "haiku_indices": [
+      71
+    ]
+  },
+  {
+    "text": "world",
+    "size": 6,
+    "haiku_indices": [
+      71,
+      146,
+      205,
+      244,
+      279,
+      309
+    ]
+  },
+  {
+    "text": "architect",
+    "size": 1,
+    "haiku_indices": [
+      72
+    ]
+  },
+  {
+    "text": "webs",
+    "size": 1,
+    "haiku_indices": [
+      72
+    ]
+  },
+  {
+    "text": "strands",
+    "size": 3,
+    "haiku_indices": [
+      72,
+      182,
+      195
+    ]
+  },
+  {
+    "text": "kindness",
+    "size": 1,
+    "haiku_indices": [
+      72
+    ]
+  },
+  {
+    "text": "parametric",
+    "size": 1,
+    "haiku_indices": [
+      72
+    ]
+  },
+  {
+    "text": "hugged",
+    "size": 1,
+    "haiku_indices": [
+      73
+    ]
+  },
+  {
+    "text": "mother",
+    "size": 2,
+    "haiku_indices": [
+      73,
+      185
+    ]
+  },
+  {
+    "text": "embraced",
+    "size": 1,
+    "haiku_indices": [
+      73
+    ]
+  },
+  {
+    "text": "every",
+    "size": 4,
+    "haiku_indices": [
+      73,
+      134,
+      262,
+      395
+    ]
+  },
+  {
+    "text": "ever",
+    "size": 4,
+    "haiku_indices": [
+      73,
+      238,
+      284,
+      368
+    ]
+  },
+  {
+    "text": "great",
+    "size": 2,
+    "haiku_indices": [
+      74,
+      101
+    ]
+  },
+  {
+    "text": "fawn",
+    "size": 1,
+    "haiku_indices": [
+      74
+    ]
+  },
+  {
+    "text": "lily",
+    "size": 1,
+    "haiku_indices": [
+      74
+    ]
+  },
+  {
+    "text": "looking",
+    "size": 3,
+    "haiku_indices": [
+      74,
+      86,
+      246
+    ]
+  },
+  {
+    "text": "tender",
+    "size": 2,
+    "haiku_indices": [
+      74,
+      112
+    ]
+  },
+  {
+    "text": "roots",
+    "size": 4,
+    "haiku_indices": [
+      74,
+      82,
+      193,
+      276
+    ]
+  },
+  {
+    "text": "even",
+    "size": 6,
+    "haiku_indices": [
+      75,
+      130,
+      256,
+      260,
+      342,
+      384
+    ]
+  },
+  {
+    "text": "strongest",
+    "size": 1,
+    "haiku_indices": [
+      75
+    ]
+  },
+  {
+    "text": "become",
+    "size": 4,
+    "haiku_indices": [
+      75,
+      155,
+      255,
+      342
+    ]
+  },
+  {
+    "text": "covered",
+    "size": 2,
+    "haiku_indices": [
+      75,
+      214
+    ]
+  },
+  {
+    "text": "alone",
+    "size": 4,
+    "haiku_indices": [
+      75,
+      240,
+      393,
+      407
+    ]
+  },
+  {
+    "text": "means",
+    "size": 2,
+    "haiku_indices": [
+      76,
+      211
+    ]
+  },
+  {
+    "text": "letting",
+    "size": 2,
+    "haiku_indices": [
+      76,
+      117
+    ]
+  },
+  {
+    "text": "forest",
+    "size": 15,
+    "haiku_indices": [
+      77,
+      105,
+      136,
+      172,
+      193,
+      199,
+      200,
+      236,
+      286,
+      332,
+      369,
+      369,
+      383,
+      404,
+      410
+    ]
+  },
+  {
+    "text": "burned",
+    "size": 1,
+    "haiku_indices": [
+      77
+    ]
+  },
+  {
+    "text": "skeletal",
+    "size": 1,
+    "haiku_indices": [
+      77
+    ]
+  },
+  {
+    "text": "curvature",
+    "size": 1,
+    "haiku_indices": [
+      77
+    ]
+  },
+  {
+    "text": "flesh",
+    "size": 1,
+    "haiku_indices": [
+      77
+    ]
+  },
+  {
+    "text": "removed",
+    "size": 1,
+    "haiku_indices": [
+      77
+    ]
+  },
+  {
+    "text": "condensate",
+    "size": 1,
+    "haiku_indices": [
+      78
+    ]
+  },
+  {
+    "text": "dew",
+    "size": 3,
+    "haiku_indices": [
+      78,
+      140,
+      309
+    ]
+  },
+  {
+    "text": "settled",
+    "size": 1,
+    "haiku_indices": [
+      78
+    ]
+  },
+  {
+    "text": "destined",
+    "size": 1,
+    "haiku_indices": [
+      78
+    ]
+  },
+  {
+    "text": "soil",
+    "size": 2,
+    "haiku_indices": [
+      78,
+      411
+    ]
+  },
+  {
+    "text": "moments",
+    "size": 5,
+    "haiku_indices": [
+      79,
+      122,
+      194,
+      198,
+      348
+    ]
+  },
+  {
+    "text": "pause",
+    "size": 3,
+    "haiku_indices": [
+      79,
+      272,
+      413
+    ]
+  },
+  {
+    "text": "brown",
+    "size": 1,
+    "haiku_indices": [
+      79
+    ]
+  },
+  {
+    "text": "creepers",
+    "size": 1,
+    "haiku_indices": [
+      79
+    ]
+  },
+  {
+    "text": "focus",
+    "size": 5,
+    "haiku_indices": [
+      79,
+      95,
+      157,
+      307,
+      346
+    ]
+  },
+  {
+    "text": "camouflage",
+    "size": 1,
+    "haiku_indices": [
+      79
+    ]
+  },
+  {
+    "text": "seen",
+    "size": 1,
+    "haiku_indices": [
+      79
+    ]
+  },
+  {
+    "text": "homeomorphic",
+    "size": 1,
+    "haiku_indices": [
+      80
+    ]
+  },
+  {
+    "text": "tops",
+    "size": 3,
+    "haiku_indices": [
+      80,
+      142,
+      280
+    ]
+  },
+  {
+    "text": "painted",
+    "size": 4,
+    "haiku_indices": [
+      80,
+      140,
+      334,
+      387
+    ]
+  },
+  {
+    "text": "raven",
+    "size": 1,
+    "haiku_indices": [
+      81
+    ]
+  },
+  {
+    "text": "winds",
+    "size": 1,
+    "haiku_indices": [
+      81
+    ]
+  },
+  {
+    "text": "closer",
+    "size": 1,
+    "haiku_indices": [
+      81
+    ]
+  },
+  {
+    "text": "vestiges",
+    "size": 1,
+    "haiku_indices": [
+      82
+    ]
+  },
+  {
+    "text": "swept",
+    "size": 3,
+    "haiku_indices": [
+      82,
+      263,
+      367
+    ]
+  },
+  {
+    "text": "away",
+    "size": 5,
+    "haiku_indices": [
+      82,
+      124,
+      192,
+      255,
+      391
+    ]
+  },
+  {
+    "text": "men",
+    "size": 1,
+    "haiku_indices": [
+      82
+    ]
+  },
+  {
+    "text": "remain",
+    "size": 1,
+    "haiku_indices": [
+      82
+    ]
+  },
+  {
+    "text": "nonlinear",
+    "size": 2,
+    "haiku_indices": [
+      83,
+      224
+    ]
+  },
+  {
+    "text": "honey",
+    "size": 1,
+    "haiku_indices": [
+      83
+    ]
+  },
+  {
+    "text": "trickle",
+    "size": 1,
+    "haiku_indices": [
+      83
+    ]
+  },
+  {
+    "text": "gush",
+    "size": 1,
+    "haiku_indices": [
+      83
+    ]
+  },
+  {
+    "text": "ease",
+    "size": 1,
+    "haiku_indices": [
+      84
+    ]
+  },
+  {
+    "text": "forget",
+    "size": 2,
+    "haiku_indices": [
+      84,
+      258
+    ]
+  },
+  {
+    "text": "speck",
+    "size": 1,
+    "haiku_indices": [
+      84
+    ]
+  },
+  {
+    "text": "universe",
+    "size": 4,
+    "haiku_indices": [
+      84,
+      222,
+      355,
+      395
+    ]
+  },
+  {
+    "text": "churn",
+    "size": 1,
+    "haiku_indices": [
+      85
+    ]
+  },
+  {
+    "text": "current",
+    "size": 1,
+    "haiku_indices": [
+      85
+    ]
+  },
+  {
+    "text": "rooted",
+    "size": 1,
+    "haiku_indices": [
+      85
+    ]
+  },
+  {
+    "text": "wooden",
+    "size": 1,
+    "haiku_indices": [
+      85
+    ]
+  },
+  {
+    "text": "whirlpools",
+    "size": 2,
+    "haiku_indices": [
+      85,
+      277
+    ]
+  },
+  {
+    "text": "centuries",
+    "size": 1,
+    "haiku_indices": [
+      85
+    ]
+  },
+  {
+    "text": "flow",
+    "size": 3,
+    "haiku_indices": [
+      85,
+      378,
+      397
+    ]
+  },
+  {
+    "text": "walking",
+    "size": 1,
+    "haiku_indices": [
+      86
+    ]
+  },
+  {
+    "text": "random",
+    "size": 1,
+    "haiku_indices": [
+      86
+    ]
+  },
+  {
+    "text": "meaning",
+    "size": 2,
+    "haiku_indices": [
+      86,
+      305
+    ]
+  },
+  {
+    "text": "pareidolia",
+    "size": 1,
+    "haiku_indices": [
+      86
+    ]
+  },
+  {
+    "text": "fixed",
+    "size": 1,
+    "haiku_indices": [
+      87
+    ]
+  },
+  {
+    "text": "distance",
+    "size": 3,
+    "haiku_indices": [
+      87,
+      101,
+      150
+    ]
+  },
+  {
+    "text": "grows",
+    "size": 1,
+    "haiku_indices": [
+      87
+    ]
+  },
+  {
+    "text": "evolving",
+    "size": 2,
+    "haiku_indices": [
+      87,
+      368
+    ]
+  },
+  {
+    "text": "conchoid",
+    "size": 1,
+    "haiku_indices": [
+      87
+    ]
+  },
+  {
+    "text": "try",
+    "size": 1,
+    "haiku_indices": [
+      88
+    ]
+  },
+  {
+    "text": "storms",
+    "size": 1,
+    "haiku_indices": [
+      88
+    ]
+  },
+  {
+    "text": "blow",
+    "size": 1,
+    "haiku_indices": [
+      88
+    ]
+  },
+  {
+    "text": "sometimes",
+    "size": 11,
+    "haiku_indices": [
+      88,
+      119,
+      149,
+      184,
+      226,
+      235,
+      258,
+      268,
+      294,
+      311,
+      337
+    ]
+  },
+  {
+    "text": "break",
+    "size": 2,
+    "haiku_indices": [
+      88,
+      367
+    ]
+  },
+  {
+    "text": "abundance",
+    "size": 3,
+    "haiku_indices": [
+      89,
+      179,
+      245
+    ]
+  },
+  {
+    "text": "flowing",
+    "size": 1,
+    "haiku_indices": [
+      89
+    ]
+  },
+  {
+    "text": "vessel",
+    "size": 1,
+    "haiku_indices": [
+      89
+    ]
+  },
+  {
+    "text": "present",
+    "size": 2,
+    "haiku_indices": [
+      89,
+      415
+    ]
+  },
+  {
+    "text": "dip",
+    "size": 2,
+    "haiku_indices": [
+      90,
+      253
+    ]
+  },
+  {
+    "text": "big",
+    "size": 2,
+    "haiku_indices": [
+      90,
+      298
+    ]
+  },
+  {
+    "text": "toes",
+    "size": 1,
+    "haiku_indices": [
+      90
+    ]
+  },
+  {
+    "text": "streams",
+    "size": 3,
+    "haiku_indices": [
+      90,
+      218,
+      383
+    ]
+  },
+  {
+    "text": "manifest",
+    "size": 2,
+    "haiku_indices": [
+      90,
+      375
+    ]
+  },
+  {
+    "text": "lichen",
+    "size": 1,
+    "haiku_indices": [
+      91
+    ]
+  },
+  {
+    "text": "brings",
+    "size": 6,
+    "haiku_indices": [
+      91,
+      162,
+      213,
+      224,
+      227,
+      307
+    ]
+  },
+  {
+    "text": "color",
+    "size": 3,
+    "haiku_indices": [
+      91,
+      203,
+      387
+    ]
+  },
+  {
+    "text": "composite",
+    "size": 1,
+    "haiku_indices": [
+      91
+    ]
+  },
+  {
+    "text": "crutose",
+    "size": 1,
+    "haiku_indices": [
+      91
+    ]
+  },
+  {
+    "text": "vibrant",
+    "size": 1,
+    "haiku_indices": [
+      91
+    ]
+  },
+  {
+    "text": "puddle",
+    "size": 3,
+    "haiku_indices": [
+      91,
+      312,
+      324
+    ]
+  },
+  {
+    "text": "spiral",
+    "size": 2,
+    "haiku_indices": [
+      92,
+      174
+    ]
+  },
+  {
+    "text": "rotational",
+    "size": 2,
+    "haiku_indices": [
+      92,
+      285
+    ]
+  },
+  {
+    "text": "symmetry",
+    "size": 2,
+    "haiku_indices": [
+      92,
+      285
+    ]
+  },
+  {
+    "text": "perfection",
+    "size": 3,
+    "haiku_indices": [
+      92,
+      262,
+      295
+    ]
+  },
+  {
+    "text": "change",
+    "size": 4,
+    "haiku_indices": [
+      93,
+      93,
+      146,
+      353
+    ]
+  },
+  {
+    "text": "radius",
+    "size": 1,
+    "haiku_indices": [
+      93
+    ]
+  },
+  {
+    "text": "happiness",
+    "size": 2,
+    "haiku_indices": [
+      93,
+      110
+    ]
+  },
+  {
+    "text": "new",
+    "size": 2,
+    "haiku_indices": [
+      94,
+      240
+    ]
+  },
+  {
+    "text": "found",
+    "size": 5,
+    "haiku_indices": [
+      94,
+      136,
+      221,
+      262,
+      320
+    ]
+  },
+  {
+    "text": "ready",
+    "size": 6,
+    "haiku_indices": [
+      94,
+      121,
+      178,
+      312,
+      337,
+      350
+    ]
+  },
+  {
+    "text": "realized",
+    "size": 1,
+    "haiku_indices": [
+      94
+    ]
+  },
+  {
+    "text": "walked",
+    "size": 1,
+    "haiku_indices": [
+      94
+    ]
+  },
+  {
+    "text": "thoughts",
+    "size": 3,
+    "haiku_indices": [
+      95,
+      174,
+      364
+    ]
+  },
+  {
+    "text": "moonlit",
+    "size": 1,
+    "haiku_indices": [
+      95
+    ]
+  },
+  {
+    "text": "projected",
+    "size": 1,
+    "haiku_indices": [
+      95
+    ]
+  },
+  {
+    "text": "silouettes",
+    "size": 1,
+    "haiku_indices": [
+      95
+    ]
+  },
+  {
+    "text": "treehugger",
+    "size": 1,
+    "haiku_indices": [
+      96
+    ]
+  },
+  {
+    "text": "plant",
+    "size": 2,
+    "haiku_indices": [
+      96,
+      109
+    ]
+  },
+  {
+    "text": "beside",
+    "size": 1,
+    "haiku_indices": [
+      96
+    ]
+  },
+  {
+    "text": "ultimate",
+    "size": 1,
+    "haiku_indices": [
+      96
+    ]
+  },
+  {
+    "text": "empty",
+    "size": 2,
+    "haiku_indices": [
+      97,
+      390
+    ]
+  },
+  {
+    "text": "lot",
+    "size": 1,
+    "haiku_indices": [
+      97
+    ]
+  },
+  {
+    "text": "houses",
+    "size": 1,
+    "haiku_indices": [
+      97
+    ]
+  },
+  {
+    "text": "pocket",
+    "size": 2,
+    "haiku_indices": [
+      97,
+      356
+    ]
+  },
+  {
+    "text": "lilies",
+    "size": 2,
+    "haiku_indices": [
+      97,
+      140
+    ]
+  },
+  {
+    "text": "lean",
+    "size": 2,
+    "haiku_indices": [
+      98,
+      370
+    ]
+  },
+  {
+    "text": "mountain",
+    "size": 1,
+    "haiku_indices": [
+      98
+    ]
+  },
+  {
+    "text": "ahead",
+    "size": 3,
+    "haiku_indices": [
+      98,
+      341,
+      377
+    ]
+  },
+  {
+    "text": "summit",
+    "size": 1,
+    "haiku_indices": [
+      98
+    ]
+  },
+  {
+    "text": "arms",
+    "size": 3,
+    "haiku_indices": [
+      98,
+      101,
+      234
+    ]
+  },
+  {
+    "text": "secret",
+    "size": 1,
+    "haiku_indices": [
+      99
+    ]
+  },
+  {
+    "text": "overwhelmed",
+    "size": 1,
+    "haiku_indices": [
+      99
+    ]
+  },
+  {
+    "text": "soul",
+    "size": 4,
+    "haiku_indices": [
+      99,
+      218,
+      360,
+      382
+    ]
+  },
+  {
+    "text": "blows",
+    "size": 1,
+    "haiku_indices": [
+      99
+    ]
+  },
+  {
+    "text": "kisses",
+    "size": 1,
+    "haiku_indices": [
+      99
+    ]
+  },
+  {
+    "text": "glaciers",
+    "size": 1,
+    "haiku_indices": [
+      100
+    ]
+  },
+  {
+    "text": "chaffing",
+    "size": 1,
+    "haiku_indices": [
+      100
+    ]
+  },
+  {
+    "text": "suns",
+    "size": 2,
+    "haiku_indices": [
+      100,
+      129
+    ]
+  },
+  {
+    "text": "tulips",
+    "size": 1,
+    "haiku_indices": [
+      100
+    ]
+  },
+  {
+    "text": "melt",
+    "size": 1,
+    "haiku_indices": [
+      100
+    ]
+  },
+  {
+    "text": "petals",
+    "size": 4,
+    "haiku_indices": [
+      100,
+      107,
+      148,
+      191
+    ]
+  },
+  {
+    "text": "moon",
+    "size": 6,
+    "haiku_indices": [
+      101,
+      144,
+      175,
+      178,
+      256,
+      371
+    ]
+  },
+  {
+    "text": "unaware",
+    "size": 1,
+    "haiku_indices": [
+      101
+    ]
+  },
+  {
+    "text": "projections",
+    "size": 1,
+    "haiku_indices": [
+      102
+    ]
+  },
+  {
+    "text": "pastfuture",
+    "size": 1,
+    "haiku_indices": [
+      102
+    ]
+  },
+  {
+    "text": "shadows",
+    "size": 6,
+    "haiku_indices": [
+      102,
+      111,
+      118,
+      163,
+      173,
+      392
+    ]
+  },
+  {
+    "text": "pappus",
+    "size": 1,
+    "haiku_indices": [
+      103
+    ]
+  },
+  {
+    "text": "chains",
+    "size": 1,
+    "haiku_indices": [
+      103
+    ]
+  },
+  {
+    "text": "pack",
+    "size": 1,
+    "haiku_indices": [
+      103
+    ]
+  },
+  {
+    "text": "bijou",
+    "size": 1,
+    "haiku_indices": [
+      103
+    ]
+  },
+  {
+    "text": "trinkets",
+    "size": 1,
+    "haiku_indices": [
+      103
+    ]
+  },
+  {
+    "text": "scintillate",
+    "size": 1,
+    "haiku_indices": [
+      104
+    ]
+  },
+  {
+    "text": "breeze",
+    "size": 3,
+    "haiku_indices": [
+      104,
+      255,
+      272
+    ]
+  },
+  {
+    "text": "ablutions",
+    "size": 1,
+    "haiku_indices": [
+      104
+    ]
+  },
+  {
+    "text": "fragrance",
+    "size": 1,
+    "haiku_indices": [
+      105
+    ]
+  },
+  {
+    "text": "stream",
+    "size": 3,
+    "haiku_indices": [
+      105,
+      247,
+      302
+    ]
+  },
+  {
+    "text": "lingers",
+    "size": 1,
+    "haiku_indices": [
+      105
+    ]
+  },
+  {
+    "text": "deep",
+    "size": 5,
+    "haiku_indices": [
+      105,
+      284,
+      302,
+      351,
+      386
+    ]
+  },
+  {
+    "text": "inside",
+    "size": 2,
+    "haiku_indices": [
+      105,
+      208
+    ]
+  },
+  {
+    "text": "tuck",
+    "size": 2,
+    "haiku_indices": [
+      106,
+      398
+    ]
+  },
+  {
+    "text": "babies",
+    "size": 1,
+    "haiku_indices": [
+      106
+    ]
+  },
+  {
+    "text": "bits",
+    "size": 1,
+    "haiku_indices": [
+      106
+    ]
+  },
+  {
+    "text": "pollen",
+    "size": 2,
+    "haiku_indices": [
+      106,
+      160
+    ]
+  },
+  {
+    "text": "mud",
+    "size": 1,
+    "haiku_indices": [
+      106
+    ]
+  },
+  {
+    "text": "lullaby",
+    "size": 1,
+    "haiku_indices": [
+      106
+    ]
+  },
+  {
+    "text": "buzzing",
+    "size": 1,
+    "haiku_indices": [
+      106
+    ]
+  },
+  {
+    "text": "vortex",
+    "size": 3,
+    "haiku_indices": [
+      107,
+      172,
+      202
+    ]
+  },
+  {
+    "text": "come",
+    "size": 5,
+    "haiku_indices": [
+      107,
+      141,
+      227,
+      257,
+      272
+    ]
+  },
+  {
+    "text": "hold",
+    "size": 4,
+    "haiku_indices": [
+      107,
+      128,
+      181,
+      414
+    ]
+  },
+  {
+    "text": "hand",
+    "size": 1,
+    "haiku_indices": [
+      107
+    ]
+  },
+  {
+    "text": "farewell",
+    "size": 1,
+    "haiku_indices": [
+      107
+    ]
+  },
+  {
+    "text": "way",
+    "size": 6,
+    "haiku_indices": [
+      107,
+      168,
+      181,
+      187,
+      267,
+      371
+    ]
+  },
+  {
+    "text": "swallows",
+    "size": 2,
+    "haiku_indices": [
+      108,
+      267
+    ]
+  },
+  {
+    "text": "dancing",
+    "size": 3,
+    "haiku_indices": [
+      108,
+      123,
+      201
+    ]
+  },
+  {
+    "text": "erratic",
+    "size": 1,
+    "haiku_indices": [
+      108
+    ]
+  },
+  {
+    "text": "perch",
+    "size": 2,
+    "haiku_indices": [
+      108,
+      156
+    ]
+  },
+  {
+    "text": "seeds",
+    "size": 1,
+    "haiku_indices": [
+      109
+    ]
+  },
+  {
+    "text": "may",
+    "size": 5,
+    "haiku_indices": [
+      109,
+      300,
+      308,
+      384,
+      397
+    ]
+  },
+  {
+    "text": "fruits",
+    "size": 1,
+    "haiku_indices": [
+      109
+    ]
+  },
+  {
+    "text": "beyond",
+    "size": 5,
+    "haiku_indices": [
+      109,
+      241,
+      313,
+      341,
+      385
+    ]
+  },
+  {
+    "text": "propagating",
+    "size": 1,
+    "haiku_indices": [
+      109
+    ]
+  },
+  {
+    "text": "breathe",
+    "size": 4,
+    "haiku_indices": [
+      110,
+      152,
+      244,
+      264
+    ]
+  },
+  {
+    "text": "permeate",
+    "size": 1,
+    "haiku_indices": [
+      110
+    ]
+  },
+  {
+    "text": "evry",
+    "size": 1,
+    "haiku_indices": [
+      110
+    ]
+  },
+  {
+    "text": "living",
+    "size": 2,
+    "haiku_indices": [
+      110,
+      126
+    ]
+  },
+  {
+    "text": "cell",
+    "size": 1,
+    "haiku_indices": [
+      110
+    ]
+  },
+  {
+    "text": "awareness",
+    "size": 1,
+    "haiku_indices": [
+      111
+    ]
+  },
+  {
+    "text": "contrast",
+    "size": 4,
+    "haiku_indices": [
+      111,
+      146,
+      181,
+      401
+    ]
+  },
+  {
+    "text": "reveal",
+    "size": 2,
+    "haiku_indices": [
+      111,
+      118
+    ]
+  },
+  {
+    "text": "wave",
+    "size": 2,
+    "haiku_indices": [
+      112,
+      354
+    ]
+  },
+  {
+    "text": "wafts",
+    "size": 1,
+    "haiku_indices": [
+      112
+    ]
+  },
+  {
+    "text": "entire",
+    "size": 2,
+    "haiku_indices": [
+      112,
+      309
+    ]
+  },
+  {
+    "text": "fairyslipper",
+    "size": 1,
+    "haiku_indices": [
+      113
+    ]
+  },
+  {
+    "text": "delicate",
+    "size": 1,
+    "haiku_indices": [
+      113
+    ]
+  },
+  {
+    "text": "wish",
+    "size": 1,
+    "haiku_indices": [
+      114
+    ]
+  },
+  {
+    "text": "knew",
+    "size": 1,
+    "haiku_indices": [
+      114
+    ]
+  },
+  {
+    "text": "comfort",
+    "size": 1,
+    "haiku_indices": [
+      114
+    ]
+  },
+  {
+    "text": "devastation",
+    "size": 1,
+    "haiku_indices": [
+      114
+    ]
+  },
+  {
+    "text": "feel",
+    "size": 16,
+    "haiku_indices": [
+      114,
+      133,
+      153,
+      170,
+      182,
+      184,
+      189,
+      216,
+      236,
+      238,
+      242,
+      272,
+      293,
+      332,
+      398,
+      402
+    ]
+  },
+  {
+    "text": "hopeless",
+    "size": 1,
+    "haiku_indices": [
+      114
+    ]
+  },
+  {
+    "text": "late",
+    "size": 1,
+    "haiku_indices": [
+      115
+    ]
+  },
+  {
+    "text": "lunch",
+    "size": 1,
+    "haiku_indices": [
+      115
+    ]
+  },
+  {
+    "text": "stopped",
+    "size": 2,
+    "haiku_indices": [
+      115,
+      317
+    ]
+  },
+  {
+    "text": "talk",
+    "size": 2,
+    "haiku_indices": [
+      115,
+      379
+    ]
+  },
+  {
+    "text": "kale",
+    "size": 1,
+    "haiku_indices": [
+      115
+    ]
+  },
+  {
+    "text": "cherry",
+    "size": 1,
+    "haiku_indices": [
+      116
+    ]
+  },
+  {
+    "text": "blossom",
+    "size": 1,
+    "haiku_indices": [
+      116
+    ]
+  },
+  {
+    "text": "swirls",
+    "size": 3,
+    "haiku_indices": [
+      116,
+      202,
+      361
+    ]
+  },
+  {
+    "text": "turbulence",
+    "size": 1,
+    "haiku_indices": [
+      116
+    ]
+  },
+  {
+    "text": "movement",
+    "size": 1,
+    "haiku_indices": [
+      116
+    ]
+  },
+  {
+    "text": "currents",
+    "size": 4,
+    "haiku_indices": [
+      116,
+      325,
+      378,
+      393
+    ]
+  },
+  {
+    "text": "make",
+    "size": 7,
+    "haiku_indices": [
+      116,
+      217,
+      240,
+      348,
+      348,
+      402,
+      408
+    ]
+  },
+  {
+    "text": "must",
+    "size": 4,
+    "haiku_indices": [
+      117,
+      255,
+      372,
+      386
+    ]
+  },
+  {
+    "text": "bury",
+    "size": 1,
+    "haiku_indices": [
+      117
+    ]
+  },
+  {
+    "text": "things",
+    "size": 2,
+    "haiku_indices": [
+      117,
+      136
+    ]
+  },
+  {
+    "text": "grow",
+    "size": 3,
+    "haiku_indices": [
+      117,
+      145,
+      160
+    ]
+  },
+  {
+    "text": "anew",
+    "size": 1,
+    "haiku_indices": [
+      117
+    ]
+  },
+  {
+    "text": "offers",
+    "size": 1,
+    "haiku_indices": [
+      118
+    ]
+  },
+  {
+    "text": "orientation",
+    "size": 1,
+    "haiku_indices": [
+      118
+    ]
+  },
+  {
+    "text": "provide",
+    "size": 2,
+    "haiku_indices": [
+      119,
+      311
+    ]
+  },
+  {
+    "text": "brilliance",
+    "size": 1,
+    "haiku_indices": [
+      119
+    ]
+  },
+  {
+    "text": "wispy",
+    "size": 1,
+    "haiku_indices": [
+      119
+    ]
+  },
+  {
+    "text": "tufts",
+    "size": 1,
+    "haiku_indices": [
+      119
+    ]
+  },
+  {
+    "text": "ask",
+    "size": 1,
+    "haiku_indices": [
+      120
+    ]
+  },
+  {
+    "text": "negative",
+    "size": 1,
+    "haiku_indices": [
+      120
+    ]
+  },
+  {
+    "text": "becomes",
+    "size": 2,
+    "haiku_indices": [
+      120,
+      415
+    ]
+  },
+  {
+    "text": "positive",
+    "size": 1,
+    "haiku_indices": [
+      120
+    ]
+  },
+  {
+    "text": "shift",
+    "size": 1,
+    "haiku_indices": [
+      120
+    ]
+  },
+  {
+    "text": "seek",
+    "size": 3,
+    "haiku_indices": [
+      121,
+      311,
+      344
+    ]
+  },
+  {
+    "text": "zeros",
+    "size": 1,
+    "haiku_indices": [
+      121
+    ]
+  },
+  {
+    "text": "intersections",
+    "size": 1,
+    "haiku_indices": [
+      121
+    ]
+  },
+  {
+    "text": "self",
+    "size": 7,
+    "haiku_indices": [
+      121,
+      208,
+      229,
+      309,
+      390,
+      390,
+      411
+    ]
+  },
+  {
+    "text": "filled",
+    "size": 2,
+    "haiku_indices": [
+      121,
+      266
+    ]
+  },
+  {
+    "text": "sneaks",
+    "size": 1,
+    "haiku_indices": [
+      122
+    ]
+  },
+  {
+    "text": "quite",
+    "size": 1,
+    "haiku_indices": [
+      122
+    ]
+  },
+  {
+    "text": "awe",
+    "size": 3,
+    "haiku_indices": [
+      122,
+      284,
+      389
+    ]
+  },
+  {
+    "text": "swallow",
+    "size": 1,
+    "haiku_indices": [
+      123
+    ]
+  },
+  {
+    "text": "ballet",
+    "size": 1,
+    "haiku_indices": [
+      123
+    ]
+  },
+  {
+    "text": "swooping",
+    "size": 1,
+    "haiku_indices": [
+      123
+    ]
+  },
+  {
+    "text": "diving",
+    "size": 1,
+    "haiku_indices": [
+      123
+    ]
+  },
+  {
+    "text": "violet",
+    "size": 1,
+    "haiku_indices": [
+      123
+    ]
+  },
+  {
+    "text": "utter",
+    "size": 3,
+    "haiku_indices": [
+      124,
+      179,
+      302
+    ]
+  },
+  {
+    "text": "nakedness",
+    "size": 1,
+    "haiku_indices": [
+      124
+    ]
+  },
+  {
+    "text": "revealing",
+    "size": 2,
+    "haiku_indices": [
+      124,
+      193
+    ]
+  },
+  {
+    "text": "true",
+    "size": 1,
+    "haiku_indices": [
+      124
+    ]
+  },
+  {
+    "text": "form",
+    "size": 3,
+    "haiku_indices": [
+      124,
+      185,
+      376
+    ]
+  },
+  {
+    "text": "blank",
+    "size": 1,
+    "haiku_indices": [
+      125
+    ]
+  },
+  {
+    "text": "canvas",
+    "size": 1,
+    "haiku_indices": [
+      125
+    ]
+  },
+  {
+    "text": "calls",
+    "size": 4,
+    "haiku_indices": [
+      125,
+      280,
+      283,
+      286
+    ]
+  },
+  {
+    "text": "pigments",
+    "size": 1,
+    "haiku_indices": [
+      125
+    ]
+  },
+  {
+    "text": "evolve",
+    "size": 1,
+    "haiku_indices": [
+      125
+    ]
+  },
+  {
+    "text": "art",
+    "size": 4,
+    "haiku_indices": [
+      125,
+      214,
+      261,
+      368
+    ]
+  },
+  {
+    "text": "live",
+    "size": 1,
+    "haiku_indices": [
+      126
+    ]
+  },
+  {
+    "text": "mandalas",
+    "size": 1,
+    "haiku_indices": [
+      126
+    ]
+  },
+  {
+    "text": "insane",
+    "size": 1,
+    "haiku_indices": [
+      127
+    ]
+  },
+  {
+    "text": "loudness",
+    "size": 1,
+    "haiku_indices": [
+      127
+    ]
+  },
+  {
+    "text": "silences",
+    "size": 1,
+    "haiku_indices": [
+      127
+    ]
+  },
+  {
+    "text": "oceans",
+    "size": 3,
+    "haiku_indices": [
+      127,
+      215,
+      349
+    ]
+  },
+  {
+    "text": "edge",
+    "size": 3,
+    "haiku_indices": [
+      127,
+      216,
+      349
+    ]
+  },
+  {
+    "text": "freedom",
+    "size": 1,
+    "haiku_indices": [
+      128
+    ]
+  },
+  {
+    "text": "prance",
+    "size": 2,
+    "haiku_indices": [
+      128,
+      210
+    ]
+  },
+  {
+    "text": "meadows",
+    "size": 1,
+    "haiku_indices": [
+      128
+    ]
+  },
+  {
+    "text": "trails",
+    "size": 5,
+    "haiku_indices": [
+      128,
+      182,
+      200,
+      247,
+      282
+    ]
+  },
+  {
+    "text": "wonder",
+    "size": 3,
+    "haiku_indices": [
+      128,
+      200,
+      209
+    ]
+  },
+  {
+    "text": "weight",
+    "size": 4,
+    "haiku_indices": [
+      129,
+      131,
+      181,
+      271
+    ]
+  },
+  {
+    "text": "cloud",
+    "size": 2,
+    "haiku_indices": [
+      129,
+      144
+    ]
+  },
+  {
+    "text": "immense",
+    "size": 1,
+    "haiku_indices": [
+      129
+    ]
+  },
+  {
+    "text": "vast",
+    "size": 3,
+    "haiku_indices": [
+      129,
+      241,
+      341
+    ]
+  },
+  {
+    "text": "ocean",
+    "size": 6,
+    "haiku_indices": [
+      129,
+      192,
+      218,
+      247,
+      378,
+      393
+    ]
+  },
+  {
+    "text": "mist",
+    "size": 2,
+    "haiku_indices": [
+      129,
+      307
+    ]
+  },
+  {
+    "text": "catches",
+    "size": 3,
+    "haiku_indices": [
+      129,
+      175,
+      354
+    ]
+  },
+  {
+    "text": "rays",
+    "size": 2,
+    "haiku_indices": [
+      129,
+      173
+    ]
+  },
+  {
+    "text": "transform",
+    "size": 1,
+    "haiku_indices": [
+      130
+    ]
+  },
+  {
+    "text": "translate",
+    "size": 1,
+    "haiku_indices": [
+      130
+    ]
+  },
+  {
+    "text": "reflect",
+    "size": 6,
+    "haiku_indices": [
+      130,
+      158,
+      292,
+      298,
+      326,
+      359
+    ]
+  },
+  {
+    "text": "rotate",
+    "size": 1,
+    "haiku_indices": [
+      130
+    ]
+  },
+  {
+    "text": "dilate",
+    "size": 1,
+    "haiku_indices": [
+      130
+    ]
+  },
+  {
+    "text": "outline",
+    "size": 1,
+    "haiku_indices": [
+      131
+    ]
+  },
+  {
+    "text": "struck",
+    "size": 1,
+    "haiku_indices": [
+      131
+    ]
+  },
+  {
+    "text": "remnants",
+    "size": 1,
+    "haiku_indices": [
+      131
+    ]
+  },
+  {
+    "text": "better",
+    "size": 1,
+    "haiku_indices": [
+      132
+    ]
+  },
+  {
+    "text": "plotted",
+    "size": 1,
+    "haiku_indices": [
+      132
+    ]
+  },
+  {
+    "text": "polar",
+    "size": 2,
+    "haiku_indices": [
+      132,
+      150
+    ]
+  },
+  {
+    "text": "blanket",
+    "size": 1,
+    "haiku_indices": [
+      133
+    ]
+  },
+  {
+    "text": "wraps",
+    "size": 1,
+    "haiku_indices": [
+      133
+    ]
+  },
+  {
+    "text": "everywhere",
+    "size": 1,
+    "haiku_indices": [
+      133
+    ]
+  },
+  {
+    "text": "tell",
+    "size": 2,
+    "haiku_indices": [
+      134,
+      165
+    ]
+  },
+  {
+    "text": "stand",
+    "size": 5,
+    "haiku_indices": [
+      134,
+      314,
+      350,
+      393,
+      407
+    ]
+  },
+  {
+    "text": "iota",
+    "size": 2,
+    "haiku_indices": [
+      134,
+      262
+    ]
+  },
+  {
+    "text": "potential",
+    "size": 1,
+    "haiku_indices": [
+      135
+    ]
+  },
+  {
+    "text": "ball",
+    "size": 1,
+    "haiku_indices": [
+      135
+    ]
+  },
+  {
+    "text": "peony",
+    "size": 1,
+    "haiku_indices": [
+      135
+    ]
+  },
+  {
+    "text": "preparing",
+    "size": 1,
+    "haiku_indices": [
+      135
+    ]
+  },
+  {
+    "text": "bloom",
+    "size": 3,
+    "haiku_indices": [
+      135,
+      235,
+      274
+    ]
+  },
+  {
+    "text": "without",
+    "size": 3,
+    "haiku_indices": [
+      136,
+      168,
+      211
+    ]
+  },
+  {
+    "text": "expectation",
+    "size": 1,
+    "haiku_indices": [
+      136
+    ]
+  },
+  {
+    "text": "floor",
+    "size": 4,
+    "haiku_indices": [
+      136,
+      172,
+      236,
+      286
+    ]
+  },
+  {
+    "text": "solve",
+    "size": 1,
+    "haiku_indices": [
+      137
+    ]
+  },
+  {
+    "text": "soma",
+    "size": 1,
+    "haiku_indices": [
+      137
+    ]
+  },
+  {
+    "text": "cube",
+    "size": 1,
+    "haiku_indices": [
+      137
+    ]
+  },
+  {
+    "text": "puzzle",
+    "size": 1,
+    "haiku_indices": [
+      137
+    ]
+  },
+  {
+    "text": "possibilities",
+    "size": 2,
+    "haiku_indices": [
+      137,
+      403
+    ]
+  },
+  {
+    "text": "create",
+    "size": 2,
+    "haiku_indices": [
+      137,
+      243
+    ]
+  },
+  {
+    "text": "determination",
+    "size": 1,
+    "haiku_indices": [
+      138
+    ]
+  },
+  {
+    "text": "origami",
+    "size": 5,
+    "haiku_indices": [
+      138,
+      147,
+      184,
+      203,
+      408
+    ]
+  },
+  {
+    "text": "creases",
+    "size": 2,
+    "haiku_indices": [
+      138,
+      184
+    ]
+  },
+  {
+    "text": "fold",
+    "size": 1,
+    "haiku_indices": [
+      138
+    ]
+  },
+  {
+    "text": "suffer",
+    "size": 1,
+    "haiku_indices": [
+      139
+    ]
+  },
+  {
+    "text": "take",
+    "size": 5,
+    "haiku_indices": [
+      139,
+      271,
+      310,
+      340,
+      415
+    ]
+  },
+  {
+    "text": "something",
+    "size": 1,
+    "haiku_indices": [
+      139
+    ]
+  },
+  {
+    "text": "utterly",
+    "size": 2,
+    "haiku_indices": [
+      139,
+      348
+    ]
+  },
+  {
+    "text": "selfless",
+    "size": 2,
+    "haiku_indices": [
+      139,
+      292
+    ]
+  },
+  {
+    "text": "flock",
+    "size": 2,
+    "haiku_indices": [
+      140,
+      167
+    ]
+  },
+  {
+    "text": "sipping",
+    "size": 1,
+    "haiku_indices": [
+      140
+    ]
+  },
+  {
+    "text": "torch",
+    "size": 1,
+    "haiku_indices": [
+      140
+    ]
+  },
+  {
+    "text": "earful",
+    "size": 1,
+    "haiku_indices": [
+      140
+    ]
+  },
+  {
+    "text": "window",
+    "size": 3,
+    "haiku_indices": [
+      141,
+      315,
+      394
+    ]
+  },
+  {
+    "text": "deja",
+    "size": 1,
+    "haiku_indices": [
+      141
+    ]
+  },
+  {
+    "text": "vu",
+    "size": 1,
+    "haiku_indices": [
+      141
+    ]
+  },
+  {
+    "text": "hummingbirds",
+    "size": 1,
+    "haiku_indices": [
+      141
+    ]
+  },
+  {
+    "text": "eat",
+    "size": 1,
+    "haiku_indices": [
+      141
+    ]
+  },
+  {
+    "text": "repeat",
+    "size": 1,
+    "haiku_indices": [
+      141
+    ]
+  },
+  {
+    "text": "towards",
+    "size": 1,
+    "haiku_indices": [
+      142
+    ]
+  },
+  {
+    "text": "setting",
+    "size": 1,
+    "haiku_indices": [
+      142
+    ]
+  },
+  {
+    "text": "warm",
+    "size": 3,
+    "haiku_indices": [
+      142,
+      233,
+      298
+    ]
+  },
+  {
+    "text": "breast",
+    "size": 1,
+    "haiku_indices": [
+      142
+    ]
+  },
+  {
+    "text": "many",
+    "size": 2,
+    "haiku_indices": [
+      143,
+      355
+    ]
+  },
+  {
+    "text": "creatures",
+    "size": 1,
+    "haiku_indices": [
+      143
+    ]
+  },
+  {
+    "text": "settle",
+    "size": 1,
+    "haiku_indices": [
+      143
+    ]
+  },
+  {
+    "text": "long",
+    "size": 8,
+    "haiku_indices": [
+      143,
+      173,
+      173,
+      222,
+      260,
+      277,
+      294,
+      367
+    ]
+  },
+  {
+    "text": "evening",
+    "size": 4,
+    "haiku_indices": [
+      143,
+      177,
+      204,
+      398
+    ]
+  },
+  {
+    "text": "prayers",
+    "size": 1,
+    "haiku_indices": [
+      143
+    ]
+  },
+  {
+    "text": "wished",
+    "size": 1,
+    "haiku_indices": [
+      144
+    ]
+  },
+  {
+    "text": "deeply",
+    "size": 1,
+    "haiku_indices": [
+      144
+    ]
+  },
+  {
+    "text": "shrouded",
+    "size": 1,
+    "haiku_indices": [
+      144
+    ]
+  },
+  {
+    "text": "sleep",
+    "size": 1,
+    "haiku_indices": [
+      144
+    ]
+  },
+  {
+    "text": "plan",
+    "size": 1,
+    "haiku_indices": [
+      145
+    ]
+  },
+  {
+    "text": "garden",
+    "size": 3,
+    "haiku_indices": [
+      145,
+      176,
+      227
+    ]
+  },
+  {
+    "text": "beds",
+    "size": 1,
+    "haiku_indices": [
+      145
+    ]
+  },
+  {
+    "text": "volunteers",
+    "size": 1,
+    "haiku_indices": [
+      145
+    ]
+  },
+  {
+    "text": "surprises",
+    "size": 1,
+    "haiku_indices": [
+      145
+    ]
+  },
+  {
+    "text": "ink",
+    "size": 1,
+    "haiku_indices": [
+      146
+    ]
+  },
+  {
+    "text": "messy",
+    "size": 1,
+    "haiku_indices": [
+      146
+    ]
+  },
+  {
+    "text": "painting",
+    "size": 1,
+    "haiku_indices": [
+      146
+    ]
+  },
+  {
+    "text": "spilled",
+    "size": 1,
+    "haiku_indices": [
+      146
+    ]
+  },
+  {
+    "text": "inspire",
+    "size": 1,
+    "haiku_indices": [
+      146
+    ]
+  },
+  {
+    "text": "unfold",
+    "size": 1,
+    "haiku_indices": [
+      147
+    ]
+  },
+  {
+    "text": "sunrise",
+    "size": 2,
+    "haiku_indices": [
+      147,
+      148
+    ]
+  },
+  {
+    "text": "turning",
+    "size": 1,
+    "haiku_indices": [
+      147
+    ]
+  },
+  {
+    "text": "saw",
+    "size": 3,
+    "haiku_indices": [
+      148,
+      315,
+      352
+    ]
+  },
+  {
+    "text": "roses",
+    "size": 1,
+    "haiku_indices": [
+      148
+    ]
+  },
+  {
+    "text": "radiance",
+    "size": 1,
+    "haiku_indices": [
+      148
+    ]
+  },
+  {
+    "text": "birdwatching",
+    "size": 1,
+    "haiku_indices": [
+      149
+    ]
+  },
+  {
+    "text": "reeds",
+    "size": 1,
+    "haiku_indices": [
+      149
+    ]
+  },
+  {
+    "text": "refuge",
+    "size": 1,
+    "haiku_indices": [
+      149
+    ]
+  },
+  {
+    "text": "chicken",
+    "size": 1,
+    "haiku_indices": [
+      149
+    ]
+  },
+  {
+    "text": "pondering",
+    "size": 1,
+    "haiku_indices": [
+      150
+    ]
+  },
+  {
+    "text": "angle",
+    "size": 1,
+    "haiku_indices": [
+      150
+    ]
+  },
+  {
+    "text": "reference",
+    "size": 1,
+    "haiku_indices": [
+      150
+    ]
+  },
+  {
+    "text": "paintbrush",
+    "size": 1,
+    "haiku_indices": [
+      151
+    ]
+  },
+  {
+    "text": "reminders",
+    "size": 2,
+    "haiku_indices": [
+      151,
+      395
+    ]
+  },
+  {
+    "text": "release",
+    "size": 1,
+    "haiku_indices": [
+      152
+    ]
+  },
+  {
+    "text": "grip",
+    "size": 1,
+    "haiku_indices": [
+      152
+    ]
+  },
+  {
+    "text": "detach",
+    "size": 1,
+    "haiku_indices": [
+      152
+    ]
+  },
+  {
+    "text": "dream",
+    "size": 5,
+    "haiku_indices": [
+      153,
+      281,
+      298,
+      303,
+      398
+    ]
+  },
+  {
+    "text": "dynamic",
+    "size": 1,
+    "haiku_indices": [
+      154
+    ]
+  },
+  {
+    "text": "systems",
+    "size": 1,
+    "haiku_indices": [
+      154
+    ]
+  },
+  {
+    "text": "chaos",
+    "size": 2,
+    "haiku_indices": [
+      154,
+      385
+    ]
+  },
+  {
+    "text": "brought",
+    "size": 1,
+    "haiku_indices": [
+      155
+    ]
+  },
+  {
+    "text": "impetus",
+    "size": 2,
+    "haiku_indices": [
+      155,
+      366
+    ]
+  },
+  {
+    "text": "ringing",
+    "size": 1,
+    "haiku_indices": [
+      155
+    ]
+  },
+  {
+    "text": "dead",
+    "size": 2,
+    "haiku_indices": [
+      156,
+      206
+    ]
+  },
+  {
+    "text": "among",
+    "size": 2,
+    "haiku_indices": [
+      156,
+      287
+    ]
+  },
+  {
+    "text": "perceive",
+    "size": 1,
+    "haiku_indices": [
+      156
+    ]
+  },
+  {
+    "text": "dimension",
+    "size": 1,
+    "haiku_indices": [
+      157
+    ]
+  },
+  {
+    "text": "gutter",
+    "size": 1,
+    "haiku_indices": [
+      158
+    ]
+  },
+  {
+    "text": "hemispheres",
+    "size": 1,
+    "haiku_indices": [
+      158
+    ]
+  },
+  {
+    "text": "glimpsed",
+    "size": 1,
+    "haiku_indices": [
+      159
+    ]
+  },
+  {
+    "text": "another",
+    "size": 5,
+    "haiku_indices": [
+      159,
+      235,
+      235,
+      394,
+      402
+    ]
+  },
+  {
+    "text": "shining",
+    "size": 1,
+    "haiku_indices": [
+      159
+    ]
+  },
+  {
+    "text": "ensure",
+    "size": 1,
+    "haiku_indices": [
+      160
+    ]
+  },
+  {
+    "text": "surrounds",
+    "size": 2,
+    "haiku_indices": [
+      160,
+      357
+    ]
+  },
+  {
+    "text": "grains",
+    "size": 1,
+    "haiku_indices": [
+      160
+    ]
+  },
+  {
+    "text": "wolves",
+    "size": 1,
+    "haiku_indices": [
+      161
+    ]
+  },
+  {
+    "text": "howl",
+    "size": 1,
+    "haiku_indices": [
+      161
+    ]
+  },
+  {
+    "text": "waves",
+    "size": 6,
+    "haiku_indices": [
+      161,
+      273,
+      325,
+      347,
+      351,
+      378
+    ]
+  },
+  {
+    "text": "cawing",
+    "size": 1,
+    "haiku_indices": [
+      161
+    ]
+  },
+  {
+    "text": "character",
+    "size": 1,
+    "haiku_indices": [
+      162
+    ]
+  },
+  {
+    "text": "unexpected",
+    "size": 1,
+    "haiku_indices": [
+      162
+    ]
+  },
+  {
+    "text": "norms",
+    "size": 1,
+    "haiku_indices": [
+      162
+    ]
+  },
+  {
+    "text": "forgetmenots",
+    "size": 1,
+    "haiku_indices": [
+      163
+    ]
+  },
+  {
+    "text": "weeks",
+    "size": 1,
+    "haiku_indices": [
+      163
+    ]
+  },
+  {
+    "text": "season",
+    "size": 3,
+    "haiku_indices": [
+      163,
+      310,
+      337
+    ]
+  },
+  {
+    "text": "brightening",
+    "size": 1,
+    "haiku_indices": [
+      163
+    ]
+  },
+  {
+    "text": "hands",
+    "size": 4,
+    "haiku_indices": [
+      164,
+      196,
+      410,
+      414
+    ]
+  },
+  {
+    "text": "died",
+    "size": 1,
+    "haiku_indices": [
+      164
+    ]
+  },
+  {
+    "text": "chickadee",
+    "size": 1,
+    "haiku_indices": [
+      164
+    ]
+  },
+  {
+    "text": "stories",
+    "size": 1,
+    "haiku_indices": [
+      165
+    ]
+  },
+  {
+    "text": "chases",
+    "size": 1,
+    "haiku_indices": [
+      165
+    ]
+  },
+  {
+    "text": "young",
+    "size": 1,
+    "haiku_indices": [
+      166
+    ]
+  },
+  {
+    "text": "boids",
+    "size": 1,
+    "haiku_indices": [
+      167
+    ]
+  },
+  {
+    "text": "cohesion",
+    "size": 1,
+    "haiku_indices": [
+      167
+    ]
+  },
+  {
+    "text": "separate",
+    "size": 2,
+    "haiku_indices": [
+      167,
+      393
+    ]
+  },
+  {
+    "text": "staying",
+    "size": 1,
+    "haiku_indices": [
+      167
+    ]
+  },
+  {
+    "text": "aligned",
+    "size": 1,
+    "haiku_indices": [
+      167
+    ]
+  },
+  {
+    "text": "amaze",
+    "size": 1,
+    "haiku_indices": [
+      168
+    ]
+  },
+  {
+    "text": "sight",
+    "size": 1,
+    "haiku_indices": [
+      168
+    ]
+  },
+  {
+    "text": "tight",
+    "size": 1,
+    "haiku_indices": [
+      168
+    ]
+  },
+  {
+    "text": "reaching",
+    "size": 4,
+    "haiku_indices": [
+      168,
+      288,
+      302,
+      314
+    ]
+  },
+  {
+    "text": "baby",
+    "size": 1,
+    "haiku_indices": [
+      169
+    ]
+  },
+  {
+    "text": "nuthatches",
+    "size": 1,
+    "haiku_indices": [
+      169
+    ]
+  },
+  {
+    "text": "quivering",
+    "size": 1,
+    "haiku_indices": [
+      169
+    ]
+  },
+  {
+    "text": "cuteness",
+    "size": 1,
+    "haiku_indices": [
+      169
+    ]
+  },
+  {
+    "text": "sit",
+    "size": 6,
+    "haiku_indices": [
+      169,
+      205,
+      227,
+      249,
+      379,
+      407
+    ]
+  },
+  {
+    "text": "running",
+    "size": 1,
+    "haiku_indices": [
+      170
+    ]
+  },
+  {
+    "text": "incredibly",
+    "size": 1,
+    "haiku_indices": [
+      170
+    ]
+  },
+  {
+    "text": "free",
+    "size": 2,
+    "haiku_indices": [
+      170,
+      367
+    ]
+  },
+  {
+    "text": "dwell",
+    "size": 1,
+    "haiku_indices": [
+      170
+    ]
+  },
+  {
+    "text": "orchids",
+    "size": 1,
+    "haiku_indices": [
+      171
+    ]
+  },
+  {
+    "text": "face",
+    "size": 1,
+    "haiku_indices": [
+      171
+    ]
+  },
+  {
+    "text": "maybe",
+    "size": 2,
+    "haiku_indices": [
+      171,
+      243
+    ]
+  },
+  {
+    "text": "ones",
+    "size": 1,
+    "haiku_indices": [
+      171
+    ]
+  },
+  {
+    "text": "caught",
+    "size": 1,
+    "haiku_indices": [
+      172
+    ]
+  },
+  {
+    "text": "enmeshed",
+    "size": 1,
+    "haiku_indices": [
+      172
+    ]
+  },
+  {
+    "text": "doubt",
+    "size": 1,
+    "haiku_indices": [
+      173
+    ]
+  },
+  {
+    "text": "sadness",
+    "size": 1,
+    "haiku_indices": [
+      173
+    ]
+  },
+  {
+    "text": "fermat",
+    "size": 1,
+    "haiku_indices": [
+      174
+    ]
+  },
+  {
+    "text": "lured",
+    "size": 1,
+    "haiku_indices": [
+      174
+    ]
+  },
+  {
+    "text": "dreams",
+    "size": 1,
+    "haiku_indices": [
+      174
+    ]
+  },
+  {
+    "text": "wrapped",
+    "size": 1,
+    "haiku_indices": [
+      174
+    ]
+  },
+  {
+    "text": "scintillates",
+    "size": 1,
+    "haiku_indices": [
+      175
+    ]
+  },
+  {
+    "text": "revert",
+    "size": 1,
+    "haiku_indices": [
+      176
+    ]
+  },
+  {
+    "text": "savor",
+    "size": 2,
+    "haiku_indices": [
+      176,
+      259
+    ]
+  },
+  {
+    "text": "ripe",
+    "size": 1,
+    "haiku_indices": [
+      176
+    ]
+  },
+  {
+    "text": "crouched",
+    "size": 1,
+    "haiku_indices": [
+      176
+    ]
+  },
+  {
+    "text": "robins",
+    "size": 1,
+    "haiku_indices": [
+      177
+    ]
+  },
+  {
+    "text": "beaks",
+    "size": 1,
+    "haiku_indices": [
+      177
+    ]
+  },
+  {
+    "text": "singing",
+    "size": 1,
+    "haiku_indices": [
+      177
+    ]
+  },
+  {
+    "text": "unfurl",
+    "size": 1,
+    "haiku_indices": [
+      178
+    ]
+  },
+  {
+    "text": "immerse",
+    "size": 3,
+    "haiku_indices": [
+      179,
+      276,
+      301
+    ]
+  },
+  {
+    "text": "sublime",
+    "size": 1,
+    "haiku_indices": [
+      179
+    ]
+  },
+  {
+    "text": "blooms",
+    "size": 2,
+    "haiku_indices": [
+      179,
+      376
+    ]
+  },
+  {
+    "text": "marks",
+    "size": 1,
+    "haiku_indices": [
+      180
+    ]
+  },
+  {
+    "text": "exist",
+    "size": 5,
+    "haiku_indices": [
+      180,
+      215,
+      236,
+      284,
+      331
+    ]
+  },
+  {
+    "text": "pulchritudinous",
+    "size": 1,
+    "haiku_indices": [
+      180
+    ]
+  },
+  {
+    "text": "theres",
+    "size": 2,
+    "haiku_indices": [
+      182,
+      233
+    ]
+  },
+  {
+    "text": "hundreds",
+    "size": 2,
+    "haiku_indices": [
+      182,
+      221
+    ]
+  },
+  {
+    "text": "finish",
+    "size": 1,
+    "haiku_indices": [
+      182
+    ]
+  },
+  {
+    "text": "lines",
+    "size": 3,
+    "haiku_indices": [
+      182,
+      338,
+      342
+    ]
+  },
+  {
+    "text": "across",
+    "size": 2,
+    "haiku_indices": [
+      182,
+      392
+    ]
+  },
+  {
+    "text": "squeeze",
+    "size": 1,
+    "haiku_indices": [
+      183
+    ]
+  },
+  {
+    "text": "portal",
+    "size": 3,
+    "haiku_indices": [
+      183,
+      324,
+      406
+    ]
+  },
+  {
+    "text": "points",
+    "size": 1,
+    "haiku_indices": [
+      183
+    ]
+  },
+  {
+    "text": "void",
+    "size": 1,
+    "haiku_indices": [
+      183
+    ]
+  },
+  {
+    "text": "deltoid",
+    "size": 1,
+    "haiku_indices": [
+      183
+    ]
+  },
+  {
+    "text": "folded",
+    "size": 2,
+    "haiku_indices": [
+      184,
+      412
+    ]
+  },
+  {
+    "text": "relax",
+    "size": 1,
+    "haiku_indices": [
+      184
+    ]
+  },
+  {
+    "text": "ducklings",
+    "size": 1,
+    "haiku_indices": [
+      185
+    ]
+  },
+  {
+    "text": "mass",
+    "size": 2,
+    "haiku_indices": [
+      185,
+      352
+    ]
+  },
+  {
+    "text": "trailing",
+    "size": 1,
+    "haiku_indices": [
+      185
+    ]
+  },
+  {
+    "text": "bees",
+    "size": 1,
+    "haiku_indices": [
+      186
+    ]
+  },
+  {
+    "text": "gardens",
+    "size": 1,
+    "haiku_indices": [
+      186
+    ]
+  },
+  {
+    "text": "presence",
+    "size": 2,
+    "haiku_indices": [
+      186,
+      227
+    ]
+  },
+  {
+    "text": "transforming",
+    "size": 1,
+    "haiku_indices": [
+      186
+    ]
+  },
+  {
+    "text": "perspectives",
+    "size": 1,
+    "haiku_indices": [
+      187
+    ]
+  },
+  {
+    "text": "give",
+    "size": 2,
+    "haiku_indices": [
+      187,
+      206
+    ]
+  },
+  {
+    "text": "hope",
+    "size": 1,
+    "haiku_indices": [
+      187
+    ]
+  },
+  {
+    "text": "unity",
+    "size": 1,
+    "haiku_indices": [
+      187
+    ]
+  },
+  {
+    "text": "orbit",
+    "size": 2,
+    "haiku_indices": [
+      188,
+      405
+    ]
+  },
+  {
+    "text": "view",
+    "size": 2,
+    "haiku_indices": [
+      188,
+      209
+    ]
+  },
+  {
+    "text": "plane",
+    "size": 1,
+    "haiku_indices": [
+      188
+    ]
+  },
+  {
+    "text": "heat",
+    "size": 1,
+    "haiku_indices": [
+      189
+    ]
+  },
+  {
+    "text": "bubble",
+    "size": 1,
+    "haiku_indices": [
+      189
+    ]
+  },
+  {
+    "text": "anxiety",
+    "size": 1,
+    "haiku_indices": [
+      189
+    ]
+  },
+  {
+    "text": "dreading",
+    "size": 1,
+    "haiku_indices": [
+      189
+    ]
+  },
+  {
+    "text": "suffering",
+    "size": 1,
+    "haiku_indices": [
+      189
+    ]
+  },
+  {
+    "text": "two",
+    "size": 1,
+    "haiku_indices": [
+      190
+    ]
+  },
+  {
+    "text": "rocks",
+    "size": 1,
+    "haiku_indices": [
+      190
+    ]
+  },
+  {
+    "text": "heart",
+    "size": 2,
+    "haiku_indices": [
+      190,
+      194
+    ]
+  },
+  {
+    "text": "fractions",
+    "size": 1,
+    "haiku_indices": [
+      191
+    ]
+  },
+  {
+    "text": "stretch",
+    "size": 2,
+    "haiku_indices": [
+      191,
+      392
+    ]
+  },
+  {
+    "text": "golden",
+    "size": 1,
+    "haiku_indices": [
+      191
+    ]
+  },
+  {
+    "text": "pisano",
+    "size": 1,
+    "haiku_indices": [
+      191
+    ]
+  },
+  {
+    "text": "sand",
+    "size": 5,
+    "haiku_indices": [
+      192,
+      215,
+      221,
+      386,
+      388
+    ]
+  },
+  {
+    "text": "ridges",
+    "size": 1,
+    "haiku_indices": [
+      192
+    ]
+  },
+  {
+    "text": "paint",
+    "size": 1,
+    "haiku_indices": [
+      192
+    ]
+  },
+  {
+    "text": "histories",
+    "size": 1,
+    "haiku_indices": [
+      192
+    ]
+  },
+  {
+    "text": "tides",
+    "size": 2,
+    "haiku_indices": [
+      192,
+      219
+    ]
+  },
+  {
+    "text": "sweep",
+    "size": 1,
+    "haiku_indices": [
+      192
+    ]
+  },
+  {
+    "text": "removes",
+    "size": 1,
+    "haiku_indices": [
+      193
+    ]
+  },
+  {
+    "text": "veil",
+    "size": 1,
+    "haiku_indices": [
+      193
+    ]
+  },
+  {
+    "text": "ancient",
+    "size": 3,
+    "haiku_indices": [
+      193,
+      332,
+      410
+    ]
+  },
+  {
+    "text": "vestige",
+    "size": 1,
+    "haiku_indices": [
+      193
+    ]
+  },
+  {
+    "text": "rate",
+    "size": 1,
+    "haiku_indices": [
+      194
+    ]
+  },
+  {
+    "text": "integrals",
+    "size": 1,
+    "haiku_indices": [
+      194
+    ]
+  },
+  {
+    "text": "could",
+    "size": 6,
+    "haiku_indices": [
+      194,
+      206,
+      253,
+      317,
+      322,
+      387
+    ]
+  },
+  {
+    "text": "sum",
+    "size": 1,
+    "haiku_indices": [
+      194
+    ]
+  },
+  {
+    "text": "beats",
+    "size": 1,
+    "haiku_indices": [
+      194
+    ]
+  },
+  {
+    "text": "critical",
+    "size": 1,
+    "haiku_indices": [
+      194
+    ]
+  },
+  {
+    "text": "hang",
+    "size": 1,
+    "haiku_indices": [
+      195
+    ]
+  },
+  {
+    "text": "helical",
+    "size": 1,
+    "haiku_indices": [
+      195
+    ]
+  },
+  {
+    "text": "curls",
+    "size": 1,
+    "haiku_indices": [
+      195
+    ]
+  },
+  {
+    "text": "filtered",
+    "size": 1,
+    "haiku_indices": [
+      195
+    ]
+  },
+  {
+    "text": "solar",
+    "size": 1,
+    "haiku_indices": [
+      195
+    ]
+  },
+  {
+    "text": "bloomed",
+    "size": 1,
+    "haiku_indices": [
+      196
+    ]
+  },
+  {
+    "text": "remind",
+    "size": 3,
+    "haiku_indices": [
+      196,
+      263,
+      303
+    ]
+  },
+  {
+    "text": "laugh",
+    "size": 1,
+    "haiku_indices": [
+      196
+    ]
+  },
+  {
+    "text": "chase",
+    "size": 2,
+    "haiku_indices": [
+      197,
+      210
+    ]
+  },
+  {
+    "text": "yell",
+    "size": 1,
+    "haiku_indices": [
+      197
+    ]
+  },
+  {
+    "text": "fight",
+    "size": 1,
+    "haiku_indices": [
+      197
+    ]
+  },
+  {
+    "text": "piece",
+    "size": 1,
+    "haiku_indices": [
+      197
+    ]
+  },
+  {
+    "text": "taught",
+    "size": 1,
+    "haiku_indices": [
+      198
+    ]
+  },
+  {
+    "text": "words",
+    "size": 1,
+    "haiku_indices": [
+      198
+    ]
+  },
+  {
+    "text": "umbellifer",
+    "size": 1,
+    "haiku_indices": [
+      198
+    ]
+  },
+  {
+    "text": "runs",
+    "size": 1,
+    "haiku_indices": [
+      199
+    ]
+  },
+  {
+    "text": "accidental",
+    "size": 1,
+    "haiku_indices": [
+      199
+    ]
+  },
+  {
+    "text": "flushing",
+    "size": 1,
+    "haiku_indices": [
+      199
+    ]
+  },
+  {
+    "text": "dog",
+    "size": 1,
+    "haiku_indices": [
+      199
+    ]
+  },
+  {
+    "text": "closely",
+    "size": 1,
+    "haiku_indices": [
+      200
+    ]
+  },
+  {
+    "text": "doors",
+    "size": 1,
+    "haiku_indices": [
+      200
+    ]
+  },
+  {
+    "text": "simplest",
+    "size": 1,
+    "haiku_indices": [
+      201
+    ]
+  },
+  {
+    "text": "sunshine",
+    "size": 1,
+    "haiku_indices": [
+      201
+    ]
+  },
+  {
+    "text": "butterfly",
+    "size": 1,
+    "haiku_indices": [
+      202
+    ]
+  },
+  {
+    "text": "flutters",
+    "size": 1,
+    "haiku_indices": [
+      202
+    ]
+  },
+  {
+    "text": "want",
+    "size": 1,
+    "haiku_indices": [
+      202
+    ]
+  },
+  {
+    "text": "palettes",
+    "size": 1,
+    "haiku_indices": [
+      203
+    ]
+  },
+  {
+    "text": "quilt",
+    "size": 1,
+    "haiku_indices": [
+      203
+    ]
+  },
+  {
+    "text": "much",
+    "size": 1,
+    "haiku_indices": [
+      203
+    ]
+  },
+  {
+    "text": "ponder",
+    "size": 1,
+    "haiku_indices": [
+      203
+    ]
+  },
+  {
+    "text": "whisper",
+    "size": 2,
+    "haiku_indices": [
+      204,
+      399
+    ]
+  },
+  {
+    "text": "tomorrow",
+    "size": 1,
+    "haiku_indices": [
+      204
+    ]
+  },
+  {
+    "text": "gift",
+    "size": 2,
+    "haiku_indices": [
+      205,
+      206
+    ]
+  },
+  {
+    "text": "swifts",
+    "size": 1,
+    "haiku_indices": [
+      205
+    ]
+  },
+  {
+    "text": "ajar",
+    "size": 1,
+    "haiku_indices": [
+      205
+    ]
+  },
+  {
+    "text": "im",
+    "size": 1,
+    "haiku_indices": [
+      206
+    ]
+  },
+  {
+    "text": "best",
+    "size": 2,
+    "haiku_indices": [
+      206,
+      377
+    ]
+  },
+  {
+    "text": "leave",
+    "size": 1,
+    "haiku_indices": [
+      206
+    ]
+  },
+  {
+    "text": "trace",
+    "size": 1,
+    "haiku_indices": [
+      206
+    ]
+  },
+  {
+    "text": "hill",
+    "size": 1,
+    "haiku_indices": [
+      207
+    ]
+  },
+  {
+    "text": "absolutely",
+    "size": 2,
+    "haiku_indices": [
+      207,
+      274
+    ]
+  },
+  {
+    "text": "wonderful",
+    "size": 1,
+    "haiku_indices": [
+      207
+    ]
+  },
+  {
+    "text": "get",
+    "size": 3,
+    "haiku_indices": [
+      207,
+      294,
+      298
+    ]
+  },
+  {
+    "text": "peak",
+    "size": 1,
+    "haiku_indices": [
+      207
+    ]
+  },
+  {
+    "text": "portraits",
+    "size": 1,
+    "haiku_indices": [
+      208
+    ]
+  },
+  {
+    "text": "tough",
+    "size": 2,
+    "haiku_indices": [
+      208,
+      300
+    ]
+  },
+  {
+    "text": "thats",
+    "size": 1,
+    "haiku_indices": [
+      208
+    ]
+  },
+  {
+    "text": "mirrors",
+    "size": 1,
+    "haiku_indices": [
+      208
+    ]
+  },
+  {
+    "text": "threehundredsixty",
+    "size": 1,
+    "haiku_indices": [
+      209
+    ]
+  },
+  {
+    "text": "limited",
+    "size": 1,
+    "haiku_indices": [
+      209
+    ]
+  },
+  {
+    "text": "hello",
+    "size": 3,
+    "haiku_indices": [
+      210,
+      295,
+      333
+    ]
+  },
+  {
+    "text": "deer",
+    "size": 1,
+    "haiku_indices": [
+      210
+    ]
+  },
+  {
+    "text": "shall",
+    "size": 1,
+    "haiku_indices": [
+      210
+    ]
+  },
+  {
+    "text": "along",
+    "size": 1,
+    "haiku_indices": [
+      210
+    ]
+  },
+  {
+    "text": "swallowtail",
+    "size": 1,
+    "haiku_indices": [
+      210
+    ]
+  },
+  {
+    "text": "ebbs",
+    "size": 1,
+    "haiku_indices": [
+      211
+    ]
+  },
+  {
+    "text": "flows",
+    "size": 2,
+    "haiku_indices": [
+      211,
+      291
+    ]
+  },
+  {
+    "text": "dry",
+    "size": 1,
+    "haiku_indices": [
+      211
+    ]
+  },
+  {
+    "text": "spells",
+    "size": 1,
+    "haiku_indices": [
+      211
+    ]
+  },
+  {
+    "text": "flood",
+    "size": 1,
+    "haiku_indices": [
+      211
+    ]
+  },
+  {
+    "text": "nothing",
+    "size": 2,
+    "haiku_indices": [
+      211,
+      347
+    ]
+  },
+  {
+    "text": "geometric",
+    "size": 1,
+    "haiku_indices": [
+      212
+    ]
+  },
+  {
+    "text": "egg",
+    "size": 1,
+    "haiku_indices": [
+      212
+    ]
+  },
+  {
+    "text": "constructed",
+    "size": 1,
+    "haiku_indices": [
+      212
+    ]
+  },
+  {
+    "text": "four",
+    "size": 1,
+    "haiku_indices": [
+      212
+    ]
+  },
+  {
+    "text": "seed",
+    "size": 1,
+    "haiku_indices": [
+      212
+    ]
+  },
+  {
+    "text": "isolation",
+    "size": 1,
+    "haiku_indices": [
+      213
+    ]
+  },
+  {
+    "text": "creativity",
+    "size": 1,
+    "haiku_indices": [
+      213
+    ]
+  },
+  {
+    "text": "quintessence",
+    "size": 1,
+    "haiku_indices": [
+      213
+    ]
+  },
+  {
+    "text": "bee",
+    "size": 2,
+    "haiku_indices": [
+      214,
+      336
+    ]
+  },
+  {
+    "text": "flower",
+    "size": 3,
+    "haiku_indices": [
+      214,
+      226,
+      416
+    ]
+  },
+  {
+    "text": "passion",
+    "size": 1,
+    "haiku_indices": [
+      214
+    ]
+  },
+  {
+    "text": "gems",
+    "size": 1,
+    "haiku_indices": [
+      215
+    ]
+  },
+  {
+    "text": "junction",
+    "size": 2,
+    "haiku_indices": [
+      215,
+      405
+    ]
+  },
+  {
+    "text": "pulse",
+    "size": 1,
+    "haiku_indices": [
+      216
+    ]
+  },
+  {
+    "text": "consciousness",
+    "size": 3,
+    "haiku_indices": [
+      216,
+      290,
+      373
+    ]
+  },
+  {
+    "text": "simple",
+    "size": 1,
+    "haiku_indices": [
+      217
+    ]
+  },
+  {
+    "text": "churns",
+    "size": 1,
+    "haiku_indices": [
+      217
+    ]
+  },
+  {
+    "text": "minds",
+    "size": 3,
+    "haiku_indices": [
+      217,
+      282,
+      356
+    ]
+  },
+  {
+    "text": "wonders",
+    "size": 1,
+    "haiku_indices": [
+      217
+    ]
+  },
+  {
+    "text": "draw",
+    "size": 2,
+    "haiku_indices": [
+      218,
+      247
+    ]
+  },
+  {
+    "text": "gratitudes",
+    "size": 1,
+    "haiku_indices": [
+      218
+    ]
+  },
+  {
+    "text": "drop",
+    "size": 2,
+    "haiku_indices": [
+      218,
+      309
+    ]
+  },
+  {
+    "text": "fills",
+    "size": 1,
+    "haiku_indices": [
+      218
+    ]
+  },
+  {
+    "text": "tracks",
+    "size": 1,
+    "haiku_indices": [
+      219
+    ]
+  },
+  {
+    "text": "erased",
+    "size": 1,
+    "haiku_indices": [
+      219
+    ]
+  },
+  {
+    "text": "times",
+    "size": 2,
+    "haiku_indices": [
+      219,
+      264
+    ]
+  },
+  {
+    "text": "tread",
+    "size": 2,
+    "haiku_indices": [
+      219,
+      308
+    ]
+  },
+  {
+    "text": "lightly",
+    "size": 1,
+    "haiku_indices": [
+      219
+    ]
+  },
+  {
+    "text": "stumbled",
+    "size": 1,
+    "haiku_indices": [
+      220
+    ]
+  },
+  {
+    "text": "upon",
+    "size": 2,
+    "haiku_indices": [
+      220,
+      369
+    ]
+  },
+  {
+    "text": "pattern",
+    "size": 1,
+    "haiku_indices": [
+      220
+    ]
+  },
+  {
+    "text": "written",
+    "size": 1,
+    "haiku_indices": [
+      220
+    ]
+  },
+  {
+    "text": "carcass",
+    "size": 1,
+    "haiku_indices": [
+      221
+    ]
+  },
+  {
+    "text": "half",
+    "size": 1,
+    "haiku_indices": [
+      221
+    ]
+  },
+  {
+    "text": "buried",
+    "size": 1,
+    "haiku_indices": [
+      221
+    ]
+  },
+  {
+    "text": "language",
+    "size": 2,
+    "haiku_indices": [
+      222,
+      276
+    ]
+  },
+  {
+    "text": "silent",
+    "size": 2,
+    "haiku_indices": [
+      222,
+      415
+    ]
+  },
+  {
+    "text": "gaze",
+    "size": 1,
+    "haiku_indices": [
+      223
+    ]
+  },
+  {
+    "text": "drink",
+    "size": 1,
+    "haiku_indices": [
+      223
+    ]
+  },
+  {
+    "text": "existence",
+    "size": 3,
+    "haiku_indices": [
+      224,
+      245,
+      360
+    ]
+  },
+  {
+    "text": "simplicity",
+    "size": 1,
+    "haiku_indices": [
+      225
+    ]
+  },
+  {
+    "text": "plucking",
+    "size": 1,
+    "haiku_indices": [
+      225
+    ]
+  },
+  {
+    "text": "sprigs",
+    "size": 1,
+    "haiku_indices": [
+      225
+    ]
+  },
+  {
+    "text": "currants",
+    "size": 1,
+    "haiku_indices": [
+      225
+    ]
+  },
+  {
+    "text": "listening",
+    "size": 2,
+    "haiku_indices": [
+      225,
+      233
+    ]
+  },
+  {
+    "text": "need",
+    "size": 5,
+    "haiku_indices": [
+      226,
+      256,
+      326,
+      329,
+      331
+    ]
+  },
+  {
+    "text": "higher",
+    "size": 1,
+    "haiku_indices": [
+      226
+    ]
+  },
+  {
+    "text": "sunflowers",
+    "size": 1,
+    "haiku_indices": [
+      228
+    ]
+  },
+  {
+    "text": "bow",
+    "size": 1,
+    "haiku_indices": [
+      228
+    ]
+  },
+  {
+    "text": "heavy",
+    "size": 1,
+    "haiku_indices": [
+      228
+    ]
+  },
+  {
+    "text": "heads",
+    "size": 1,
+    "haiku_indices": [
+      228
+    ]
+  },
+  {
+    "text": "reverence",
+    "size": 1,
+    "haiku_indices": [
+      228
+    ]
+  },
+  {
+    "text": "summers",
+    "size": 1,
+    "haiku_indices": [
+      228
+    ]
+  },
+  {
+    "text": "seems",
+    "size": 2,
+    "haiku_indices": [
+      229,
+      385
+    ]
+  },
+  {
+    "text": "reflecting",
+    "size": 2,
+    "haiku_indices": [
+      229,
+      320
+    ]
+  },
+  {
+    "text": "peek",
+    "size": 1,
+    "haiku_indices": [
+      230
+    ]
+  },
+  {
+    "text": "grapes",
+    "size": 1,
+    "haiku_indices": [
+      230
+    ]
+  },
+  {
+    "text": "slumber",
+    "size": 1,
+    "haiku_indices": [
+      230
+    ]
+  },
+  {
+    "text": "moths",
+    "size": 1,
+    "haiku_indices": [
+      231
+    ]
+  },
+  {
+    "text": "western",
+    "size": 1,
+    "haiku_indices": [
+      231
+    ]
+  },
+  {
+    "text": "woodpeewee",
+    "size": 1,
+    "haiku_indices": [
+      231
+    ]
+  },
+  {
+    "text": "parabolic",
+    "size": 1,
+    "haiku_indices": [
+      232
+    ]
+  },
+  {
+    "text": "appear",
+    "size": 1,
+    "haiku_indices": [
+      232
+    ]
+  },
+  {
+    "text": "walkabouts",
+    "size": 1,
+    "haiku_indices": [
+      232
+    ]
+  },
+  {
+    "text": "concavity",
+    "size": 1,
+    "haiku_indices": [
+      232
+    ]
+  },
+  {
+    "text": "ritual",
+    "size": 1,
+    "haiku_indices": [
+      233
+    ]
+  },
+  {
+    "text": "cottonwoods",
+    "size": 1,
+    "haiku_indices": [
+      234
+    ]
+  },
+  {
+    "text": "sitting",
+    "size": 1,
+    "haiku_indices": [
+      234
+    ]
+  },
+  {
+    "text": "solemn",
+    "size": 1,
+    "haiku_indices": [
+      234
+    ]
+  },
+  {
+    "text": "muster",
+    "size": 1,
+    "haiku_indices": [
+      235
+    ]
+  },
+  {
+    "text": "shoot",
+    "size": 1,
+    "haiku_indices": [
+      235
+    ]
+  },
+  {
+    "text": "despite",
+    "size": 1,
+    "haiku_indices": [
+      235
+    ]
+  },
+  {
+    "text": "laying",
+    "size": 1,
+    "haiku_indices": [
+      236
+    ]
+  },
+  {
+    "text": "hear",
+    "size": 2,
+    "haiku_indices": [
+      236,
+      357
+    ]
+  },
+  {
+    "text": "brace",
+    "size": 1,
+    "haiku_indices": [
+      237
+    ]
+  },
+  {
+    "text": "shaking",
+    "size": 1,
+    "haiku_indices": [
+      237
+    ]
+  },
+  {
+    "text": "given",
+    "size": 1,
+    "haiku_indices": [
+      237
+    ]
+  },
+  {
+    "text": "loved",
+    "size": 1,
+    "haiku_indices": [
+      238
+    ]
+  },
+  {
+    "text": "rises",
+    "size": 1,
+    "haiku_indices": [
+      239
+    ]
+  },
+  {
+    "text": "sets",
+    "size": 1,
+    "haiku_indices": [
+      239
+    ]
+  },
+  {
+    "text": "doesnt",
+    "size": 1,
+    "haiku_indices": [
+      239
+    ]
+  },
+  {
+    "text": "daily",
+    "size": 1,
+    "haiku_indices": [
+      240
+    ]
+  },
+  {
+    "text": "wondrously",
+    "size": 1,
+    "haiku_indices": [
+      240
+    ]
+  },
+  {
+    "text": "peeking",
+    "size": 1,
+    "haiku_indices": [
+      241
+    ]
+  },
+  {
+    "text": "behind",
+    "size": 1,
+    "haiku_indices": [
+      241
+    ]
+  },
+  {
+    "text": "untangling",
+    "size": 1,
+    "haiku_indices": [
+      242
+    ]
+  },
+  {
+    "text": "mess",
+    "size": 1,
+    "haiku_indices": [
+      242
+    ]
+  },
+  {
+    "text": "makes",
+    "size": 1,
+    "haiku_indices": [
+      242
+    ]
+  },
+  {
+    "text": "kitten",
+    "size": 1,
+    "haiku_indices": [
+      242
+    ]
+  },
+  {
+    "text": "completing",
+    "size": 1,
+    "haiku_indices": [
+      242
+    ]
+  },
+  {
+    "text": "proof",
+    "size": 1,
+    "haiku_indices": [
+      242
+    ]
+  },
+  {
+    "text": "garment",
+    "size": 1,
+    "haiku_indices": [
+      243
+    ]
+  },
+  {
+    "text": "selflessness",
+    "size": 1,
+    "haiku_indices": [
+      244
+    ]
+  },
+  {
+    "text": "needs",
+    "size": 1,
+    "haiku_indices": [
+      244
+    ]
+  },
+  {
+    "text": "compassion",
+    "size": 1,
+    "haiku_indices": [
+      244
+    ]
+  },
+  {
+    "text": "grateful",
+    "size": 1,
+    "haiku_indices": [
+      245
+    ]
+  },
+  {
+    "text": "flip",
+    "size": 1,
+    "haiku_indices": [
+      246
+    ]
+  },
+  {
+    "text": "grave",
+    "size": 1,
+    "haiku_indices": [
+      246
+    ]
+  },
+  {
+    "text": "treasure",
+    "size": 1,
+    "haiku_indices": [
+      246
+    ]
+  },
+  {
+    "text": "call",
+    "size": 1,
+    "haiku_indices": [
+      247
+    ]
+  },
+  {
+    "text": "asked",
+    "size": 1,
+    "haiku_indices": [
+      248
+    ]
+  },
+  {
+    "text": "permission",
+    "size": 2,
+    "haiku_indices": [
+      248,
+      318
+    ]
+  },
+  {
+    "text": "anyway",
+    "size": 1,
+    "haiku_indices": [
+      248
+    ]
+  },
+  {
+    "text": "prior",
+    "size": 1,
+    "haiku_indices": [
+      248
+    ]
+  },
+  {
+    "text": "response",
+    "size": 2,
+    "haiku_indices": [
+      248,
+      274
+    ]
+  },
+  {
+    "text": "slough",
+    "size": 1,
+    "haiku_indices": [
+      249
+    ]
+  },
+  {
+    "text": "quietude",
+    "size": 1,
+    "haiku_indices": [
+      249
+    ]
+  },
+  {
+    "text": "side",
+    "size": 1,
+    "haiku_indices": [
+      249
+    ]
+  },
+  {
+    "text": "tripped",
+    "size": 1,
+    "haiku_indices": [
+      250
+    ]
+  },
+  {
+    "text": "floating",
+    "size": 1,
+    "haiku_indices": [
+      250
+    ]
+  },
+  {
+    "text": "help",
+    "size": 1,
+    "haiku_indices": [
+      250
+    ]
+  },
+  {
+    "text": "took",
+    "size": 1,
+    "haiku_indices": [
+      250
+    ]
+  },
+  {
+    "text": "paintings",
+    "size": 1,
+    "haiku_indices": [
+      251
+    ]
+  },
+  {
+    "text": "strokes",
+    "size": 1,
+    "haiku_indices": [
+      251
+    ]
+  },
+  {
+    "text": "grass",
+    "size": 2,
+    "haiku_indices": [
+      251,
+      332
+    ]
+  },
+  {
+    "text": "azure",
+    "size": 2,
+    "haiku_indices": [
+      251,
+      269
+    ]
+  },
+  {
+    "text": "intense",
+    "size": 1,
+    "haiku_indices": [
+      252
+    ]
+  },
+  {
+    "text": "left",
+    "size": 2,
+    "haiku_indices": [
+      252,
+      372
+    ]
+  },
+  {
+    "text": "crack",
+    "size": 1,
+    "haiku_indices": [
+      252
+    ]
+  },
+  {
+    "text": "essence",
+    "size": 1,
+    "haiku_indices": [
+      252
+    ]
+  },
+  {
+    "text": "walk",
+    "size": 2,
+    "haiku_indices": [
+      253,
+      331
+    ]
+  },
+  {
+    "text": "boardwalk",
+    "size": 1,
+    "haiku_indices": [
+      253
+    ]
+  },
+  {
+    "text": "think",
+    "size": 3,
+    "haiku_indices": [
+      254,
+      330,
+      386
+    ]
+  },
+  {
+    "text": "vertices",
+    "size": 1,
+    "haiku_indices": [
+      254
+    ]
+  },
+  {
+    "text": "edges",
+    "size": 1,
+    "haiku_indices": [
+      254
+    ]
+  },
+  {
+    "text": "float",
+    "size": 1,
+    "haiku_indices": [
+      255
+    ]
+  },
+  {
+    "text": "gentle",
+    "size": 1,
+    "haiku_indices": [
+      255
+    ]
+  },
+  {
+    "text": "start",
+    "size": 1,
+    "haiku_indices": [
+      255
+    ]
+  },
+  {
+    "text": "corner",
+    "size": 1,
+    "haiku_indices": [
+      257
+    ]
+  },
+  {
+    "text": "tease",
+    "size": 1,
+    "haiku_indices": [
+      257
+    ]
+  },
+  {
+    "text": "gold",
+    "size": 1,
+    "haiku_indices": [
+      257
+    ]
+  },
+  {
+    "text": "raining",
+    "size": 1,
+    "haiku_indices": [
+      257
+    ]
+  },
+  {
+    "text": "luminance",
+    "size": 1,
+    "haiku_indices": [
+      258
+    ]
+  },
+  {
+    "text": "lets",
+    "size": 2,
+    "haiku_indices": [
+      258,
+      335
+    ]
+  },
+  {
+    "text": "fades",
+    "size": 1,
+    "haiku_indices": [
+      259
+    ]
+  },
+  {
+    "text": "caress",
+    "size": 1,
+    "haiku_indices": [
+      260
+    ]
+  },
+  {
+    "text": "wrapping",
+    "size": 1,
+    "haiku_indices": [
+      260
+    ]
+  },
+  {
+    "text": "beams",
+    "size": 3,
+    "haiku_indices": [
+      260,
+      364,
+      414
+    ]
+  },
+  {
+    "text": "practice",
+    "size": 1,
+    "haiku_indices": [
+      261
+    ]
+  },
+  {
+    "text": "serious",
+    "size": 1,
+    "haiku_indices": [
+      261
+    ]
+  },
+  {
+    "text": "fun",
+    "size": 1,
+    "haiku_indices": [
+      261
+    ]
+  },
+  {
+    "text": "nudge",
+    "size": 1,
+    "haiku_indices": [
+      263
+    ]
+  },
+  {
+    "text": "skyward",
+    "size": 2,
+    "haiku_indices": [
+      263,
+      288
+    ]
+  },
+  {
+    "text": "hardly",
+    "size": 1,
+    "haiku_indices": [
+      264
+    ]
+  },
+  {
+    "text": "gasp",
+    "size": 1,
+    "haiku_indices": [
+      264
+    ]
+  },
+  {
+    "text": "due",
+    "size": 1,
+    "haiku_indices": [
+      264
+    ]
+  },
+  {
+    "text": "chickadeedee",
+    "size": 1,
+    "haiku_indices": [
+      265
+    ]
+  },
+  {
+    "text": "beaming",
+    "size": 1,
+    "haiku_indices": [
+      265
+    ]
+  },
+  {
+    "text": "breathed",
+    "size": 2,
+    "haiku_indices": [
+      266,
+      272
+    ]
+  },
+  {
+    "text": "alder",
+    "size": 1,
+    "haiku_indices": [
+      266
+    ]
+  },
+  {
+    "text": "lungs",
+    "size": 1,
+    "haiku_indices": [
+      266
+    ]
+  },
+  {
+    "text": "spores",
+    "size": 1,
+    "haiku_indices": [
+      266
+    ]
+  },
+  {
+    "text": "seasons",
+    "size": 1,
+    "haiku_indices": [
+      266
+    ]
+  },
+  {
+    "text": "certain",
+    "size": 1,
+    "haiku_indices": [
+      267
+    ]
+  },
+  {
+    "text": "straight",
+    "size": 1,
+    "haiku_indices": [
+      268
+    ]
+  },
+  {
+    "text": "wall",
+    "size": 1,
+    "haiku_indices": [
+      268
+    ]
+  },
+  {
+    "text": "embraces",
+    "size": 1,
+    "haiku_indices": [
+      268
+    ]
+  },
+  {
+    "text": "palette",
+    "size": 1,
+    "haiku_indices": [
+      269
+    ]
+  },
+  {
+    "text": "knife",
+    "size": 1,
+    "haiku_indices": [
+      269
+    ]
+  },
+  {
+    "text": "smears",
+    "size": 1,
+    "haiku_indices": [
+      269
+    ]
+  },
+  {
+    "text": "serpents",
+    "size": 1,
+    "haiku_indices": [
+      269
+    ]
+  },
+  {
+    "text": "versions",
+    "size": 1,
+    "haiku_indices": [
+      270
+    ]
+  },
+  {
+    "text": "heights",
+    "size": 2,
+    "haiku_indices": [
+      271,
+      299
+    ]
+  },
+  {
+    "text": "wing",
+    "size": 1,
+    "haiku_indices": [
+      271
+    ]
+  },
+  {
+    "text": "dont",
+    "size": 1,
+    "haiku_indices": [
+      271
+    ]
+  },
+  {
+    "text": "unnoticed",
+    "size": 1,
+    "haiku_indices": [
+      271
+    ]
+  },
+  {
+    "text": "bounty",
+    "size": 2,
+    "haiku_indices": [
+      272,
+      296
+    ]
+  },
+  {
+    "text": "spine",
+    "size": 1,
+    "haiku_indices": [
+      273
+    ]
+  },
+  {
+    "text": "slow",
+    "size": 1,
+    "haiku_indices": [
+      273
+    ]
+  },
+  {
+    "text": "banished",
+    "size": 1,
+    "haiku_indices": [
+      274
+    ]
+  },
+  {
+    "text": "astonishing",
+    "size": 1,
+    "haiku_indices": [
+      274
+    ]
+  },
+  {
+    "text": "sustenance",
+    "size": 1,
+    "haiku_indices": [
+      275
+    ]
+  },
+  {
+    "text": "act",
+    "size": 2,
+    "haiku_indices": [
+      275,
+      293
+    ]
+  },
+  {
+    "text": "delight",
+    "size": 2,
+    "haiku_indices": [
+      275,
+      302
+    ]
+  },
+  {
+    "text": "rivers",
+    "size": 2,
+    "haiku_indices": [
+      277,
+      305
+    ]
+  },
+  {
+    "text": "agates",
+    "size": 1,
+    "haiku_indices": [
+      277
+    ]
+  },
+  {
+    "text": "places",
+    "size": 1,
+    "haiku_indices": [
+      277
+    ]
+  },
+  {
+    "text": "structure",
+    "size": 2,
+    "haiku_indices": [
+      278,
+      313
+    ]
+  },
+  {
+    "text": "store",
+    "size": 1,
+    "haiku_indices": [
+      278
+    ]
+  },
+  {
+    "text": "quietness",
+    "size": 1,
+    "haiku_indices": [
+      278
+    ]
+  },
+  {
+    "text": "keep",
+    "size": 4,
+    "haiku_indices": [
+      278,
+      291,
+      321,
+      371
+    ]
+  },
+  {
+    "text": "secure",
+    "size": 1,
+    "haiku_indices": [
+      278
+    ]
+  },
+  {
+    "text": "lens",
+    "size": 1,
+    "haiku_indices": [
+      279
+    ]
+  },
+  {
+    "text": "upside",
+    "size": 1,
+    "haiku_indices": [
+      279
+    ]
+  },
+  {
+    "text": "sphere",
+    "size": 1,
+    "haiku_indices": [
+      279
+    ]
+  },
+  {
+    "text": "really",
+    "size": 1,
+    "haiku_indices": [
+      279
+    ]
+  },
+  {
+    "text": "hills",
+    "size": 1,
+    "haiku_indices": [
+      280
+    ]
+  },
+  {
+    "text": "antics",
+    "size": 1,
+    "haiku_indices": [
+      280
+    ]
+  },
+  {
+    "text": "amuse",
+    "size": 1,
+    "haiku_indices": [
+      280
+    ]
+  },
+  {
+    "text": "canada",
+    "size": 1,
+    "haiku_indices": [
+      280
+    ]
+  },
+  {
+    "text": "jay",
+    "size": 1,
+    "haiku_indices": [
+      280
+    ]
+  },
+  {
+    "text": "kiss",
+    "size": 2,
+    "haiku_indices": [
+      281,
+      352
+    ]
+  },
+  {
+    "text": "asymptote",
+    "size": 1,
+    "haiku_indices": [
+      281
+    ]
+  },
+  {
+    "text": "vanishing",
+    "size": 1,
+    "haiku_indices": [
+      281
+    ]
+  },
+  {
+    "text": "pulls",
+    "size": 1,
+    "haiku_indices": [
+      281
+    ]
+  },
+  {
+    "text": "youthful",
+    "size": 1,
+    "haiku_indices": [
+      282
+    ]
+  },
+  {
+    "text": "leaving",
+    "size": 1,
+    "haiku_indices": [
+      282
+    ]
+  },
+  {
+    "text": "playful",
+    "size": 1,
+    "haiku_indices": [
+      282
+    ]
+  },
+  {
+    "text": "autumn",
+    "size": 2,
+    "haiku_indices": [
+      283,
+      289
+    ]
+  },
+  {
+    "text": "grape",
+    "size": 1,
+    "haiku_indices": [
+      283
+    ]
+  },
+  {
+    "text": "danced",
+    "size": 1,
+    "haiku_indices": [
+      283
+    ]
+  },
+  {
+    "text": "changed",
+    "size": 1,
+    "haiku_indices": [
+      283
+    ]
+  },
+  {
+    "text": "reflective",
+    "size": 1,
+    "haiku_indices": [
+      285
+    ]
+  },
+  {
+    "text": "canyons",
+    "size": 1,
+    "haiku_indices": [
+      287
+    ]
+  },
+  {
+    "text": "forges",
+    "size": 1,
+    "haiku_indices": [
+      287
+    ]
+  },
+  {
+    "text": "wildwood",
+    "size": 1,
+    "haiku_indices": [
+      287
+    ]
+  },
+  {
+    "text": "columns",
+    "size": 1,
+    "haiku_indices": [
+      288
+    ]
+  },
+  {
+    "text": "extensions",
+    "size": 1,
+    "haiku_indices": [
+      288
+    ]
+  },
+  {
+    "text": "dark",
+    "size": 4,
+    "haiku_indices": [
+      289,
+      311,
+      328,
+      404
+    ]
+  },
+  {
+    "text": "collecting",
+    "size": 1,
+    "haiku_indices": [
+      290
+    ]
+  },
+  {
+    "text": "dripping",
+    "size": 1,
+    "haiku_indices": [
+      290
+    ]
+  },
+  {
+    "text": "evaporating",
+    "size": 1,
+    "haiku_indices": [
+      290
+    ]
+  },
+  {
+    "text": "submerge",
+    "size": 1,
+    "haiku_indices": [
+      291
+    ]
+  },
+  {
+    "text": "wide",
+    "size": 1,
+    "haiku_indices": [
+      291
+    ]
+  },
+  {
+    "text": "open",
+    "size": 2,
+    "haiku_indices": [
+      291,
+      300
+    ]
+  },
+  {
+    "text": "mossy",
+    "size": 1,
+    "haiku_indices": [
+      292
+    ]
+  },
+  {
+    "text": "palm",
+    "size": 1,
+    "haiku_indices": [
+      293
+    ]
+  },
+  {
+    "text": "faces",
+    "size": 1,
+    "haiku_indices": [
+      293
+    ]
+  },
+  {
+    "text": "nurturing",
+    "size": 1,
+    "haiku_indices": [
+      293
+    ]
+  },
+  {
+    "text": "cross",
+    "size": 1,
+    "haiku_indices": [
+      294
+    ]
+  },
+  {
+    "text": "bridge",
+    "size": 2,
+    "haiku_indices": [
+      294,
+      364
+    ]
+  },
+  {
+    "text": "wet",
+    "size": 1,
+    "haiku_indices": [
+      294
+    ]
+  },
+  {
+    "text": "winged",
+    "size": 1,
+    "haiku_indices": [
+      295
+    ]
+  },
+  {
+    "text": "colors",
+    "size": 1,
+    "haiku_indices": [
+      295
+    ]
+  },
+  {
+    "text": "joyful",
+    "size": 1,
+    "haiku_indices": [
+      295
+    ]
+  },
+  {
+    "text": "waxwing",
+    "size": 1,
+    "haiku_indices": [
+      296
+    ]
+  },
+  {
+    "text": "fill",
+    "size": 2,
+    "haiku_indices": [
+      296,
+      360
+    ]
+  },
+  {
+    "text": "grew",
+    "size": 1,
+    "haiku_indices": [
+      296
+    ]
+  },
+  {
+    "text": "guard",
+    "size": 2,
+    "haiku_indices": [
+      297,
+      350
+    ]
+  },
+  {
+    "text": "battleready",
+    "size": 1,
+    "haiku_indices": [
+      297
+    ]
+  },
+  {
+    "text": "sentry",
+    "size": 1,
+    "haiku_indices": [
+      297
+    ]
+  },
+  {
+    "text": "defense",
+    "size": 1,
+    "haiku_indices": [
+      297
+    ]
+  },
+  {
+    "text": "soak",
+    "size": 1,
+    "haiku_indices": [
+      298
+    ]
+  },
+  {
+    "text": "bath",
+    "size": 1,
+    "haiku_indices": [
+      298
+    ]
+  },
+  {
+    "text": "lost",
+    "size": 2,
+    "haiku_indices": [
+      298,
+      339
+    ]
+  },
+  {
+    "text": "renew",
+    "size": 1,
+    "haiku_indices": [
+      298
+    ]
+  },
+  {
+    "text": "close",
+    "size": 1,
+    "haiku_indices": [
+      299
+    ]
+  },
+  {
+    "text": "desire",
+    "size": 2,
+    "haiku_indices": [
+      299,
+      400
+    ]
+  },
+  {
+    "text": "load",
+    "size": 1,
+    "haiku_indices": [
+      299
+    ]
+  },
+  {
+    "text": "wettest",
+    "size": 1,
+    "haiku_indices": [
+      300
+    ]
+  },
+  {
+    "text": "yes",
+    "size": 1,
+    "haiku_indices": [
+      301
+    ]
+  },
+  {
+    "text": "completely",
+    "size": 1,
+    "haiku_indices": [
+      301
+    ]
+  },
+  {
+    "text": "root",
+    "size": 2,
+    "haiku_indices": [
+      302,
+      328
+    ]
+  },
+  {
+    "text": "luck",
+    "size": 1,
+    "haiku_indices": [
+      303
+    ]
+  },
+  {
+    "text": "experience",
+    "size": 1,
+    "haiku_indices": [
+      304
+    ]
+  },
+  {
+    "text": "swiftly",
+    "size": 1,
+    "haiku_indices": [
+      305
+    ]
+  },
+  {
+    "text": "move",
+    "size": 1,
+    "haiku_indices": [
+      305
+    ]
+  },
+  {
+    "text": "volume",
+    "size": 1,
+    "haiku_indices": [
+      305
+    ]
+  },
+  {
+    "text": "depth",
+    "size": 1,
+    "haiku_indices": [
+      305
+    ]
+  },
+  {
+    "text": "treat",
+    "size": 1,
+    "haiku_indices": [
+      306
+    ]
+  },
+  {
+    "text": "bag",
+    "size": 1,
+    "haiku_indices": [
+      306
+    ]
+  },
+  {
+    "text": "tied",
+    "size": 1,
+    "haiku_indices": [
+      306
+    ]
+  },
+  {
+    "text": "refill",
+    "size": 1,
+    "haiku_indices": [
+      306
+    ]
+  },
+  {
+    "text": "colorful",
+    "size": 1,
+    "haiku_indices": [
+      307
+    ]
+  },
+  {
+    "text": "however",
+    "size": 1,
+    "haiku_indices": [
+      308
+    ]
+  },
+  {
+    "text": "clay",
+    "size": 1,
+    "haiku_indices": [
+      309
+    ]
+  },
+  {
+    "text": "evrything",
+    "size": 1,
+    "haiku_indices": [
+      309
+    ]
+  },
+  {
+    "text": "bald",
+    "size": 1,
+    "haiku_indices": [
+      310
+    ]
+  },
+  {
+    "text": "cypress",
+    "size": 1,
+    "haiku_indices": [
+      310
+    ]
+  },
+  {
+    "text": "shed",
+    "size": 1,
+    "haiku_indices": [
+      310
+    ]
+  },
+  {
+    "text": "coalesce",
+    "size": 1,
+    "haiku_indices": [
+      312
+    ]
+  },
+  {
+    "text": "understanding",
+    "size": 1,
+    "haiku_indices": [
+      313
+    ]
+  },
+  {
+    "text": "complex",
+    "size": 1,
+    "haiku_indices": [
+      313
+    ]
+  },
+  {
+    "text": "west",
+    "size": 1,
+    "haiku_indices": [
+      314
+    ]
+  },
+  {
+    "text": "waiting",
+    "size": 1,
+    "haiku_indices": [
+      314
+    ]
+  },
+  {
+    "text": "picture",
+    "size": 1,
+    "haiku_indices": [
+      316
+    ]
+  },
+  {
+    "text": "merging",
+    "size": 1,
+    "haiku_indices": [
+      316
+    ]
+  },
+  {
+    "text": "shadow",
+    "size": 2,
+    "haiku_indices": [
+      316,
+      338
+    ]
+  },
+  {
+    "text": "class",
+    "size": 1,
+    "haiku_indices": [
+      317
+    ]
+  },
+  {
+    "text": "bird",
+    "size": 1,
+    "haiku_indices": [
+      317
+    ]
+  },
+  {
+    "text": "summer",
+    "size": 1,
+    "haiku_indices": [
+      317
+    ]
+  },
+  {
+    "text": "tanager",
+    "size": 1,
+    "haiku_indices": [
+      317
+    ]
+  },
+  {
+    "text": "write",
+    "size": 2,
+    "haiku_indices": [
+      318,
+      322
+    ]
+  },
+  {
+    "text": "person",
+    "size": 1,
+    "haiku_indices": [
+      318
+    ]
+  },
+  {
+    "text": "consistency",
+    "size": 1,
+    "haiku_indices": [
+      319
+    ]
+  },
+  {
+    "text": "humble",
+    "size": 1,
+    "haiku_indices": [
+      319
+    ]
+  },
+  {
+    "text": "fallen",
+    "size": 1,
+    "haiku_indices": [
+      320
+    ]
+  },
+  {
+    "text": "glorious",
+    "size": 2,
+    "haiku_indices": [
+      320,
+      393
+    ]
+  },
+  {
+    "text": "touching",
+    "size": 1,
+    "haiku_indices": [
+      320
+    ]
+  },
+  {
+    "text": "company",
+    "size": 1,
+    "haiku_indices": [
+      321
+    ]
+  },
+  {
+    "text": "demands",
+    "size": 1,
+    "haiku_indices": [
+      321
+    ]
+  },
+  {
+    "text": "sugary",
+    "size": 1,
+    "haiku_indices": [
+      321
+    ]
+  },
+  {
+    "text": "treats",
+    "size": 1,
+    "haiku_indices": [
+      321
+    ]
+  },
+  {
+    "text": "announces",
+    "size": 1,
+    "haiku_indices": [
+      321
+    ]
+  },
+  {
+    "text": "thousand",
+    "size": 1,
+    "haiku_indices": [
+      322
+    ]
+  },
+  {
+    "text": "short",
+    "size": 1,
+    "haiku_indices": [
+      322
+    ]
+  },
+  {
+    "text": "reflections",
+    "size": 1,
+    "haiku_indices": [
+      323
+    ]
+  },
+  {
+    "text": "seem",
+    "size": 1,
+    "haiku_indices": [
+      324
+    ]
+  },
+  {
+    "text": "cradled",
+    "size": 1,
+    "haiku_indices": [
+      324
+    ]
+  },
+  {
+    "text": "playing",
+    "size": 1,
+    "haiku_indices": [
+      325
+    ]
+  },
+  {
+    "text": "solitude",
+    "size": 2,
+    "haiku_indices": [
+      326,
+      382
+    ]
+  },
+  {
+    "text": "truly",
+    "size": 2,
+    "haiku_indices": [
+      326,
+      331
+    ]
+  },
+  {
+    "text": "lowest",
+    "size": 2,
+    "haiku_indices": [
+      326,
+      375
+    ]
+  },
+  {
+    "text": "symbol",
+    "size": 1,
+    "haiku_indices": [
+      327
+    ]
+  },
+  {
+    "text": "steadfast",
+    "size": 1,
+    "haiku_indices": [
+      327
+    ]
+  },
+  {
+    "text": "constant",
+    "size": 1,
+    "haiku_indices": [
+      327
+    ]
+  },
+  {
+    "text": "matter",
+    "size": 1,
+    "haiku_indices": [
+      327
+    ]
+  },
+  {
+    "text": "seas",
+    "size": 1,
+    "haiku_indices": [
+      327
+    ]
+  },
+  {
+    "text": "depths",
+    "size": 2,
+    "haiku_indices": [
+      328,
+      373
+    ]
+  },
+  {
+    "text": "hopped",
+    "size": 1,
+    "haiku_indices": [
+      329
+    ]
+  },
+  {
+    "text": "skipped",
+    "size": 1,
+    "haiku_indices": [
+      329
+    ]
+  },
+  {
+    "text": "youth",
+    "size": 1,
+    "haiku_indices": [
+      329
+    ]
+  },
+  {
+    "text": "might",
+    "size": 4,
+    "haiku_indices": [
+      330,
+      332,
+      379,
+      385
+    ]
+  },
+  {
+    "text": "iterations",
+    "size": 1,
+    "haiku_indices": [
+      330
+    ]
+  },
+  {
+    "text": "sunlit",
+    "size": 1,
+    "haiku_indices": [
+      330
+    ]
+  },
+  {
+    "text": "sans",
+    "size": 2,
+    "haiku_indices": [
+      331,
+      331
+    ]
+  },
+  {
+    "text": "cassiopeia",
+    "size": 1,
+    "haiku_indices": [
+      333
+    ]
+  },
+  {
+    "text": "sign",
+    "size": 2,
+    "haiku_indices": [
+      334,
+      371
+    ]
+  },
+  {
+    "text": "greater",
+    "size": 1,
+    "haiku_indices": [
+      334
+    ]
+  },
+  {
+    "text": "saturn",
+    "size": 1,
+    "haiku_indices": [
+      334
+    ]
+  },
+  {
+    "text": "darkness",
+    "size": 1,
+    "haiku_indices": [
+      334
+    ]
+  },
+  {
+    "text": "comes",
+    "size": 1,
+    "haiku_indices": [
+      335
+    ]
+  },
+  {
+    "text": "earlier",
+    "size": 1,
+    "haiku_indices": [
+      335
+    ]
+  },
+  {
+    "text": "stars",
+    "size": 3,
+    "haiku_indices": [
+      335,
+      342,
+      380
+    ]
+  },
+  {
+    "text": "rosemary",
+    "size": 1,
+    "haiku_indices": [
+      336
+    ]
+  },
+  {
+    "text": "frost",
+    "size": 1,
+    "haiku_indices": [
+      336
+    ]
+  },
+  {
+    "text": "energy",
+    "size": 1,
+    "haiku_indices": [
+      336
+    ]
+  },
+  {
+    "text": "cling",
+    "size": 1,
+    "haiku_indices": [
+      337
+    ]
+  },
+  {
+    "text": "passed",
+    "size": 2,
+    "haiku_indices": [
+      337,
+      406
+    ]
+  },
+  {
+    "text": "road",
+    "size": 1,
+    "haiku_indices": [
+      338
+    ]
+  },
+  {
+    "text": "remember",
+    "size": 1,
+    "haiku_indices": [
+      339
+    ]
+  },
+  {
+    "text": "whispers",
+    "size": 2,
+    "haiku_indices": [
+      340,
+      357
+    ]
+  },
+  {
+    "text": "comets",
+    "size": 1,
+    "haiku_indices": [
+      341
+    ]
+  },
+  {
+    "text": "tails",
+    "size": 1,
+    "haiku_indices": [
+      341
+    ]
+  },
+  {
+    "text": "pointing",
+    "size": 1,
+    "haiku_indices": [
+      341
+    ]
+  },
+  {
+    "text": "planets",
+    "size": 1,
+    "haiku_indices": [
+      342
+    ]
+  },
+  {
+    "text": "aether",
+    "size": 2,
+    "haiku_indices": [
+      342,
+      390
+    ]
+  },
+  {
+    "text": "youre",
+    "size": 3,
+    "haiku_indices": [
+      343,
+      398,
+      402
+    ]
+  },
+  {
+    "text": "paradox",
+    "size": 1,
+    "haiku_indices": [
+      343
+    ]
+  },
+  {
+    "text": "coastline",
+    "size": 1,
+    "haiku_indices": [
+      343
+    ]
+  },
+  {
+    "text": "measured",
+    "size": 1,
+    "haiku_indices": [
+      343
+    ]
+  },
+  {
+    "text": "atom",
+    "size": 2,
+    "haiku_indices": [
+      343,
+      395
+    ]
+  },
+  {
+    "text": "finite",
+    "size": 1,
+    "haiku_indices": [
+      343
+    ]
+  },
+  {
+    "text": "infinite",
+    "size": 2,
+    "haiku_indices": [
+      343,
+      403
+    ]
+  },
+  {
+    "text": "oyster",
+    "size": 1,
+    "haiku_indices": [
+      344
+    ]
+  },
+  {
+    "text": "catcher",
+    "size": 1,
+    "haiku_indices": [
+      344
+    ]
+  },
+  {
+    "text": "blends",
+    "size": 1,
+    "haiku_indices": [
+      344
+    ]
+  },
+  {
+    "text": "pearls",
+    "size": 1,
+    "haiku_indices": [
+      344
+    ]
+  },
+  {
+    "text": "guidance",
+    "size": 1,
+    "haiku_indices": [
+      345
+    ]
+  },
+  {
+    "text": "beam",
+    "size": 1,
+    "haiku_indices": [
+      345
+    ]
+  },
+  {
+    "text": "instead",
+    "size": 1,
+    "haiku_indices": [
+      345
+    ]
+  },
+  {
+    "text": "exists",
+    "size": 1,
+    "haiku_indices": [
+      347
+    ]
+  },
+  {
+    "text": "sound",
+    "size": 1,
+    "haiku_indices": [
+      347
+    ]
+  },
+  {
+    "text": "pulling",
+    "size": 1,
+    "haiku_indices": [
+      347
+    ]
+  },
+  {
+    "text": "cobbles",
+    "size": 1,
+    "haiku_indices": [
+      347
+    ]
+  },
+  {
+    "text": "high",
+    "size": 1,
+    "haiku_indices": [
+      347
+    ]
+  },
+  {
+    "text": "sure",
+    "size": 1,
+    "haiku_indices": [
+      348
+    ]
+  },
+  {
+    "text": "seize",
+    "size": 1,
+    "haiku_indices": [
+      348
+    ]
+  },
+  {
+    "text": "alive",
+    "size": 2,
+    "haiku_indices": [
+      348,
+      388
+    ]
+  },
+  {
+    "text": "horizon",
+    "size": 2,
+    "haiku_indices": [
+      349,
+      381
+    ]
+  },
+  {
+    "text": "grab",
+    "size": 2,
+    "haiku_indices": [
+      349,
+      356
+    ]
+  },
+  {
+    "text": "celestial",
+    "size": 1,
+    "haiku_indices": [
+      349
+    ]
+  },
+  {
+    "text": "sentinels",
+    "size": 1,
+    "haiku_indices": [
+      350
+    ]
+  },
+  {
+    "text": "posts",
+    "size": 1,
+    "haiku_indices": [
+      350
+    ]
+  },
+  {
+    "text": "hopes",
+    "size": 1,
+    "haiku_indices": [
+      350
+    ]
+  },
+  {
+    "text": "french",
+    "size": 1,
+    "haiku_indices": [
+      350
+    ]
+  },
+  {
+    "text": "fries",
+    "size": 1,
+    "haiku_indices": [
+      350
+    ]
+  },
+  {
+    "text": "dive",
+    "size": 1,
+    "haiku_indices": [
+      351
+    ]
+  },
+  {
+    "text": "connected",
+    "size": 1,
+    "haiku_indices": [
+      351
+    ]
+  },
+  {
+    "text": "planet",
+    "size": 2,
+    "haiku_indices": [
+      352,
+      402
+    ]
+  },
+  {
+    "text": "leap",
+    "size": 1,
+    "haiku_indices": [
+      352
+    ]
+  },
+  {
+    "text": "magnitude",
+    "size": 1,
+    "haiku_indices": [
+      353
+    ]
+  },
+  {
+    "text": "direction",
+    "size": 1,
+    "haiku_indices": [
+      353
+    ]
+  },
+  {
+    "text": "imagine",
+    "size": 1,
+    "haiku_indices": [
+      354
+    ]
+  },
+  {
+    "text": "crest",
+    "size": 1,
+    "haiku_indices": [
+      354
+    ]
+  },
+  {
+    "text": "arcs",
+    "size": 1,
+    "haiku_indices": [
+      355
+    ]
+  },
+  {
+    "text": "rounds",
+    "size": 1,
+    "haiku_indices": [
+      355
+    ]
+  },
+  {
+    "text": "loam",
+    "size": 1,
+    "haiku_indices": [
+      356
+    ]
+  },
+  {
+    "text": "connect",
+    "size": 1,
+    "haiku_indices": [
+      358
+    ]
+  },
+  {
+    "text": "muddy",
+    "size": 1,
+    "haiku_indices": [
+      359
+    ]
+  },
+  {
+    "text": "heavenly",
+    "size": 1,
+    "haiku_indices": [
+      359
+    ]
+  },
+  {
+    "text": "footprints",
+    "size": 1,
+    "haiku_indices": [
+      360
+    ]
+  },
+  {
+    "text": "brief",
+    "size": 1,
+    "haiku_indices": [
+      360
+    ]
+  },
+  {
+    "text": "flurry",
+    "size": 1,
+    "haiku_indices": [
+      361
+    ]
+  },
+  {
+    "text": "radiant",
+    "size": 1,
+    "haiku_indices": [
+      361
+    ]
+  },
+  {
+    "text": "calling",
+    "size": 1,
+    "haiku_indices": [
+      361
+    ]
+  },
+  {
+    "text": "anticipate",
+    "size": 1,
+    "haiku_indices": [
+      362
+    ]
+  },
+  {
+    "text": "ducks",
+    "size": 1,
+    "haiku_indices": [
+      362
+    ]
+  },
+  {
+    "text": "hawk",
+    "size": 1,
+    "haiku_indices": [
+      363
+    ]
+  },
+  {
+    "text": "contemplating",
+    "size": 1,
+    "haiku_indices": [
+      363
+    ]
+  },
+  {
+    "text": "pond",
+    "size": 1,
+    "haiku_indices": [
+      363
+    ]
+  },
+  {
+    "text": "framed",
+    "size": 1,
+    "haiku_indices": [
+      364
+    ]
+  },
+  {
+    "text": "steel",
+    "size": 1,
+    "haiku_indices": [
+      364
+    ]
+  },
+  {
+    "text": "windows",
+    "size": 2,
+    "haiku_indices": [
+      365,
+      365
+    ]
+  },
+  {
+    "text": "iterated",
+    "size": 1,
+    "haiku_indices": [
+      365
+    ]
+  },
+  {
+    "text": "views",
+    "size": 1,
+    "haiku_indices": [
+      365
+    ]
+  },
+  {
+    "text": "glanced",
+    "size": 1,
+    "haiku_indices": [
+      366
+    ]
+  },
+  {
+    "text": "gossip",
+    "size": 1,
+    "haiku_indices": [
+      366
+    ]
+  },
+  {
+    "text": "generative",
+    "size": 1,
+    "haiku_indices": [
+      368
+    ]
+  },
+  {
+    "text": "cracks",
+    "size": 1,
+    "haiku_indices": [
+      368
+    ]
+  },
+  {
+    "text": "ferns",
+    "size": 1,
+    "haiku_indices": [
+      369
+    ]
+  },
+  {
+    "text": "sitka",
+    "size": 2,
+    "haiku_indices": [
+      370,
+      370
+    ]
+  },
+  {
+    "text": "shelter",
+    "size": 1,
+    "haiku_indices": [
+      370
+    ]
+  },
+  {
+    "text": "miss",
+    "size": 1,
+    "haiku_indices": [
+      371
+    ]
+  },
+  {
+    "text": "going",
+    "size": 1,
+    "haiku_indices": [
+      371
+    ]
+  },
+  {
+    "text": "elk",
+    "size": 1,
+    "haiku_indices": [
+      372
+    ]
+  },
+  {
+    "text": "headland",
+    "size": 1,
+    "haiku_indices": [
+      372
+    ]
+  },
+  {
+    "text": "warmed",
+    "size": 1,
+    "haiku_indices": [
+      372
+    ]
+  },
+  {
+    "text": "mornings",
+    "size": 1,
+    "haiku_indices": [
+      372
+    ]
+  },
+  {
+    "text": "packed",
+    "size": 1,
+    "haiku_indices": [
+      373
+    ]
+  },
+  {
+    "text": "surface",
+    "size": 1,
+    "haiku_indices": [
+      373
+    ]
+  },
+  {
+    "text": "harbor",
+    "size": 1,
+    "haiku_indices": [
+      374
+    ]
+  },
+  {
+    "text": "layers",
+    "size": 1,
+    "haiku_indices": [
+      374
+    ]
+  },
+  {
+    "text": "age",
+    "size": 1,
+    "haiku_indices": [
+      374
+    ]
+  },
+  {
+    "text": "aperture",
+    "size": 1,
+    "haiku_indices": [
+      375
+    ]
+  },
+  {
+    "text": "formed",
+    "size": 1,
+    "haiku_indices": [
+      375
+    ]
+  },
+  {
+    "text": "somehow",
+    "size": 1,
+    "haiku_indices": [
+      376
+    ]
+  },
+  {
+    "text": "capable",
+    "size": 1,
+    "haiku_indices": [
+      376
+    ]
+  },
+  {
+    "text": "far",
+    "size": 1,
+    "haiku_indices": [
+      377
+    ]
+  },
+  {
+    "text": "whats",
+    "size": 1,
+    "haiku_indices": [
+      377
+    ]
+  },
+  {
+    "text": "geese",
+    "size": 1,
+    "haiku_indices": [
+      378
+    ]
+  },
+  {
+    "text": "bringing",
+    "size": 1,
+    "haiku_indices": [
+      378
+    ]
+  },
+  {
+    "text": "north",
+    "size": 1,
+    "haiku_indices": [
+      378
+    ]
+  },
+  {
+    "text": "journey",
+    "size": 1,
+    "haiku_indices": [
+      380
+    ]
+  },
+  {
+    "text": "unconstrained",
+    "size": 1,
+    "haiku_indices": [
+      380
+    ]
+  },
+  {
+    "text": "breadcrumbs",
+    "size": 1,
+    "haiku_indices": [
+      381
+    ]
+  },
+  {
+    "text": "sunbeams",
+    "size": 1,
+    "haiku_indices": [
+      381
+    ]
+  },
+  {
+    "text": "companion",
+    "size": 1,
+    "haiku_indices": [
+      382
+    ]
+  },
+  {
+    "text": "shore",
+    "size": 1,
+    "haiku_indices": [
+      382
+    ]
+  },
+  {
+    "text": "echoes",
+    "size": 1,
+    "haiku_indices": [
+      383
+    ]
+  },
+  {
+    "text": "temporal",
+    "size": 1,
+    "haiku_indices": [
+      383
+    ]
+  },
+  {
+    "text": "beings",
+    "size": 1,
+    "haiku_indices": [
+      383
+    ]
+  },
+  {
+    "text": "foliage",
+    "size": 1,
+    "haiku_indices": [
+      384
+    ]
+  },
+  {
+    "text": "remains",
+    "size": 1,
+    "haiku_indices": [
+      384
+    ]
+  },
+  {
+    "text": "organized",
+    "size": 1,
+    "haiku_indices": [
+      385
+    ]
+  },
+  {
+    "text": "grasp",
+    "size": 1,
+    "haiku_indices": [
+      385
+    ]
+  },
+  {
+    "text": "offering",
+    "size": 1,
+    "haiku_indices": [
+      387
+    ]
+  },
+  {
+    "text": "shoes",
+    "size": 1,
+    "haiku_indices": [
+      388
+    ]
+  },
+  {
+    "text": "cushion",
+    "size": 1,
+    "haiku_indices": [
+      388
+    ]
+  },
+  {
+    "text": "joyfully",
+    "size": 1,
+    "haiku_indices": [
+      388
+    ]
+  },
+  {
+    "text": "lessen",
+    "size": 1,
+    "haiku_indices": [
+      389
+    ]
+  },
+  {
+    "text": "grasses",
+    "size": 1,
+    "haiku_indices": [
+      389
+    ]
+  },
+  {
+    "text": "texture",
+    "size": 1,
+    "haiku_indices": [
+      390
+    ]
+  },
+  {
+    "text": "converse",
+    "size": 1,
+    "haiku_indices": [
+      391
+    ]
+  },
+  {
+    "text": "intimate",
+    "size": 1,
+    "haiku_indices": [
+      391
+    ]
+  },
+  {
+    "text": "fore",
+    "size": 1,
+    "haiku_indices": [
+      391
+    ]
+  },
+  {
+    "text": "dunes",
+    "size": 1,
+    "haiku_indices": [
+      392
+    ]
+  },
+  {
+    "text": "conforming",
+    "size": 1,
+    "haiku_indices": [
+      392
+    ]
+  },
+  {
+    "text": "appears",
+    "size": 1,
+    "haiku_indices": [
+      394
+    ]
+  },
+  {
+    "text": "sprout",
+    "size": 1,
+    "haiku_indices": [
+      395
+    ]
+  },
+  {
+    "text": "winters",
+    "size": 1,
+    "haiku_indices": [
+      396
+    ]
+  },
+  {
+    "text": "sing",
+    "size": 2,
+    "haiku_indices": [
+      396,
+      404
+    ]
+  },
+  {
+    "text": "thank",
+    "size": 1,
+    "haiku_indices": [
+      397
+    ]
+  },
+  {
+    "text": "receding",
+    "size": 1,
+    "haiku_indices": [
+      397
+    ]
+  },
+  {
+    "text": "approach",
+    "size": 1,
+    "haiku_indices": [
+      398
+    ]
+  },
+  {
+    "text": "ing",
+    "size": 1,
+    "haiku_indices": [
+      398
+    ]
+  },
+  {
+    "text": "messengers",
+    "size": 1,
+    "haiku_indices": [
+      399
+    ]
+  },
+  {
+    "text": "oaks",
+    "size": 1,
+    "haiku_indices": [
+      399
+    ]
+  },
+  {
+    "text": "drape",
+    "size": 1,
+    "haiku_indices": [
+      400
+    ]
+  },
+  {
+    "text": "almost",
+    "size": 1,
+    "haiku_indices": [
+      400
+    ]
+  },
+  {
+    "text": "heaven",
+    "size": 1,
+    "haiku_indices": [
+      400
+    ]
+  },
+  {
+    "text": "shadowed",
+    "size": 1,
+    "haiku_indices": [
+      401
+    ]
+  },
+  {
+    "text": "footsteps",
+    "size": 1,
+    "haiku_indices": [
+      401
+    ]
+  },
+  {
+    "text": "skies",
+    "size": 1,
+    "haiku_indices": [
+      402
+    ]
+  },
+  {
+    "text": "everchanging",
+    "size": 1,
+    "haiku_indices": [
+      403
+    ]
+  },
+  {
+    "text": "kitties",
+    "size": 1,
+    "haiku_indices": [
+      404
+    ]
+  },
+  {
+    "text": "enter",
+    "size": 1,
+    "haiku_indices": [
+      404
+    ]
+  },
+  {
+    "text": "ray",
+    "size": 1,
+    "haiku_indices": [
+      405
+    ]
+  },
+  {
+    "text": "goes",
+    "size": 1,
+    "haiku_indices": [
+      405
+    ]
+  },
+  {
+    "text": "locked",
+    "size": 1,
+    "haiku_indices": [
+      406
+    ]
+  },
+  {
+    "text": "history",
+    "size": 1,
+    "haiku_indices": [
+      406
+    ]
+  },
+  {
+    "text": "sorry",
+    "size": 1,
+    "haiku_indices": [
+      407
+    ]
+  },
+  {
+    "text": "thirty",
+    "size": 1,
+    "haiku_indices": [
+      408
+    ]
+  },
+  {
+    "text": "squares",
+    "size": 1,
+    "haiku_indices": [
+      408
+    ]
+  },
+  {
+    "text": "icosahedron",
+    "size": 1,
+    "haiku_indices": [
+      408
+    ]
+  },
+  {
+    "text": "obviously",
+    "size": 1,
+    "haiku_indices": [
+      409
+    ]
+  },
+  {
+    "text": "trained",
+    "size": 1,
+    "haiku_indices": [
+      409
+    ]
+  },
+  {
+    "text": "lure",
+    "size": 1,
+    "haiku_indices": [
+      409
+    ]
+  },
+  {
+    "text": "fluff",
+    "size": 1,
+    "haiku_indices": [
+      409
+    ]
+  },
+  {
+    "text": "stance",
+    "size": 1,
+    "haiku_indices": [
+      409
+    ]
+  },
+  {
+    "text": "widest",
+    "size": 1,
+    "haiku_indices": [
+      410
+    ]
+  },
+  {
+    "text": "primrose",
+    "size": 1,
+    "haiku_indices": [
+      411
+    ]
+  },
+  {
+    "text": "whispered",
+    "size": 1,
+    "haiku_indices": [
+      411
+    ]
+  },
+  {
+    "text": "deepest",
+    "size": 1,
+    "haiku_indices": [
+      411
+    ]
+  },
+  {
+    "text": "crane",
+    "size": 1,
+    "haiku_indices": [
+      412
+    ]
+  },
+  {
+    "text": "put",
+    "size": 1,
+    "haiku_indices": [
+      412
+    ]
+  },
+  {
+    "text": "peace",
+    "size": 1,
+    "haiku_indices": [
+      412
+    ]
+  },
+  {
+    "text": "held",
+    "size": 1,
+    "haiku_indices": [
+      412
+    ]
+  },
+  {
+    "text": "walkabout",
+    "size": 1,
+    "haiku_indices": [
+      413
+    ]
+  },
+  {
+    "text": "warp",
+    "size": 1,
+    "haiku_indices": [
+      413
+    ]
+  },
+  {
+    "text": "weft",
+    "size": 1,
+    "haiku_indices": [
+      413
+    ]
+  },
+  {
+    "text": "evryone",
+    "size": 1,
+    "haiku_indices": [
+      415
+    ]
+  },
+  {
+    "text": "limit",
+    "size": 1,
+    "haiku_indices": [
+      416
+    ]
+  },
+  {
+    "text": "number",
+    "size": 1,
+    "haiku_indices": [
+      416
+    ]
+  },
+  {
+    "text": "encompass",
+    "size": 1,
+    "haiku_indices": [
+      417
+    ]
+  }
+]
