@@ -1299,7 +1299,10 @@ def save_current_haiku(haiku):
 def save_to_poems_json(haiku):
     """Add new haiku to the growing poems.json collection"""
     try:
-        with open('data/poems.json', 'r', encoding='utf-8') as f:
+
+        poems_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'poems.json')
+        with open(poems_path, 'w', encoding='utf-8') as f:
+
             poems = json.load(f)
     except FileNotFoundError:
         poems = []
@@ -1311,7 +1314,8 @@ def save_to_poems_json(haiku):
     })
 
     # Save back to file
-    with open('data/poems.json', 'w', encoding='utf-8') as f:
+    poems_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'poems.json')
+    with open(poems_path, 'r', encoding='utf-8') as f:
         json.dump(poems, f, indent=2)
 
     return poems
