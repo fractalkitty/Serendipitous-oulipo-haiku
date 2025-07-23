@@ -1298,24 +1298,25 @@ def save_current_haiku(haiku):
 
 def save_to_poems_json(haiku):
     """Add new haiku to the growing poems.json collection"""
+    # Fix the path - go up one directory from scripts/ to find data/
+    poems_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'poems.json')
+
     try:
-
-        poems_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'poems.json')
-        with open(poems_path, 'w', encoding='utf-8') as f:
-
+        with open(poems_path, 'r', encoding='utf-8') as f:
             poems = json.load(f)
     except FileNotFoundError:
+        # Create data directory if it doesn't exist
+        os.makedirs(os.path.dirname(poems_path), exist_ok=True)
         poems = []
 
     # Add new haiku to the beginning (most recent first)
     poems.insert(0, {
         'content': haiku['content'],
-        'date': haiku['date']
+        'date': datetime.now().isoformat(timespec='milliseconds') + 'Z'
     })
 
-    # Save back to file
-    poems_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'poems.json')
-    with open(poems_path, 'r', encoding='utf-8') as f:
+    # Save back to the correct path
+    with open(poems_path, 'w', encoding='utf-8') as f:
         json.dump(poems, f, indent=2)
 
     return poems
