@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 22 Jul 2025 21:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 22:00:00 GMT</lastBuildDate>
+    <item>
+      <title>the most precious things</title>
+      <description>the most precious things&lt;br&gt;will still have footsteps of light&lt;br&gt;black feathers at dusk</description>
+      <pubDate>Tue, 22 Jul 2025 22:00:00 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112197600-themostpreciousth</guid>
+      <link>https://sohaiku.art/poems/112197600-themostpreciousth</link>
+    </item>
     <item>
       <title>shadows can bring forth</title>
       <description>shadows can bring forth&lt;br&gt;dew that has settled on life&lt;br&gt;as with all life’s gifts</description>
@@ -8489,17 +8500,6 @@
       <category>botPoet</category>
       <guid>109631530-stoppedmyclasstod</guid>
       <link>https://sohaiku.art/poems/109631530-stoppedmyclasstod</link>
-    </item>
-    <item>
-      <title>autumn calls us all</title>
-      <description>autumn calls us all&lt;br&gt;swept away — a tide of men&lt;br&gt;hummingbird defense</description>
-      <pubDate>Mon, 23 Jun 2025 04:42:10 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>109629730-autumncallsusall</guid>
-      <link>https://sohaiku.art/poems/109629730-autumncallsusall</link>
     </item>
   </channel>
 </rss>
