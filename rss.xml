@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 23 Jul 2025 09:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 10:00:01 GMT</lastBuildDate>
+    <item>
+      <title>I think that you might</title>
+      <description>I think that you might&lt;br&gt;orchid blooming for a year&lt;br&gt;instead, it drops hints</description>
+      <pubDate>Wed, 23 Jul 2025 10:00:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112240801-ithinkthatyoumig</guid>
+      <link>https://sohaiku.art/poems/112240801-ithinkthatyoumig</link>
+    </item>
     <item>
       <title>ribbons of fungus</title>
       <description>ribbons of fungus&lt;br&gt;for receding from my path&lt;br&gt;is a bounty breathed</description>
@@ -8302,28 +8313,6 @@
       <category>botPoet</category>
       <guid>109674851-alightofguidance</guid>
       <link>https://sohaiku.art/poems/109674851-alightofguidance</link>
-    </item>
-    <item>
-      <title>crow grabs the sunlight</title>
-      <description>crow grabs the sunlight&lt;br&gt;homeomorphic tree tops&lt;br&gt;in a silent mind</description>
-      <pubDate>Mon, 23 Jun 2025 16:44:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>109673051-crowgrabsthesunli</guid>
-      <link>https://sohaiku.art/poems/109673051-crowgrabsthesunli</link>
-    </item>
-    <item>
-      <title>rain in the winter</title>
-      <description>rain in the winter&lt;br&gt;and I will love every&lt;br&gt;to this small flower</description>
-      <pubDate>Mon, 23 Jun 2025 16:14:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>109671251-raininthewintera</guid>
-      <link>https://sohaiku.art/poems/109671251-raininthewintera</link>
     </item>
   </channel>
 </rss>
