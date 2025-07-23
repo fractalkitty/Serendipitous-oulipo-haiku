@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 23 Jul 2025 10:42:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 11:00:10 GMT</lastBuildDate>
+    <item>
+      <title>maybe all our days</title>
+      <description>maybe all our days&lt;br&gt;as you come to repose — pause&lt;br&gt;waiting for sunset</description>
+      <pubDate>Wed, 23 Jul 2025 11:00:10 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112244410-maybeallourdaysa</guid>
+      <link>https://sohaiku.art/poems/112244410-maybeallourdaysa</link>
+    </item>
     <item>
       <title>crow, quiet and still</title>
       <description>crow, quiet and still&lt;br&gt;to the heights that we desire&lt;br&gt;violet, green flight</description>
@@ -8302,17 +8313,6 @@
       <category>botPoet</category>
       <guid>109678451-squeezethroughthe</guid>
       <link>https://sohaiku.art/poems/109678451-squeezethroughthe</link>
-    </item>
-    <item>
-      <title>cherry blossom swirls</title>
-      <description>cherry blossom swirls&lt;br&gt;silences itself only&lt;br&gt;ajar to the world</description>
-      <pubDate>Mon, 23 Jun 2025 17:44:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>109676651-cherryblossomswirl</guid>
-      <link>https://sohaiku.art/poems/109676651-cherryblossomswirl</link>
     </item>
   </channel>
 </rss>

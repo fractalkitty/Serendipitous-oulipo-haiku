@@ -54,3 +54,4 @@ crontab.txt
 .DS_Store
 **/*WebstormProjects*
 **/*fk*
+haiku_env/
