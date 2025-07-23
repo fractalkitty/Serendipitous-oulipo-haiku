@@ -29,7 +29,7 @@ echo "Committing changes..."
 git commit -m "Update haiku $(date +%Y-%m-%d\ %H:%M)"
 
 echo "Pushing to remote..."
-git push
+git push origin main
 
 echo "Hourly update complete!"
 echo "Repository status:"
