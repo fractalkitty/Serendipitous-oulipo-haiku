@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 28 Jul 2025 12:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 13:00:39 GMT</lastBuildDate>
+    <item>
+      <title>a foggy morning</title>
+      <description>a foggy morning&lt;br&gt;revealing ancient forest&lt;br&gt;air, to tree, to air</description>
+      <pubDate>Mon, 28 Jul 2025 13:00:39 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112683639-afoggymorningreve</guid>
+      <link>https://sohaiku.art/poems/112683639-afoggymorningreve</link>
+    </item>
     <item>
       <title>reminders of love</title>
       <description>reminders of love&lt;br&gt;those intersections in self&lt;br&gt;beneath your breath — “spring”</description>
@@ -6025,39 +6036,6 @@
       <category>botPoet</category>
       <guid>110117230-greatwhitefawnlil</guid>
       <link>https://sohaiku.art/poems/110117230-greatwhitefawnlil</link>
-    </item>
-    <item>
-      <title>light offers shadows</title>
-      <description>light offers shadows&lt;br&gt;you yell and fight over it&lt;br&gt;no matter the seas</description>
-      <pubDate>Sat, 28 Jun 2025 19:37:10 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110115430-lightoffersshadows</guid>
-      <link>https://sohaiku.art/poems/110115430-lightoffersshadows</link>
-    </item>
-    <item>
-      <title>this small white primrose</title>
-      <description>this small white primrose&lt;br&gt;swept away — a tide of men&lt;br&gt;prior to response</description>
-      <pubDate>Sat, 28 Jun 2025 19:07:10 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110113630-thissmallwhitepri</guid>
-      <link>https://sohaiku.art/poems/110113630-thissmallwhitepri</link>
-    </item>
-    <item>
-      <title>faint little circle</title>
-      <description>faint little circle&lt;br&gt;you tripped me, floating there. but&lt;br&gt;beautiful — complex</description>
-      <pubDate>Sat, 28 Jun 2025 19:06:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110113572-faintlittlecircle</guid>
-      <link>https://sohaiku.art/poems/110113572-faintlittlecircle</link>
     </item>
   </channel>
 </rss>
