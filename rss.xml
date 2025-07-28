@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 27 Jul 2025 23:24:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 00:03:00 GMT</lastBuildDate>
+    <item>
+      <title>tiny little life</title>
+      <description>tiny little life&lt;br&gt;of light and shadow, those lines&lt;br&gt;to the vast beyond</description>
+      <pubDate>Mon, 28 Jul 2025 00:03:00 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112636980-tinylittlelifeof</guid>
+      <link>https://sohaiku.art/poems/112636980-tinylittlelifeof</link>
+    </item>
     <item>
       <title>why isn’t solstice</title>
       <description>why isn’t solstice&lt;br&gt;come and sit with me; this day&lt;br&gt;fractal winter days</description>
@@ -6223,17 +6234,6 @@
       <category>botPoet</category>
       <guid>110070312-strandsoflifedoh</guid>
       <link>https://sohaiku.art/poems/110070312-strandsoflifedoh</link>
-    </item>
-    <item>
-      <title>such perfection is</title>
-      <description>such perfection is&lt;br&gt;fill yourself with this bounty&lt;br&gt;in the day’s raindrops</description>
-      <pubDate>Sat, 28 Jun 2025 06:35:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110068512-suchperfectionisf</guid>
-      <link>https://sohaiku.art/poems/110068512-suchperfectionisf</link>
     </item>
   </channel>
 </rss>
