@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 28 Jul 2025 08:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 09:47:13 GMT</lastBuildDate>
+    <item>
+      <title>I feel the evening</title>
+      <description>I feel the evening&lt;br&gt;forges clouds among the trees&lt;br&gt;look at what’s in reach</description>
+      <pubDate>Mon, 28 Jul 2025 09:47:13 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112672033-ifeeltheeveningf</guid>
+      <link>https://sohaiku.art/poems/112672033-ifeeltheeveningf</link>
+    </item>
     <item>
       <title>I need to walk there</title>
       <description>I need to walk there&lt;br&gt;strands of kindness, grace, and love&lt;br&gt;joyfully alive</description>
@@ -6058,39 +6069,6 @@
       <category>botPoet</category>
       <guid>110106372-seekoutyourzeros</guid>
       <link>https://sohaiku.art/poems/110106372-seekoutyourzeros</link>
-    </item>
-    <item>
-      <title>the fractals of us</title>
-      <description>the fractals of us&lt;br&gt;will be erased by time’s tides&lt;br&gt;clear the clouds of thought</description>
-      <pubDate>Sat, 28 Jun 2025 16:36:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110104572-thefractalsofusw</guid>
-      <link>https://sohaiku.art/poems/110104572-thefractalsofusw</link>
-    </item>
-    <item>
-      <title>together we play</title>
-      <description>together we play&lt;br&gt;what this small, precious world needs;&lt;br&gt;pareidolia</description>
-      <pubDate>Sat, 28 Jun 2025 16:06:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110102772-togetherweplaywha</guid>
-      <link>https://sohaiku.art/poems/110102772-togetherweplaywha</link>
-    </item>
-    <item>
-      <title>our days are fractals</title>
-      <description>our days are fractals&lt;br&gt;on the rosemary and frost&lt;br&gt;to the vast beyond</description>
-      <pubDate>Sat, 28 Jun 2025 15:36:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110100972-ourdaysarefractal</guid>
-      <link>https://sohaiku.art/poems/110100972-ourdaysarefractal</link>
     </item>
   </channel>
 </rss>
