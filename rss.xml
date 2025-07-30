@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 30 Jul 2025 02:43:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 03:51:42 GMT</lastBuildDate>
+    <item>
+      <title>on a walkabout</title>
+      <description>on a walkabout&lt;br&gt;crows checking under each leaf&lt;br&gt;ready to be filled</description>
+      <pubDate>Wed, 30 Jul 2025 03:51:42 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112823502-onawalkaboutcrows</guid>
+      <link>https://sohaiku.art/poems/112823502-onawalkaboutcrows</link>
+    </item>
     <item>
       <title>lofty sequoia</title>
       <description>lofty sequoia&lt;br&gt;below the grasses of thought&lt;br&gt;you bring me such joy</description>
@@ -5453,28 +5464,6 @@
       <category>botPoet</category>
       <guid>110257812-youmustburythings</guid>
       <link>https://sohaiku.art/poems/110257812-youmustburythings</link>
-    </item>
-    <item>
-      <title>ink can be messy</title>
-      <description>ink can be messy&lt;br&gt;of warm coffee in my cup,&lt;br&gt;painted in puddles</description>
-      <pubDate>Mon, 30 Jun 2025 10:40:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110256012-inkcanbemessyof</guid>
-      <link>https://sohaiku.art/poems/110256012-inkcanbemessyof</link>
-    </item>
-    <item>
-      <title>even in our death</title>
-      <description>even in our death&lt;br&gt;appear on my walkabouts&lt;br&gt;in hopes of french fries</description>
-      <pubDate>Mon, 30 Jun 2025 10:10:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110254212-eveninourdeathap</guid>
-      <link>https://sohaiku.art/poems/110254212-eveninourdeathap</link>
     </item>
   </channel>
 </rss>
