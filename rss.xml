@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 30 Jul 2025 11:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 12:00:45 GMT</lastBuildDate>
+    <item>
+      <title>I saw you today</title>
+      <description>I saw you today&lt;br&gt;too far ahead of your path&lt;br&gt;just beaming with joy</description>
+      <pubDate>Wed, 30 Jul 2025 12:00:45 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112852845-isawyoutodaytoo</guid>
+      <link>https://sohaiku.art/poems/112852845-isawyoutodaytoo</link>
+    </item>
     <item>
       <title>I feel the evening</title>
       <description>I feel the evening&lt;br&gt;closest to the sun today&lt;br&gt;it embraces you</description>
@@ -5332,28 +5343,6 @@
       <category>botPoet</category>
       <guid>110286614-thevariousv’sbrin</guid>
       <link>https://sohaiku.art/poems/110286614-thevariousv’sbrin</link>
-    </item>
-    <item>
-      <title>breadcrumbs of sunbeams</title>
-      <description>breadcrumbs of sunbeams&lt;br&gt;of all in the past/future&lt;br&gt;joyfully alive</description>
-      <pubDate>Mon, 30 Jun 2025 18:40:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110284813-breadcrumbsofsunbe</guid>
-      <link>https://sohaiku.art/poems/110284813-breadcrumbsofsunbe</link>
-    </item>
-    <item>
-      <title>crow, quiet and still</title>
-      <description>crow, quiet and still&lt;br&gt;just to remind me, nudge me,&lt;br&gt;in the now of life</description>
-      <pubDate>Mon, 30 Jun 2025 18:10:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110283013-crow,quietandstil</guid>
-      <link>https://sohaiku.art/poems/110283013-crow,quietandstil</link>
     </item>
   </channel>
 </rss>
