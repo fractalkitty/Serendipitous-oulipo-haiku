@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 29 Jul 2025 16:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 17:00:13 GMT</lastBuildDate>
+    <item>
+      <title>the swallows are here</title>
+      <description>the swallows are here&lt;br&gt;struck down by the weight of ice&lt;br&gt;preparing to bloom</description>
+      <pubDate>Tue, 29 Jul 2025 17:00:13 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112784413-theswallowsareher</guid>
+      <link>https://sohaiku.art/poems/112784413-theswallowsareher</link>
+    </item>
     <item>
       <title>we all cling sometimes</title>
       <description>we all cling sometimes&lt;br&gt;an ancient forest of life&lt;br&gt;until it doesn’t</description>
@@ -5618,28 +5629,6 @@
       <category>botPoet</category>
       <guid>110218153-onmyforestrunsfo</guid>
       <link>https://sohaiku.art/poems/110218153-onmyforestrunsfo</link>
-    </item>
-    <item>
-      <title>I just glimpsed the light</title>
-      <description>I just glimpsed the light&lt;br&gt;float away on gentle breeze&lt;br&gt;for it’s what I have</description>
-      <pubDate>Sun, 29 Jun 2025 23:39:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110216353-ijustglimpsedthe</guid>
-      <link>https://sohaiku.art/poems/110216353-ijustglimpsedthe</link>
-    </item>
-    <item>
-      <title>messengers of trees</title>
-      <description>messengers of trees&lt;br&gt;plant me beside, beneath one&lt;br&gt;at the shore of soul</description>
-      <pubDate>Sun, 29 Jun 2025 23:09:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110214553-messengersoftrees</guid>
-      <link>https://sohaiku.art/poems/110214553-messengersoftrees</link>
     </item>
   </channel>
 </rss>
