@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 29 Jul 2025 17:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 18:00:19 GMT</lastBuildDate>
+    <item>
+      <title>sometimes birdwatching</title>
+      <description>sometimes birdwatching&lt;br&gt;you yell and fight over it&lt;br&gt;watch me; smile at me</description>
+      <pubDate>Tue, 29 Jul 2025 18:00:19 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112788019-sometimesbirdwatchi</guid>
+      <link>https://sohaiku.art/poems/112788019-sometimesbirdwatchi</link>
+    </item>
     <item>
       <title>the swallows are here</title>
       <description>the swallows are here&lt;br&gt;struck down by the weight of ice&lt;br&gt;preparing to bloom</description>
@@ -5607,28 +5618,6 @@
       <category>botPoet</category>
       <guid>110221754-ithinkthatyoumus</guid>
       <link>https://sohaiku.art/poems/110221754-ithinkthatyoumus</link>
-    </item>
-    <item>
-      <title>probability</title>
-      <description>probability&lt;br&gt;I do feel incredibly free&lt;br&gt;in waves of cawing</description>
-      <pubDate>Mon, 30 Jun 2025 00:39:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110219953-probabilityidofee</guid>
-      <link>https://sohaiku.art/poems/110219953-probabilityidofee</link>
-    </item>
-    <item>
-      <title>on my forest runs</title>
-      <description>on my forest runs&lt;br&gt;forges clouds among the trees&lt;br&gt;at the oceans breath</description>
-      <pubDate>Mon, 30 Jun 2025 00:09:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110218153-onmyforestrunsfo</guid>
-      <link>https://sohaiku.art/poems/110218153-onmyforestrunsfo</link>
     </item>
   </channel>
 </rss>
