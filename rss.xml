@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 30 Jul 2025 10:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 11:00:43 GMT</lastBuildDate>
+    <item>
+      <title>I feel the evening</title>
+      <description>I feel the evening&lt;br&gt;closest to the sun today&lt;br&gt;it embraces you</description>
+      <pubDate>Wed, 30 Jul 2025 11:00:43 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112849243-ifeeltheeveningc</guid>
+      <link>https://sohaiku.art/poems/112849243-ifeeltheeveningc</link>
+    </item>
     <item>
       <title>a flurry of white</title>
       <description>a flurry of white&lt;br&gt;pause to see the warp and weft&lt;br&gt;announce the sunset</description>
@@ -5343,28 +5354,6 @@
       <category>botPoet</category>
       <guid>110283013-crow,quietandstil</guid>
       <link>https://sohaiku.art/poems/110283013-crow,quietandstil</link>
-    </item>
-    <item>
-      <title>you are a symbol</title>
-      <description>you are a symbol&lt;br&gt;rupture with flight and chorus&lt;br&gt;raining from the sky</description>
-      <pubDate>Mon, 30 Jun 2025 17:40:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110281213-youareasymbolrup</guid>
-      <link>https://sohaiku.art/poems/110281213-youareasymbolrup</link>
-    </item>
-    <item>
-      <title>I think that you might</title>
-      <description>I think that you might&lt;br&gt;of dancing curves of sunshine&lt;br&gt;in the day’s raindrops</description>
-      <pubDate>Mon, 30 Jun 2025 17:10:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110279413-ithinkthatyoumig</guid>
-      <link>https://sohaiku.art/poems/110279413-ithinkthatyoumig</link>
     </item>
   </channel>
 </rss>
