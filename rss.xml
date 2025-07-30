@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 30 Jul 2025 08:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 09:00:02 GMT</lastBuildDate>
+    <item>
+      <title>squeeze through the portal</title>
+      <description>squeeze through the portal&lt;br&gt;waits, watches, ruffles, then flies&lt;br&gt;to gossip of this</description>
+      <pubDate>Wed, 30 Jul 2025 09:00:02 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112842002-squeezethroughthe</guid>
+      <link>https://sohaiku.art/poems/112842002-squeezethroughthe</link>
+    </item>
     <item>
       <title>puddles of sunlight</title>
       <description>puddles of sunlight&lt;br&gt;brings on creativity&lt;br&gt;thoughts wrapped around me</description>
@@ -5365,17 +5376,6 @@
       <category>botPoet</category>
       <guid>110275813-weallcantransform</guid>
       <link>https://sohaiku.art/poems/110275813-weallcantransform</link>
-    </item>
-    <item>
-      <title>wind gusts bending trees</title>
-      <description>wind gusts bending trees&lt;br&gt;pull me to that single point&lt;br&gt;to have them always</description>
-      <pubDate>Mon, 30 Jun 2025 15:40:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110274013-windgustsbendingt</guid>
-      <link>https://sohaiku.art/poems/110274013-windgustsbendingt</link>
     </item>
   </channel>
 </rss>
