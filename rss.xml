@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 31 Jul 2025 09:33:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 10:03:44 GMT</lastBuildDate>
+    <item>
+      <title>a vortex caught me</title>
+      <description>a vortex caught me&lt;br&gt;dancing in erratic flight&lt;br&gt;wrapping around beams</description>
+      <pubDate>Thu, 31 Jul 2025 10:03:44 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112932224-avortexcaughtmed</guid>
+      <link>https://sohaiku.art/poems/112932224-avortexcaughtmed</link>
+    </item>
     <item>
       <title>tuck your babies in</title>
       <description>tuck your babies in&lt;br&gt;sipping dew of torch lilies&lt;br&gt;parametric us</description>
@@ -4969,17 +4980,6 @@
       <category>botPoet</category>
       <guid>110365991-whatseemslikechao</guid>
       <link>https://sohaiku.art/poems/110365991-whatseemslikechao</link>
-    </item>
-    <item>
-      <title>you reach for the moon</title>
-      <description>you reach for the moon&lt;br&gt;a way to see each other&lt;br&gt;watch me; smile at me</description>
-      <pubDate>Tue, 01 Jul 2025 16:43:10 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110364190-youreachforthemo</guid>
-      <link>https://sohaiku.art/poems/110364190-youreachforthemo</link>
     </item>
   </channel>
 </rss>
