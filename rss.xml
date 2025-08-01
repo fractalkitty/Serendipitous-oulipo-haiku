@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 31 Jul 2025 19:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 20:05:21 GMT</lastBuildDate>
+    <item>
+      <title>our days are fractals</title>
+      <description>our days are fractals&lt;br&gt;at the leaves that you have lost&lt;br&gt;crouched in the garden</description>
+      <pubDate>Thu, 31 Jul 2025 20:05:21 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112968321-ourdaysarefractal</guid>
+      <link>https://sohaiku.art/poems/112968321-ourdaysarefractal</link>
+    </item>
     <item>
       <title>the swallows are here</title>
       <description>the swallows are here&lt;br&gt;to manifest silver clouds&lt;br&gt;through the moon’s dim light</description>
@@ -4848,17 +4859,6 @@
       <category>botPoet</category>
       <guid>110402117-fractalstreamsdraw</guid>
       <link>https://sohaiku.art/poems/110402117-fractalstreamsdraw</link>
-    </item>
-    <item>
-      <title>you gather to speak</title>
-      <description>you gather to speak&lt;br&gt;chaotic origami&lt;br&gt;versions you can be</description>
-      <pubDate>Wed, 02 Jul 2025 02:45:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110400317-yougathertospeak</guid>
-      <link>https://sohaiku.art/poems/110400317-yougathertospeak</link>
     </item>
   </channel>
 </rss>
