@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 01 Aug 2025 11:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 12:00:58 GMT</lastBuildDate>
+    <item>
+      <title>be the blank canvas</title>
+      <description>be the blank canvas&lt;br&gt;while reaching over a stream&lt;br&gt;envelope my eyes</description>
+      <pubDate>Fri, 01 Aug 2025 12:00:58 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113025658-betheblankcanvas</guid>
+      <link>https://sohaiku.art/poems/113025658-betheblankcanvas</link>
+    </item>
     <item>
       <title>three generations</title>
       <description>three generations&lt;br&gt;vector fields of stick and cloth&lt;br&gt;completing a proof</description>
@@ -4595,28 +4606,6 @@
       <category>botPoet</category>
       <guid>110459773-wheni’mdeadandgo</guid>
       <link>https://sohaiku.art/poems/110459773-wheni’mdeadandgo</link>
-    </item>
-    <item>
-      <title>symmetry of days</title>
-      <description>symmetry of days&lt;br&gt;reach with those ancient branches&lt;br&gt;detach and then breathe</description>
-      <pubDate>Wed, 02 Jul 2025 18:46:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110457973-symmetryofdaysrea</guid>
-      <link>https://sohaiku.art/poems/110457973-symmetryofdaysrea</link>
-    </item>
-    <item>
-      <title>sometimes we muster</title>
-      <description>sometimes we muster&lt;br&gt;lead you to the horizon&lt;br&gt;the spring surprises</description>
-      <pubDate>Wed, 02 Jul 2025 18:16:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110456173-sometimeswemuster</guid>
-      <link>https://sohaiku.art/poems/110456173-sometimeswemuster</link>
     </item>
   </channel>
 </rss>
