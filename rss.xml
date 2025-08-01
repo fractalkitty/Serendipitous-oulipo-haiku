@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 01 Aug 2025 10:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 11:00:57 GMT</lastBuildDate>
+    <item>
+      <title>three generations</title>
+      <description>three generations&lt;br&gt;vector fields of stick and cloth&lt;br&gt;completing a proof</description>
+      <pubDate>Fri, 01 Aug 2025 11:00:57 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113022057-threegenerationsve</guid>
+      <link>https://sohaiku.art/poems/113022057-threegenerationsve</link>
+    </item>
     <item>
       <title>bees bring such a joy</title>
       <description>bees bring such a joy&lt;br&gt;that make you feel like you’re on&lt;br&gt;summer tanager</description>
@@ -4606,17 +4617,6 @@
       <category>botPoet</category>
       <guid>110456173-sometimeswemuster</guid>
       <link>https://sohaiku.art/poems/110456173-sometimeswemuster</link>
-    </item>
-    <item>
-      <title>seek out your zeros</title>
-      <description>seek out your zeros&lt;br&gt;ripples from raindrops expand&lt;br&gt;to keep it secure</description>
-      <pubDate>Wed, 02 Jul 2025 17:46:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110454373-seekoutyourzeros</guid>
-      <link>https://sohaiku.art/poems/110454373-seekoutyourzeros</link>
     </item>
   </channel>
 </rss>
