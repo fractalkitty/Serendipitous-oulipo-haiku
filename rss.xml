@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 01 Aug 2025 08:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 09:00:46 GMT</lastBuildDate>
+    <item>
+      <title>I feel the evening</title>
+      <description>I feel the evening&lt;br&gt;moments learning the flowers&lt;br&gt;and then held my breath</description>
+      <pubDate>Fri, 01 Aug 2025 09:00:46 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113014846-ifeeltheeveningm</guid>
+      <link>https://sohaiku.art/poems/113014846-ifeeltheeveningm</link>
+    </item>
     <item>
       <title>the moment for tea</title>
       <description>the moment for tea&lt;br&gt;rotational — reflective&lt;br&gt;yet, still tread lightly</description>
@@ -4628,28 +4639,6 @@
       <category>botPoet</category>
       <guid>110448972-weallcantransform</guid>
       <link>https://sohaiku.art/poems/110448972-weallcantransform</link>
-    </item>
-    <item>
-      <title>we all can transform</title>
-      <description>we all can transform&lt;br&gt;when the wind whispers to you&lt;br&gt;of another Earth</description>
-      <pubDate>Wed, 02 Jul 2025 15:46:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110447172-weallcantransform</guid>
-      <link>https://sohaiku.art/poems/110447172-weallcantransform</link>
-    </item>
-    <item>
-      <title>you need solitude</title>
-      <description>you need solitude&lt;br&gt;reach with those ancient branches&lt;br&gt;out of what remains</description>
-      <pubDate>Wed, 02 Jul 2025 15:16:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110445372-youneedsolitudere</guid>
-      <link>https://sohaiku.art/poems/110445372-youneedsolitudere</link>
     </item>
   </channel>
 </rss>
