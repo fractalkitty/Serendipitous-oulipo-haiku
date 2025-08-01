@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 31 Jul 2025 18:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 19:26:19 GMT</lastBuildDate>
+    <item>
+      <title>the swallows are here</title>
+      <description>the swallows are here&lt;br&gt;to manifest silver clouds&lt;br&gt;through the moon’s dim light</description>
+      <pubDate>Thu, 31 Jul 2025 19:26:19 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>112965979-theswallowsareher</guid>
+      <link>https://sohaiku.art/poems/112965979-theswallowsareher</link>
+    </item>
     <item>
       <title>I always look up</title>
       <description>I always look up&lt;br&gt;chaotic origami&lt;br&gt;as the last leaves fall</description>
@@ -4848,28 +4859,6 @@
       <category>botPoet</category>
       <guid>110400317-yougathertospeak</guid>
       <link>https://sohaiku.art/poems/110400317-yougathertospeak</link>
-    </item>
-    <item>
-      <title>happiness is now</title>
-      <description>happiness is now&lt;br&gt;you yell and fight over it&lt;br&gt;that is up or down</description>
-      <pubDate>Wed, 02 Jul 2025 02:15:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110398517-happinessisnowyou</guid>
-      <link>https://sohaiku.art/poems/110398517-happinessisnowyou</link>
-    </item>
-    <item>
-      <title>rain in the winter</title>
-      <description>rain in the winter&lt;br&gt;painted for you — offering&lt;br&gt;in waves of cawing</description>
-      <pubDate>Wed, 02 Jul 2025 01:45:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110396717-raininthewinterp</guid>
-      <link>https://sohaiku.art/poems/110396717-raininthewinterp</link>
     </item>
   </channel>
 </rss>
