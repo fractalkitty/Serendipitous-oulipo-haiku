@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 03 Aug 2025 11:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 12:10:25 GMT</lastBuildDate>
+    <item>
+      <title>just look at you there</title>
+      <description>just look at you there&lt;br&gt;smoothing bumps, magnifying&lt;br&gt;to then turn around</description>
+      <pubDate>Sun, 03 Aug 2025 12:10:25 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113199025-justlookatyouthe</guid>
+      <link>https://sohaiku.art/poems/113199025-justlookatyouthe</link>
+    </item>
     <item>
       <title>the simplest joy</title>
       <description>the simplest joy&lt;br&gt;coastline measured by atom&lt;br&gt;of aether and light</description>
@@ -3858,28 +3869,6 @@
       <category>botPoet</category>
       <guid>110632935-sometimesit’sthec</guid>
       <link>https://sohaiku.art/poems/110632935-sometimesit’sthec</link>
-    </item>
-    <item>
-      <title>I try to let storms</title>
-      <description>I try to let storms&lt;br&gt;absolutely wonderful&lt;br&gt;centuries of flow</description>
-      <pubDate>Fri, 04 Jul 2025 18:52:14 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110631134-itrytoletstorms</guid>
-      <link>https://sohaiku.art/poems/110631134-itrytoletstorms</link>
-    </item>
-    <item>
-      <title>sometimes birdwatching</title>
-      <description>sometimes birdwatching&lt;br&gt;reflect your being in the&lt;br&gt;life’s concavity</description>
-      <pubDate>Fri, 04 Jul 2025 18:22:14 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110629334-sometimesbirdwatchi</guid>
-      <link>https://sohaiku.art/poems/110629334-sometimesbirdwatchi</link>
     </item>
   </channel>
 </rss>
