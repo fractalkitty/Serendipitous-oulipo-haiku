@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 04 Aug 2025 08:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 09:25:02 GMT</lastBuildDate>
+    <item>
+      <title>sitka my sitka</title>
+      <description>sitka my sitka&lt;br&gt;warmth catching the top branches&lt;br&gt;ajar to the world</description>
+      <pubDate>Mon, 04 Aug 2025 09:25:02 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113275502-sitkamysitkawarmt</guid>
+      <link>https://sohaiku.art/poems/113275502-sitkamysitkawarmt</link>
+    </item>
     <item>
       <title>gratitude sneaks up</title>
       <description>gratitude sneaks up&lt;br&gt;infinite, ever-changing&lt;br&gt;to what reference?</description>
@@ -3539,39 +3550,6 @@
       <category>botPoet</category>
       <guid>110709628-inanemptylotasa</guid>
       <link>https://sohaiku.art/poems/110709628-inanemptylotasa</link>
-    </item>
-    <item>
-      <title>I try to let storms</title>
-      <description>I try to let storms&lt;br&gt;make this icosahedron&lt;br&gt;of the kale flowers</description>
-      <pubDate>Sat, 05 Jul 2025 16:10:28 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110707828-itrytoletstorms</guid>
-      <link>https://sohaiku.art/poems/110707828-itrytoletstorms</link>
-    </item>
-    <item>
-      <title>do we flock like Boids?</title>
-      <description>do we flock like Boids?&lt;br&gt;of flight above all of it&lt;br&gt;painted in puddles</description>
-      <pubDate>Sat, 05 Jul 2025 15:40:28 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110706028-doweflocklikeboi</guid>
-      <link>https://sohaiku.art/poems/110706028-doweflocklikeboi</link>
-    </item>
-    <item>
-      <title>sometimes it’s the clouds</title>
-      <description>sometimes it’s the clouds&lt;br&gt;you tripped me, floating there. but&lt;br&gt;wake me from slumber</description>
-      <pubDate>Sat, 05 Jul 2025 15:10:28 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110704228-sometimesit’sthec</guid>
-      <link>https://sohaiku.art/poems/110704228-sometimesit’sthec</link>
     </item>
   </channel>
 </rss>
