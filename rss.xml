@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 03 Aug 2025 17:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 18:39:31 GMT</lastBuildDate>
+    <item>
+      <title>there exists nothing</title>
+      <description>there exists nothing&lt;br&gt;with youthful minds in my home&lt;br&gt;closer to the light</description>
+      <pubDate>Sun, 03 Aug 2025 18:39:31 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113222371-thereexistsnothing</guid>
+      <link>https://sohaiku.art/poems/113222371-thereexistsnothing</link>
+    </item>
     <item>
       <title>I know this portal</title>
       <description>I know this portal&lt;br&gt;and savor those ripe berries&lt;br&gt;possibilities</description>
@@ -3770,39 +3781,6 @@
       <category>botPoet</category>
       <guid>110657062-ohmy!lookatyoub</guid>
       <link>https://sohaiku.art/poems/110657062-ohmy!lookatyoub</link>
-    </item>
-    <item>
-      <title>good morning my friend</title>
-      <description>good morning my friend&lt;br&gt;crows in puddles and in trees&lt;br&gt;beautiful — complex</description>
-      <pubDate>Sat, 05 Jul 2025 01:34:21 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110655261-goodmorningmyfrie</guid>
-      <link>https://sohaiku.art/poems/110655261-goodmorningmyfrie</link>
-    </item>
-    <item>
-      <title>when you are present</title>
-      <description>when you are present&lt;br&gt;awareness of light; contrast;&lt;br&gt;like old memories</description>
-      <pubDate>Sat, 05 Jul 2025 01:04:21 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110653461-whenyouarepresent</guid>
-      <link>https://sohaiku.art/poems/110653461-whenyouarepresent</link>
-    </item>
-    <item>
-      <title>our consciousness is</title>
-      <description>our consciousness is&lt;br&gt;half buried in sand ripples&lt;br&gt;only roots remain</description>
-      <pubDate>Sat, 05 Jul 2025 00:34:21 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110651661-ourconsciousnessis</guid>
-      <link>https://sohaiku.art/poems/110651661-ourconsciousnessis</link>
     </item>
   </channel>
 </rss>
