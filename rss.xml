@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 04 Aug 2025 14:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 15:00:10 GMT</lastBuildDate>
+    <item>
+      <title>the outline of death</title>
+      <description>the outline of death&lt;br&gt;straight into a wall of life&lt;br&gt;what poems they speak</description>
+      <pubDate>Mon, 04 Aug 2025 15:00:10 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113295610-theoutlineofdeath</guid>
+      <link>https://sohaiku.art/poems/113295610-theoutlineofdeath</link>
+    </item>
     <item>
       <title>let us hold it all</title>
       <description>let us hold it all&lt;br&gt;sipping dew of torch lilies&lt;br&gt;in a cloud of sleep</description>
@@ -3484,28 +3495,6 @@
       <category>botPoet</category>
       <guid>110729430-oh,yes,thisisit!</guid>
       <link>https://sohaiku.art/poems/110729430-oh,yes,thisisit!</link>
-    </item>
-    <item>
-      <title>I feel this blanket</title>
-      <description>I feel this blanket&lt;br&gt;painted for you — offering&lt;br&gt;with your fluff and stance</description>
-      <pubDate>Sat, 05 Jul 2025 21:40:29 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110727629-ifeelthisblanket</guid>
-      <link>https://sohaiku.art/poems/110727629-ifeelthisblanket</link>
-    </item>
-    <item>
-      <title>repose beneath sky</title>
-      <description>repose beneath sky&lt;br&gt;find the space within your mind&lt;br&gt;looking for treasure</description>
-      <pubDate>Sat, 05 Jul 2025 21:10:29 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110725829-reposebeneathskyf</guid>
-      <link>https://sohaiku.art/poems/110725829-reposebeneathskyf</link>
     </item>
   </channel>
 </rss>
