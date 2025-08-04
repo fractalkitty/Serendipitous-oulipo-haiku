@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 04 Aug 2025 13:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 14:02:08 GMT</lastBuildDate>
+    <item>
+      <title>let us hold it all</title>
+      <description>let us hold it all&lt;br&gt;sipping dew of torch lilies&lt;br&gt;in a cloud of sleep</description>
+      <pubDate>Mon, 04 Aug 2025 14:02:08 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113292128-letusholditalls</guid>
+      <link>https://sohaiku.art/poems/113292128-letusholditalls</link>
+    </item>
     <item>
       <title>so, obviously</title>
       <description>so, obviously&lt;br&gt;you have been trained to lure us&lt;br&gt;whispering of blue</description>
@@ -3495,17 +3506,6 @@
       <category>botPoet</category>
       <guid>110725829-reposebeneathskyf</guid>
       <link>https://sohaiku.art/poems/110725829-reposebeneathskyf</link>
-    </item>
-    <item>
-      <title>there’s this ritual</title>
-      <description>there’s this ritual&lt;br&gt;revealing ancient forest&lt;br&gt;such different days</description>
-      <pubDate>Sat, 05 Jul 2025 20:40:29 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110724029-there’sthisritual</guid>
-      <link>https://sohaiku.art/poems/110724029-there’sthisritual</link>
     </item>
   </channel>
 </rss>
