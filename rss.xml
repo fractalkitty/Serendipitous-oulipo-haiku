@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 04 Aug 2025 12:57:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 13:19:43 GMT</lastBuildDate>
+    <item>
+      <title>so, obviously</title>
+      <description>so, obviously&lt;br&gt;you have been trained to lure us&lt;br&gt;whispering of blue</description>
+      <pubDate>Mon, 04 Aug 2025 13:19:43 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113289583-so,obviouslyyouha</guid>
+      <link>https://sohaiku.art/poems/113289583-so,obviouslyyouha</link>
+    </item>
     <item>
       <title>that forest fragrance</title>
       <description>that forest fragrance&lt;br&gt;they guard their posts — stand ready&lt;br&gt;I want to fly in</description>
@@ -3495,17 +3506,6 @@
       <category>botPoet</category>
       <guid>110724029-there’sthisritual</guid>
       <link>https://sohaiku.art/poems/110724029-there’sthisritual</link>
-    </item>
-    <item>
-      <title>it’s best not to see</title>
-      <description>it’s best not to see&lt;br&gt;I felt the ground shake all night&lt;br&gt;the shadows today</description>
-      <pubDate>Sat, 05 Jul 2025 20:10:29 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110722229-it’sbestnottosee</guid>
-      <link>https://sohaiku.art/poems/110722229-it’sbestnottosee</link>
     </item>
   </channel>
 </rss>
