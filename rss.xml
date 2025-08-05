@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 04 Aug 2025 18:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 19:00:06 GMT</lastBuildDate>
+    <item>
+      <title>revert to a child</title>
+      <description>revert to a child&lt;br&gt;generations green and full&lt;br&gt;modest are the trees</description>
+      <pubDate>Mon, 04 Aug 2025 19:00:06 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113310006-reverttoachildge</guid>
+      <link>https://sohaiku.art/poems/113310006-reverttoachildge</link>
+    </item>
     <item>
       <title>this hug was intense</title>
       <description>this hug was intense&lt;br&gt;completely immerse yourself&lt;br&gt;announce the sunset</description>
@@ -3429,28 +3440,6 @@
       <category>botPoet</category>
       <guid>110743952-happinessisnowcus</guid>
       <link>https://sohaiku.art/poems/110743952-happinessisnowcus</link>
-    </item>
-    <item>
-      <title>probability</title>
-      <description>probability&lt;br&gt;vivid inner gratitude&lt;br&gt;ev’ry living cell</description>
-      <pubDate>Sun, 06 Jul 2025 01:42:32 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110742152-probabilityvividin</guid>
-      <link>https://sohaiku.art/poems/110742152-probabilityvividin</link>
-    </item>
-    <item>
-      <title>a light of guidance</title>
-      <description>a light of guidance&lt;br&gt;forges clouds among the trees&lt;br&gt;so wondrously new</description>
-      <pubDate>Sun, 06 Jul 2025 01:12:32 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110740352-alightofguidance</guid>
-      <link>https://sohaiku.art/poems/110740352-alightofguidance</link>
     </item>
   </channel>
 </rss>
