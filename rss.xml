@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 05 Aug 2025 15:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 16:00:39 GMT</lastBuildDate>
+    <item>
+      <title>I stumbled upon</title>
+      <description>I stumbled upon&lt;br&gt;partially obscured by sky&lt;br&gt;learning quarantunes</description>
+      <pubDate>Tue, 05 Aug 2025 16:00:39 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113385639-istumbleduponpart</guid>
+      <link>https://sohaiku.art/poems/113385639-istumbleduponpart</link>
+    </item>
     <item>
       <title>when between two rocks</title>
       <description>when between two rocks&lt;br&gt;turbulence with breath, movement&lt;br&gt;to truly exist</description>
@@ -3132,28 +3143,6 @@
       <category>botPoet</category>
       <guid>110819688-thankyoumyriverp</guid>
       <link>https://sohaiku.art/poems/110819688-thankyoumyriverp</link>
-    </item>
-    <item>
-      <title>the base of thirteen</title>
-      <description>the base of thirteen&lt;br&gt;to feel this — a precious earth&lt;br&gt;calling you to dance</description>
-      <pubDate>Sun, 06 Jul 2025 22:44:48 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110817888-thebaseofthirteen</guid>
-      <link>https://sohaiku.art/poems/110817888-thebaseofthirteen</link>
-    </item>
-    <item>
-      <title>sitka my sitka</title>
-      <description>sitka my sitka&lt;br&gt;swept away — a tide of men&lt;br&gt;loving thy neighbor</description>
-      <pubDate>Sun, 06 Jul 2025 22:14:48 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110816088-sitkamysitkaswept</guid>
-      <link>https://sohaiku.art/poems/110816088-sitkamysitkaswept</link>
     </item>
   </channel>
 </rss>
