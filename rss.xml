@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 04 Aug 2025 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 18:00:04 GMT</lastBuildDate>
+    <item>
+      <title>this hug was intense</title>
+      <description>this hug was intense&lt;br&gt;completely immerse yourself&lt;br&gt;announce the sunset</description>
+      <pubDate>Mon, 04 Aug 2025 18:00:04 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113306404-thishugwasintense</guid>
+      <link>https://sohaiku.art/poems/113306404-thishugwasintense</link>
+    </item>
     <item>
       <title>splashing in pure joy</title>
       <description>splashing in pure joy&lt;br&gt;sipping dew of torch lilies&lt;br&gt;gather energy</description>
@@ -3440,39 +3451,6 @@
       <category>botPoet</category>
       <guid>110740352-alightofguidance</guid>
       <link>https://sohaiku.art/poems/110740352-alightofguidance</link>
-    </item>
-    <item>
-      <title>oh, oyster catcher</title>
-      <description>oh, oyster catcher&lt;br&gt;you can be a single point&lt;br&gt;strength in this small life</description>
-      <pubDate>Sun, 06 Jul 2025 00:42:31 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110738551-oh,oystercatchery</guid>
-      <link>https://sohaiku.art/poems/110738551-oh,oystercatchery</link>
-    </item>
-    <item>
-      <title>I saw the sunrise</title>
-      <description>I saw the sunrise&lt;br&gt;into the day’s sublime blooms&lt;br&gt;ajar to the world</description>
-      <pubDate>Sun, 06 Jul 2025 00:40:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110738430-isawthesunrisein</guid>
-      <link>https://sohaiku.art/poems/110738430-isawthesunrisein</link>
-    </item>
-    <item>
-      <title>an insane loudness</title>
-      <description>an insane loudness&lt;br&gt;yellow streaks in my backyard&lt;br&gt;shoot; despite ourselves</description>
-      <pubDate>Sun, 06 Jul 2025 00:10:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110736630-aninsaneloudnessy</guid>
-      <link>https://sohaiku.art/poems/110736630-aninsaneloudnessy</link>
     </item>
   </channel>
 </rss>
