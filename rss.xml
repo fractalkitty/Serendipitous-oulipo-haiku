@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 05 Aug 2025 06:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 07:36:41 GMT</lastBuildDate>
+    <item>
+      <title>the swallows are here</title>
+      <description>the swallows are here&lt;br&gt;we may spring forth foliage&lt;br&gt;listening to birds</description>
+      <pubDate>Tue, 05 Aug 2025 07:36:41 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113355401-theswallowsareher</guid>
+      <link>https://sohaiku.art/poems/113355401-theswallowsareher</link>
+    </item>
     <item>
       <title>I treat my tea bag</title>
       <description>I treat my tea bag&lt;br&gt;chaotic origami&lt;br&gt;life’s intricacies</description>
@@ -3220,28 +3231,6 @@
       <category>botPoet</category>
       <guid>110789086-selfportraitsaret</guid>
       <link>https://sohaiku.art/poems/110789086-selfportraitsaret</link>
-    </item>
-    <item>
-      <title>walking random paths</title>
-      <description>walking random paths&lt;br&gt;rotational — reflective&lt;br&gt;on the azure sky</description>
-      <pubDate>Sun, 06 Jul 2025 14:14:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110787286-walkingrandompaths</guid>
-      <link>https://sohaiku.art/poems/110787286-walkingrandompaths</link>
-    </item>
-    <item>
-      <title>life shows its beauty</title>
-      <description>life shows its beauty&lt;br&gt;but then just came anyway&lt;br&gt;out of what remains</description>
-      <pubDate>Sun, 06 Jul 2025 13:44:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110785486-lifeshowsitsbeaut</guid>
-      <link>https://sohaiku.art/poems/110785486-lifeshowsitsbeaut</link>
     </item>
   </channel>
 </rss>
