@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 05 Aug 2025 08:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 09:00:43 GMT</lastBuildDate>
+    <item>
+      <title>I wish I knew how</title>
+      <description>I wish I knew how&lt;br&gt;of dancing curves of sunshine&lt;br&gt;announce the sunset</description>
+      <pubDate>Tue, 05 Aug 2025 09:00:43 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113360443-iwishiknewhowof</guid>
+      <link>https://sohaiku.art/poems/113360443-iwishiknewhowof</link>
+    </item>
     <item>
       <title>you anticipate</title>
       <description>you anticipate&lt;br&gt;of little feathers and down&lt;br&gt;lingers deep inside</description>
@@ -3209,28 +3220,6 @@
       <category>botPoet</category>
       <guid>110794486-eventhestrongestc</guid>
       <link>https://sohaiku.art/poems/110794486-eventhestrongestc</link>
-    </item>
-    <item>
-      <title>cumulative drops</title>
-      <description>cumulative drops&lt;br&gt;your eyes wide open to see&lt;br&gt;just beaming with joy</description>
-      <pubDate>Sun, 06 Jul 2025 15:44:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110792686-cumulativedropsyou</guid>
-      <link>https://sohaiku.art/poems/110792686-cumulativedropsyou</link>
-    </item>
-    <item>
-      <title>tuck your babies in</title>
-      <description>tuck your babies in&lt;br&gt;moments learning the flowers&lt;br&gt;in dark winter days</description>
-      <pubDate>Sun, 06 Jul 2025 15:14:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110790886-tuckyourbabiesin</guid>
-      <link>https://sohaiku.art/poems/110790886-tuckyourbabiesin</link>
     </item>
   </channel>
 </rss>
