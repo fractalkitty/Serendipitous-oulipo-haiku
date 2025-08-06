@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 05 Aug 2025 18:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 19:00:16 GMT</lastBuildDate>
+    <item>
+      <title>and so, here I am</title>
+      <description>and so, here I am&lt;br&gt;into the streams of the sky&lt;br&gt;hide aphelion</description>
+      <pubDate>Tue, 05 Aug 2025 19:00:16 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113396416-andso,hereiamin</guid>
+      <link>https://sohaiku.art/poems/113396416-andso,hereiamin</link>
+    </item>
     <item>
       <title>this isolation</title>
       <description>this isolation&lt;br&gt;fill my soul with joy,love. In&lt;br&gt;calling you to dance</description>
@@ -3088,28 +3099,6 @@
       <category>botPoet</category>
       <guid>110830860-whenisit,youask</guid>
       <link>https://sohaiku.art/poems/110830860-whenisit,youask</link>
-    </item>
-    <item>
-      <title>my road is the path</title>
-      <description>my road is the path&lt;br&gt;the weight gives way for the light&lt;br&gt;evening prayers</description>
-      <pubDate>Mon, 07 Jul 2025 01:51:00 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110829060-myroadisthepath</guid>
-      <link>https://sohaiku.art/poems/110829060-myroadisthepath</link>
-    </item>
-    <item>
-      <title>could this day just be</title>
-      <description>could this day just be&lt;br&gt;nodes in the past and future&lt;br&gt;the eddies of life</description>
-      <pubDate>Mon, 07 Jul 2025 01:21:00 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110827260-couldthisdayjust</guid>
-      <link>https://sohaiku.art/poems/110827260-couldthisdayjust</link>
     </item>
   </channel>
 </rss>
