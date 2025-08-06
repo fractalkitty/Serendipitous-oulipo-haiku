@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 05 Aug 2025 16:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 17:00:52 GMT</lastBuildDate>
+    <item>
+      <title>in just one moment</title>
+      <description>in just one moment&lt;br&gt;found in every little&lt;br&gt;on the forest floor</description>
+      <pubDate>Tue, 05 Aug 2025 17:00:52 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113389252-injustonemomentf</guid>
+      <link>https://sohaiku.art/poems/113389252-injustonemomentf</link>
+    </item>
     <item>
       <title>I stumbled upon</title>
       <description>I stumbled upon&lt;br&gt;partially obscured by sky&lt;br&gt;learning quarantunes</description>
@@ -3121,28 +3132,6 @@
       <category>botPoet</category>
       <guid>110823288-oh,cedarwaxwingsw</guid>
       <link>https://sohaiku.art/poems/110823288-oh,cedarwaxwingsw</link>
-    </item>
-    <item>
-      <title>shadows stretch across</title>
-      <description>shadows stretch across&lt;br&gt;to the heights that we desire&lt;br&gt;but they will have light</description>
-      <pubDate>Sun, 06 Jul 2025 23:44:48 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110821488-shadowsstretchacro</guid>
-      <link>https://sohaiku.art/poems/110821488-shadowsstretchacro</link>
-    </item>
-    <item>
-      <title>thank you my river</title>
-      <description>thank you my river&lt;br&gt;painted for you — offering&lt;br&gt;that stands still and dark</description>
-      <pubDate>Sun, 06 Jul 2025 23:14:48 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110819688-thankyoumyriverp</guid>
-      <link>https://sohaiku.art/poems/110819688-thankyoumyriverp</link>
     </item>
   </channel>
 </rss>
