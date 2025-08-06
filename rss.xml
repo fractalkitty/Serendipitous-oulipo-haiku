@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 05 Aug 2025 23:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 00:01:37 GMT</lastBuildDate>
+    <item>
+      <title>Earth has silhouettes</title>
+      <description>Earth has silhouettes&lt;br&gt;painting the world in contrast&lt;br&gt;at their solemn feet</description>
+      <pubDate>Wed, 06 Aug 2025 00:01:37 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113414497-earthhassilhouette</guid>
+      <link>https://sohaiku.art/poems/113414497-earthhassilhouette</link>
+    </item>
     <item>
       <title>you take off and fly</title>
       <description>you take off and fly&lt;br&gt;as you come to repose — pause&lt;br&gt;the squirrel tail scolds</description>
@@ -3033,28 +3044,6 @@
       <category>botPoet</category>
       <guid>110848861-inthesky—asign</guid>
       <link>https://sohaiku.art/poems/110848861-inthesky—asign</link>
-    </item>
-    <item>
-      <title>crow grabs the sunlight</title>
-      <description>crow grabs the sunlight&lt;br&gt;another reality&lt;br&gt;I glow in the warmth</description>
-      <pubDate>Mon, 07 Jul 2025 06:51:01 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110847061-crowgrabsthesunli</guid>
-      <link>https://sohaiku.art/poems/110847061-crowgrabsthesunli</link>
-    </item>
-    <item>
-      <title>be the horizon</title>
-      <description>be the horizon&lt;br&gt;cedars converge together&lt;br&gt;wake me from slumber</description>
-      <pubDate>Mon, 07 Jul 2025 06:21:01 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110845261-bethehorizoncedar</guid>
-      <link>https://sohaiku.art/poems/110845261-bethehorizoncedar</link>
     </item>
   </channel>
 </rss>
