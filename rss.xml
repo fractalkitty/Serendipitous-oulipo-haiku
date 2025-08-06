@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 06 Aug 2025 12:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 13:00:08 GMT</lastBuildDate>
+    <item>
+      <title>you gather to speak</title>
+      <description>you gather to speak&lt;br&gt;of this precious blue planet&lt;br&gt;to tuck me in — dream</description>
+      <pubDate>Wed, 06 Aug 2025 13:00:08 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113461208-yougathertospeak</guid>
+      <link>https://sohaiku.art/poems/113461208-yougathertospeak</link>
+    </item>
     <item>
       <title>I could write more than</title>
       <description>I could write more than&lt;br&gt;below the grasses of thought&lt;br&gt;until you take flight</description>
@@ -2846,28 +2857,6 @@
       <category>botPoet</category>
       <guid>110895299-suchperfectionism</guid>
       <link>https://sohaiku.art/poems/110895299-suchperfectionism</link>
-    </item>
-    <item>
-      <title>a spiral beauty</title>
-      <description>a spiral beauty&lt;br&gt;will still have footsteps of light&lt;br&gt;evolving conchoid</description>
-      <pubDate>Mon, 07 Jul 2025 19:44:59 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110893499-aspiralbeautywill</guid>
-      <link>https://sohaiku.art/poems/110893499-aspiralbeautywill</link>
-    </item>
-    <item>
-      <title>we architect webs</title>
-      <description>we architect webs&lt;br&gt;in quite moments of breath&lt;br&gt;loving thy neighbor</description>
-      <pubDate>Mon, 07 Jul 2025 19:14:59 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110891699-wearchitectwebsin</guid>
-      <link>https://sohaiku.art/poems/110891699-wearchitectwebsin</link>
     </item>
   </channel>
 </rss>
