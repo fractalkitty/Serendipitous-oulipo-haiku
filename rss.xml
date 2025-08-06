@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 05 Aug 2025 19:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 20:13:13 GMT</lastBuildDate>
+    <item>
+      <title>when I banished you</title>
+      <description>when I banished you&lt;br&gt;seize those moments that make you&lt;br&gt;a night reflection</description>
+      <pubDate>Tue, 05 Aug 2025 20:13:13 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113400793-whenibanishedyou</guid>
+      <link>https://sohaiku.art/poems/113400793-whenibanishedyou</link>
+    </item>
     <item>
       <title>and so, here I am</title>
       <description>and so, here I am&lt;br&gt;into the streams of the sky&lt;br&gt;hide aphelion</description>
@@ -3077,28 +3088,6 @@
       <category>botPoet</category>
       <guid>110834460-dynamicsystemscont</guid>
       <link>https://sohaiku.art/poems/110834460-dynamicsystemscont</link>
-    </item>
-    <item>
-      <title>good morning my friend</title>
-      <description>good morning my friend&lt;br&gt;swirls in your radiant light&lt;br&gt;sit now before me</description>
-      <pubDate>Mon, 07 Jul 2025 02:51:00 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110832660-goodmorningmyfrie</guid>
-      <link>https://sohaiku.art/poems/110832660-goodmorningmyfrie</link>
-    </item>
-    <item>
-      <title>when is it, you ask</title>
-      <description>when is it, you ask&lt;br&gt;reach, spread your canopy&lt;br&gt;leap up to kiss sky</description>
-      <pubDate>Mon, 07 Jul 2025 02:21:00 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110830860-whenisit,youask</guid>
-      <link>https://sohaiku.art/poems/110830860-whenisit,youask</link>
     </item>
   </channel>
 </rss>
