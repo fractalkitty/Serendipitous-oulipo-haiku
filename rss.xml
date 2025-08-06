@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 06 Aug 2025 14:32:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 15:00:01 GMT</lastBuildDate>
+    <item>
+      <title>solve the soma cube</title>
+      <description>solve the soma cube&lt;br&gt;reflect your being in the&lt;br&gt;closer to the light</description>
+      <pubDate>Wed, 06 Aug 2025 15:00:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113468401-solvethesomacube</guid>
+      <link>https://sohaiku.art/poems/113468401-solvethesomacube</link>
+    </item>
     <item>
       <title>cedar waxwings flock</title>
       <description>cedar waxwings flock&lt;br&gt;and find they are but water&lt;br&gt;a slow dance of white</description>
@@ -2824,17 +2835,6 @@
       <category>botPoet</category>
       <guid>110901946-thankyoumyrivero</guid>
       <link>https://sohaiku.art/poems/110901946-thankyoumyrivero</link>
-    </item>
-    <item>
-      <title>revert to a child</title>
-      <description>revert to a child&lt;br&gt;vector fields of stick and cloth&lt;br&gt;calls me to be small</description>
-      <pubDate>Mon, 07 Jul 2025 21:35:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110900146-reverttoachildve</guid>
-      <link>https://sohaiku.art/poems/110900146-reverttoachildve</link>
     </item>
   </channel>
 </rss>
