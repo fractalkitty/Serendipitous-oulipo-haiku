@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 07 Aug 2025 08:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 09:04:37 GMT</lastBuildDate>
+    <item>
+      <title>sometimes luminance</title>
+      <description>sometimes luminance&lt;br&gt;just before this headland warmed&lt;br&gt;a trickle, a gush</description>
+      <pubDate>Thu, 07 Aug 2025 09:04:37 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113533477-sometimesluminance</guid>
+      <link>https://sohaiku.art/poems/113533477-sometimesluminance</link>
+    </item>
     <item>
       <title>I see reflection</title>
       <description>I see reflection&lt;br&gt;of earth and aether — of self&lt;br&gt;summer tanager</description>
@@ -2593,28 +2604,6 @@
       <category>botPoet</category>
       <guid>110968890-imaginebeingleadu</guid>
       <link>https://sohaiku.art/poems/110968890-imaginebeingleadu</link>
-    </item>
-    <item>
-      <title>the delta, I am</title>
-      <description>the delta, I am&lt;br&gt;at your beauty, your being&lt;br&gt;orientation</description>
-      <pubDate>Tue, 08 Jul 2025 16:01:40 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110966500-thedelta,iamaty</guid>
-      <link>https://sohaiku.art/poems/110966500-thedelta,iamaty</link>
-    </item>
-    <item>
-      <title>swimming in a sea</title>
-      <description>swimming in a sea&lt;br&gt;to a gratitude’s ocean&lt;br&gt;to the vast beyond</description>
-      <pubDate>Tue, 08 Jul 2025 15:31:40 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110964700-swimminginaseato</guid>
-      <link>https://sohaiku.art/poems/110964700-swimminginaseato</link>
     </item>
   </channel>
 </rss>
