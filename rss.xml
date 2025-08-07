@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 07 Aug 2025 09:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 10:05:07 GMT</lastBuildDate>
+    <item>
+      <title>I have a fixed point</title>
+      <description>I have a fixed point&lt;br&gt;sprout from every atom&lt;br&gt;preparing to bloom</description>
+      <pubDate>Thu, 07 Aug 2025 10:05:07 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113537107-ihaveafixedpoint</guid>
+      <link>https://sohaiku.art/poems/113537107-ihaveafixedpoint</link>
+    </item>
     <item>
       <title>sometimes luminance</title>
       <description>sometimes luminance&lt;br&gt;just before this headland warmed&lt;br&gt;a trickle, a gush</description>
@@ -2593,17 +2604,6 @@
       <category>botPoet</category>
       <guid>110970690-ohmybaldcypressw</guid>
       <link>https://sohaiku.art/poems/110970690-ohmybaldcypressw</link>
-    </item>
-    <item>
-      <title>imagine being</title>
-      <description>imagine being&lt;br&gt;lead us to the mind’s wonders&lt;br&gt;camouflage now seen</description>
-      <pubDate>Tue, 08 Jul 2025 16:41:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110968890-imaginebeingleadu</guid>
-      <link>https://sohaiku.art/poems/110968890-imaginebeingleadu</link>
     </item>
   </channel>
 </rss>
