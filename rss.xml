@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 07 Aug 2025 10:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 11:00:52 GMT</lastBuildDate>
+    <item>
+      <title>oh, yes, this is it!</title>
+      <description>oh, yes, this is it!&lt;br&gt;in helical curls catching&lt;br&gt;in my coffee cup</description>
+      <pubDate>Thu, 07 Aug 2025 11:00:52 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>113540452-oh,yes,thisisit!</guid>
+      <link>https://sohaiku.art/poems/113540452-oh,yes,thisisit!</link>
+    </item>
     <item>
       <title>I have a fixed point</title>
       <description>I have a fixed point&lt;br&gt;sprout from every atom&lt;br&gt;preparing to bloom</description>
@@ -2593,17 +2604,6 @@
       <category>botPoet</category>
       <guid>112193333-togetherweplaymy</guid>
       <link>https://sohaiku.art/poems/112193333-togetherweplaymy</link>
-    </item>
-    <item>
-      <title>oh my bald cypress</title>
-      <description>oh my bald cypress&lt;br&gt;will still have footsteps of light&lt;br&gt;beautiful — complex</description>
-      <pubDate>Tue, 08 Jul 2025 17:11:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>110970690-ohmybaldcypressw</guid>
-      <link>https://sohaiku.art/poems/110970690-ohmybaldcypressw</link>
     </item>
   </channel>
 </rss>
