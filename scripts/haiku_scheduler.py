@@ -99,10 +99,10 @@ def update_haiku():
 def main():
     print("Starting Haiku Scheduler...")
     print(f"Current time: {datetime.now()}")
-    print("Will update every hour at :00 minutes")
+    print("Will update every 6 hours")
 
     # Schedule the job every hour
-    schedule.every().hour.at(":00").do(update_haiku)
+    schedule.every(6).hours.do(update_haiku)
 
     # Optional: run immediately for testing
     # update_haiku()
