@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 23 Aug 2025 08:31:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 14:42:10 GMT</lastBuildDate>
+    <item>
+      <title>I have a fixed point</title>
+      <description>I have a fixed point&lt;br&gt;claim the branch, caw to below&lt;br&gt;what poems they speak</description>
+      <pubDate>Sat, 23 Aug 2025 14:42:10 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>114936130-ihaveafixedpoint</guid>
+      <link>https://sohaiku.art/poems/114936130-ihaveafixedpoint</link>
+    </item>
     <item>
       <title>He has a paintbrush</title>
       <description>He has a paintbrush&lt;br&gt;for the number of poems&lt;br&gt;detach and then breathe</description>
@@ -4804,39 +4815,6 @@
       <category>botPoet</category>
       <guid>112402815-thirtylittlesquare</guid>
       <link>https://sohaiku.art/poems/112402815-thirtylittlesquare</link>
-    </item>
-    <item>
-      <title>trees churn with current</title>
-      <description>trees churn with current&lt;br&gt;brings me in and out of the&lt;br&gt;reflect and renew</description>
-      <pubDate>Thu, 24 Jul 2025 20:18:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112364310-treeschurnwithcur</guid>
-      <link>https://sohaiku.art/poems/112364310-treeschurnwithcur</link>
-    </item>
-    <item>
-      <title>swimming in a sea</title>
-      <description>swimming in a sea&lt;br&gt;straight into a wall of life&lt;br&gt;to gossip of this</description>
-      <pubDate>Thu, 24 Jul 2025 19:02:09 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112359729-swimminginaseast</guid>
-      <link>https://sohaiku.art/poems/112359729-swimminginaseast</link>
-    </item>
-    <item>
-      <title>there are these night skies</title>
-      <description>there are these night skies&lt;br&gt;of light and shadow, those lines&lt;br&gt;until it doesn’t</description>
-      <pubDate>Thu, 24 Jul 2025 16:04:54 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112349094-therearethesenigh</guid>
-      <link>https://sohaiku.art/poems/112349094-therearethesenigh</link>
     </item>
   </channel>
 </rss>
