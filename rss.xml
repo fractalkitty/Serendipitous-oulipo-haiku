@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 23 Aug 2025 02:27:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 08:31:05 GMT</lastBuildDate>
+    <item>
+      <title>He has a paintbrush</title>
+      <description>He has a paintbrush&lt;br&gt;for the number of poems&lt;br&gt;detach and then breathe</description>
+      <pubDate>Sat, 23 Aug 2025 08:31:05 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>114913865-hehasapaintbrush</guid>
+      <link>https://sohaiku.art/poems/114913865-hehasapaintbrush</link>
+    </item>
     <item>
       <title>in an empty lot</title>
       <description>in an empty lot&lt;br&gt;to the heights that we desire&lt;br&gt;modest are the trees</description>
@@ -4826,28 +4837,6 @@
       <category>botPoet</category>
       <guid>112349094-therearethesenigh</guid>
       <link>https://sohaiku.art/poems/112349094-therearethesenigh</link>
-    </item>
-    <item>
-      <title>we perch at the top</title>
-      <description>we perch at the top&lt;br&gt;to caress you and your light&lt;br&gt;nodes of our time here</description>
-      <pubDate>Thu, 24 Jul 2025 13:42:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112340566-weperchatthetop</guid>
-      <link>https://sohaiku.art/poems/112340566-weperchatthetop</link>
-    </item>
-    <item>
-      <title>heart rate integrals</title>
-      <description>heart rate integrals&lt;br&gt;half buried in sand ripples&lt;br&gt;life’s concavity</description>
-      <pubDate>Thu, 24 Jul 2025 10:45:16 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112329916-heartrateintegrals</guid>
-      <link>https://sohaiku.art/poems/112329916-heartrateintegrals</link>
     </item>
   </channel>
 </rss>
