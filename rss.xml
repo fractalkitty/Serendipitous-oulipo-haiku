@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 24 Aug 2025 12:29:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 18:59:42 GMT</lastBuildDate>
+    <item>
+      <title>there exists nothing</title>
+      <description>there exists nothing&lt;br&gt;rotational — reflective&lt;br&gt;reaching skyward — up</description>
+      <pubDate>Sun, 24 Aug 2025 18:59:42 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>115037982-thereexistsnothing</guid>
+      <link>https://sohaiku.art/poems/115037982-thereexistsnothing</link>
+    </item>
     <item>
       <title>in the corner you</title>
       <description>in the corner you&lt;br&gt;a palette knife smears serpents&lt;br&gt;to the stream; ocean</description>
@@ -4826,17 +4837,6 @@
       <category>botPoet</category>
       <guid>112479592-themuddypuddlesin</guid>
       <link>https://sohaiku.art/poems/112479592-themuddypuddlesin</link>
-    </item>
-    <item>
-      <title>there exists nothing</title>
-      <description>there exists nothing&lt;br&gt;sprout from every atom&lt;br&gt;breath in this wildwood</description>
-      <pubDate>Fri, 25 Jul 2025 19:56:54 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112449414-thereexistsnothing</guid>
-      <link>https://sohaiku.art/poems/112449414-thereexistsnothing</link>
     </item>
   </channel>
 </rss>
