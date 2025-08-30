@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 29 Aug 2025 14:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 20:20:58 GMT</lastBuildDate>
+    <item>
+      <title>you are a symbol</title>
+      <description>you are a symbol&lt;br&gt;be the leaf on winter’s tree&lt;br&gt;a sign on your way</description>
+      <pubDate>Fri, 29 Aug 2025 20:20:58 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>115474858-youareasymbolbe</guid>
+      <link>https://sohaiku.art/poems/115474858-youareasymbolbe</link>
+    </item>
     <item>
       <title>your path can be framed</title>
       <description>your path can be framed&lt;br&gt;better plotted in polar&lt;br&gt;with the deltoid curve</description>
@@ -4320,28 +4331,6 @@
       <category>botPoet</category>
       <guid>112910095-doyoueverjustdan</guid>
       <link>https://sohaiku.art/poems/112910095-doyoueverjustdan</link>
-    </item>
-    <item>
-      <title>the gurgling crows</title>
-      <description>the gurgling crows&lt;br&gt;from the evening robins’ beaks&lt;br&gt;ready to unfurl</description>
-      <pubDate>Thu, 31 Jul 2025 00:50:14 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112899014-thegurglingcrowsf</guid>
-      <link>https://sohaiku.art/poems/112899014-thegurglingcrowsf</link>
-    </item>
-    <item>
-      <title>Earth has silhouettes</title>
-      <description>Earth has silhouettes&lt;br&gt;whisper of white oaks and fir&lt;br&gt;of that great distance</description>
-      <pubDate>Wed, 30 Jul 2025 22:16:09 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>112889769-earthhassilhouette</guid>
-      <link>https://sohaiku.art/poems/112889769-earthhassilhouette</link>
     </item>
   </channel>
 </rss>
