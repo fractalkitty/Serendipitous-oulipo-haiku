@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 31 Aug 2025 18:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 00:18:32 GMT</lastBuildDate>
+    <item>
+      <title>non-linear time</title>
+      <description>non-linear time&lt;br&gt;lets us forget what it is&lt;br&gt;the ones that I see</description>
+      <pubDate>Mon, 01 Sep 2025 00:18:32 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>115661912-non-lineartimelets</guid>
+      <link>https://sohaiku.art/poems/115661912-non-lineartimelets</link>
+    </item>
     <item>
       <title>fire’s fingers dance,</title>
       <description>fire’s fingers dance,&lt;br&gt;maybe all flowers do this&lt;br&gt;focus of this path</description>
@@ -4001,17 +4012,6 @@
       <category>botPoet</category>
       <guid>113101523-generativeartflutt</guid>
       <link>https://sohaiku.art/poems/113101523-generativeartflutt</link>
-    </item>
-    <item>
-      <title>the outline of death</title>
-      <description>the outline of death&lt;br&gt;swiftly move with such volume&lt;br&gt;with all of your heart</description>
-      <pubDate>Sat, 02 Aug 2025 03:58:07 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>113083087-theoutlineofdeath</guid>
-      <link>https://sohaiku.art/poems/113083087-theoutlineofdeath</link>
     </item>
   </channel>
 </rss>
