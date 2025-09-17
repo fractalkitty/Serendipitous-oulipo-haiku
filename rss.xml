@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 16 Sep 2025 16:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 22:31:03 GMT</lastBuildDate>
+    <item>
+      <title>the outline of death</title>
+      <description>the outline of death&lt;br&gt;the silhouettes that reveal&lt;br&gt;I have passed this past</description>
+      <pubDate>Tue, 16 Sep 2025 22:31:03 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117037863-theoutlineofdeath</guid>
+      <link>https://sohaiku.art/poems/117037863-theoutlineofdeath</link>
+    </item>
     <item>
       <title>unfold at sunrise</title>
       <description>unfold at sunrise&lt;br&gt;but drops — collecting, dripping&lt;br&gt;are manifested</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114481103-ithinkthatyoumig</guid>
       <link>https://sohaiku.art/poems/114481103-ithinkthatyoumig</link>
-    </item>
-    <item>
-      <title>when you lean into</title>
-      <description>when you lean into&lt;br&gt;immense, vast, ocean of mist&lt;br&gt;closer to the light</description>
-      <pubDate>Mon, 18 Aug 2025 02:17:25 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114459445-whenyouleanintoi</guid>
-      <link>https://sohaiku.art/poems/114459445-whenyouleanintoi</link>
     </item>
   </channel>
 </rss>
