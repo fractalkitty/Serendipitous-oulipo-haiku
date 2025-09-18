@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 18 Sep 2025 06:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 12:20:46 GMT</lastBuildDate>
+    <item>
+      <title>I breathed alder air</title>
+      <description>I breathed alder air&lt;br&gt;together in solitude&lt;br&gt;to keep it secure</description>
+      <pubDate>Thu, 18 Sep 2025 12:20:46 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117174046-ibreathedalderair</guid>
+      <link>https://sohaiku.art/poems/117174046-ibreathedalderair</link>
+    </item>
     <item>
       <title>we run the same paths</title>
       <description>we run the same paths&lt;br&gt;quivering with their cuteness&lt;br&gt;heaven and the Earth</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114614801-iamsogratefulflu</guid>
       <link>https://sohaiku.art/poems/114614801-iamsogratefulflu</link>
-    </item>
-    <item>
-      <title>to feel that soft breeze</title>
-      <description>to feel that soft breeze&lt;br&gt;lets us forget what it is&lt;br&gt;contrast is but life</description>
-      <pubDate>Tue, 19 Aug 2025 15:25:41 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114593141-tofeelthatsoftbr</guid>
-      <link>https://sohaiku.art/poems/114593141-tofeelthatsoftbr</link>
     </item>
   </channel>
 </rss>
