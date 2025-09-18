@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 17 Sep 2025 11:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 17:48:40 GMT</lastBuildDate>
+    <item>
+      <title>so, obviously</title>
+      <description>so, obviously&lt;br&gt;it was always here — ready&lt;br&gt;to be here and now</description>
+      <pubDate>Wed, 17 Sep 2025 17:48:40 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117107320-so,obviouslyitwas</guid>
+      <link>https://sohaiku.art/poems/117107320-so,obviouslyitwas</link>
+    </item>
     <item>
       <title>I hugged my mother</title>
       <description>I hugged my mother&lt;br&gt;lead you to the horizon&lt;br&gt;of that great distance</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114548743-myroadisthepath</guid>
       <link>https://sohaiku.art/poems/114548743-myroadisthepath</link>
-    </item>
-    <item>
-      <title>when I am running</title>
-      <description>when I am running&lt;br&gt;it was always here — ready&lt;br&gt;ablutions from sky</description>
-      <pubDate>Mon, 18 Aug 2025 20:34:48 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114525288-wheniamrunningit</guid>
-      <link>https://sohaiku.art/poems/114525288-wheniamrunningit</link>
     </item>
   </channel>
 </rss>
