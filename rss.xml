@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 18 Sep 2025 18:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 01:31:44 GMT</lastBuildDate>
+    <item>
+      <title>at the tops of hills</title>
+      <description>at the tops of hills&lt;br&gt;arcs of me, of time — being&lt;br&gt;an aerie of grace</description>
+      <pubDate>Fri, 19 Sep 2025 01:31:44 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117221504-atthetopsofhills</guid>
+      <link>https://sohaiku.art/poems/117221504-atthetopsofhills</link>
+    </item>
     <item>
       <title>do we flock like Boids?</title>
       <description>do we flock like Boids?&lt;br&gt;that surrounds us all, will grow&lt;br&gt;of another Earth</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114663535-sometimesbirdwatchi</guid>
       <link>https://sohaiku.art/poems/114663535-sometimesbirdwatchi</link>
-    </item>
-    <item>
-      <title>the swallows are here</title>
-      <description>the swallows are here&lt;br&gt;and dip myself in the clouds&lt;br&gt;days, loops, through the years</description>
-      <pubDate>Wed, 20 Aug 2025 04:58:10 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114641890-theswallowsareher</guid>
-      <link>https://sohaiku.art/poems/114641890-theswallowsareher</link>
     </item>
   </channel>
 </rss>
