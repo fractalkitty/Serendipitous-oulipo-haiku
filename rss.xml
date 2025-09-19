@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 19 Sep 2025 07:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 14:01:38 GMT</lastBuildDate>
+    <item>
+      <title>on a walkabout</title>
+      <description>on a walkabout&lt;br&gt;generations green and full&lt;br&gt;hundreds of years old</description>
+      <pubDate>Fri, 19 Sep 2025 14:01:37 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117266497-onawalkaboutgener</guid>
+      <link>https://sohaiku.art/poems/117266497-onawalkaboutgener</link>
+    </item>
     <item>
       <title>do we flock like Boids?</title>
       <description>do we flock like Boids?&lt;br&gt;of flight above all of it&lt;br&gt;that small piece of moss</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114707933-singtothekitties</guid>
       <link>https://sohaiku.art/poems/114707933-singtothekitties</link>
-    </item>
-    <item>
-      <title>butterfly vortex</title>
-      <description>butterfly vortex&lt;br&gt;lead you to this perspective&lt;br&gt;we even dilate</description>
-      <pubDate>Wed, 20 Aug 2025 16:59:28 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114685168-butterflyvortexlea</guid>
-      <link>https://sohaiku.art/poems/114685168-butterflyvortexlea</link>
     </item>
   </channel>
 </rss>
