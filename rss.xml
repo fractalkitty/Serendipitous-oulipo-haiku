@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 18 Sep 2025 12:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 18:20:59 GMT</lastBuildDate>
+    <item>
+      <title>do we flock like Boids?</title>
+      <description>do we flock like Boids?&lt;br&gt;that surrounds us all, will grow&lt;br&gt;of another Earth</description>
+      <pubDate>Thu, 18 Sep 2025 18:20:59 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117195659-doweflocklikeboi</guid>
+      <link>https://sohaiku.art/poems/117195659-doweflocklikeboi</link>
+    </item>
     <item>
       <title>I breathed alder air</title>
       <description>I breathed alder air&lt;br&gt;together in solitude&lt;br&gt;to keep it secure</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114641890-theswallowsareher</guid>
       <link>https://sohaiku.art/poems/114641890-theswallowsareher</link>
-    </item>
-    <item>
-      <title>I am so grateful</title>
-      <description>I am so grateful&lt;br&gt;flutters and swirls before me&lt;br&gt;whispering of blue</description>
-      <pubDate>Tue, 19 Aug 2025 21:26:41 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114614801-iamsogratefulflu</guid>
-      <link>https://sohaiku.art/poems/114614801-iamsogratefulflu</link>
     </item>
   </channel>
 </rss>
