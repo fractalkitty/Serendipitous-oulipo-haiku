@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 19 Sep 2025 20:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 02:45:50 GMT</lastBuildDate>
+    <item>
+      <title>the fractals of us</title>
+      <description>the fractals of us&lt;br&gt;with strokes of grass and azure&lt;br&gt;warmth from radiance</description>
+      <pubDate>Sat, 20 Sep 2025 02:45:50 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117312350-thefractalsofusw</guid>
+      <link>https://sohaiku.art/poems/117312350-thefractalsofusw</link>
+    </item>
     <item>
       <title>gossamer catches</title>
       <description>gossamer catches&lt;br&gt;creative, curious, joy&lt;br&gt;vivid silouettes</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114754715-sometimesbirdwatchi</guid>
       <link>https://sohaiku.art/poems/114754715-sometimesbirdwatchi</link>
-    </item>
-    <item>
-      <title>tiny little life</title>
-      <description>tiny little life&lt;br&gt;arcs of me, of time — being&lt;br&gt;of this universe</description>
-      <pubDate>Thu, 21 Aug 2025 05:40:28 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114730828-tinylittlelifearc</guid>
-      <link>https://sohaiku.art/poems/114730828-tinylittlelifearc</link>
     </item>
   </channel>
 </rss>
