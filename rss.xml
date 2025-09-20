@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 20 Sep 2025 02:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 09:58:12 GMT</lastBuildDate>
+    <item>
+      <title>hello my deer friend</title>
+      <description>hello my deer friend&lt;br&gt;earlier now. Lets us know&lt;br&gt;to bridge within you</description>
+      <pubDate>Sat, 20 Sep 2025 09:58:12 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117338292-hellomydeerfriend</guid>
+      <link>https://sohaiku.art/poems/117338292-hellomydeerfriend</link>
+    </item>
     <item>
       <title>the fractals of us</title>
       <description>the fractals of us&lt;br&gt;with strokes of grass and azure&lt;br&gt;warmth from radiance</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114778061-whowouldhavethoug</guid>
       <link>https://sohaiku.art/poems/114778061-whowouldhavethoug</link>
-    </item>
-    <item>
-      <title>sometimes birdwatching</title>
-      <description>sometimes birdwatching&lt;br&gt;just the other day, grape leaves&lt;br&gt;don’t go unnoticed</description>
-      <pubDate>Thu, 21 Aug 2025 12:18:35 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114754715-sometimesbirdwatchi</guid>
-      <link>https://sohaiku.art/poems/114754715-sometimesbirdwatchi</link>
     </item>
   </channel>
 </rss>
