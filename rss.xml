@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 20 Sep 2025 22:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 04:15:20 GMT</lastBuildDate>
+    <item>
+      <title>oh, yes, this is it!</title>
+      <description>oh, yes, this is it!&lt;br&gt;to run, prance through life’s meadows,&lt;br&gt;yet, still tread lightly</description>
+      <pubDate>Sun, 21 Sep 2025 04:15:20 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117404120-oh,yes,thisisit!</guid>
+      <link>https://sohaiku.art/poems/117404120-oh,yes,thisisit!</link>
+    </item>
     <item>
       <title>even in our death</title>
       <description>even in our death&lt;br&gt;before you can grow; anew&lt;br&gt;Pisano petals</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114847445-atthetopsofhills</guid>
       <link>https://sohaiku.art/poems/114847445-atthetopsofhills</link>
-    </item>
-    <item>
-      <title>a forest burned shows</title>
-      <description>a forest burned shows&lt;br&gt;cushion your steps as you run&lt;br&gt;we create in life</description>
-      <pubDate>Fri, 22 Aug 2025 07:18:43 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114823123-aforestburnedshow</guid>
-      <link>https://sohaiku.art/poems/114823123-aforestburnedshow</link>
     </item>
   </channel>
 </rss>
