@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 21 Sep 2025 10:31:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 16:33:21 GMT</lastBuildDate>
+    <item>
+      <title>what seems like chaos</title>
+      <description>what seems like chaos&lt;br&gt;infinite, ever-changing&lt;br&gt;beauty does abound</description>
+      <pubDate>Sun, 21 Sep 2025 16:33:21 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117448401-whatseemslikechao</guid>
+      <link>https://sohaiku.art/poems/117448401-whatseemslikechao</link>
+    </item>
     <item>
       <title>let yourself be here</title>
       <description>let yourself be here&lt;br&gt;of all in the past/future&lt;br&gt;of another Earth</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114892072-inanemptylottot</guid>
       <link>https://sohaiku.art/poems/114892072-inanemptylottot</link>
-    </item>
-    <item>
-      <title>here, nested circles</title>
-      <description>here, nested circles&lt;br&gt;as a Bee is to flower&lt;br&gt;wispy tufts of grace</description>
-      <pubDate>Fri, 22 Aug 2025 20:09:02 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114869342-here,nestedcircles</guid>
-      <link>https://sohaiku.art/poems/114869342-here,nestedcircles</link>
     </item>
   </channel>
 </rss>
