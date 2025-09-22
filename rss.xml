@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 22 Sep 2025 06:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 12:35:49 GMT</lastBuildDate>
+    <item>
+      <title>I picture myself</title>
+      <description>I picture myself&lt;br&gt;from life that I did not know&lt;br&gt;little chickadee</description>
+      <pubDate>Mon, 22 Sep 2025 12:35:49 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117520549-ipicturemyselffro</guid>
+      <link>https://sohaiku.art/poems/117520549-ipicturemyselffro</link>
+    </item>
     <item>
       <title>your life has texture</title>
       <description>your life has texture&lt;br&gt;moments learning the flowers&lt;br&gt;absolute beauty</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114959103-seegenerationscohe</guid>
       <link>https://sohaiku.art/poems/114959103-seegenerationscohe</link>
-    </item>
-    <item>
-      <title>I have a fixed point</title>
-      <description>I have a fixed point&lt;br&gt;claim the branch, caw to below&lt;br&gt;what poems they speak</description>
-      <pubDate>Sat, 23 Aug 2025 14:42:10 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114936130-ihaveafixedpoint</guid>
-      <link>https://sohaiku.art/poems/114936130-ihaveafixedpoint</link>
     </item>
   </channel>
 </rss>
