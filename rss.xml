@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 21 Sep 2025 16:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 23:06:05 GMT</lastBuildDate>
+    <item>
+      <title>do we flock like Boids?</title>
+      <description>do we flock like Boids?&lt;br&gt;I fly with all of them that&lt;br&gt;positive? a shift</description>
+      <pubDate>Sun, 21 Sep 2025 23:06:05 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117471965-doweflocklikeboi</guid>
+      <link>https://sohaiku.art/poems/117471965-doweflocklikeboi</link>
+    </item>
     <item>
       <title>what seems like chaos</title>
       <description>what seems like chaos&lt;br&gt;infinite, ever-changing&lt;br&gt;beauty does abound</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>114913865-hehasapaintbrush</guid>
       <link>https://sohaiku.art/poems/114913865-hehasapaintbrush</link>
-    </item>
-    <item>
-      <title>in an empty lot</title>
-      <description>in an empty lot&lt;br&gt;to the heights that we desire&lt;br&gt;modest are the trees</description>
-      <pubDate>Sat, 23 Aug 2025 02:27:52 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>114892072-inanemptylottot</guid>
-      <link>https://sohaiku.art/poems/114892072-inanemptylottot</link>
     </item>
   </channel>
 </rss>
