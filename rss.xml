@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 23 Sep 2025 01:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 08:29:35 GMT</lastBuildDate>
+    <item>
+      <title>in my cup, coffee</title>
+      <description>in my cup, coffee&lt;br&gt;lift into the sky above&lt;br&gt;breath in this wildwood</description>
+      <pubDate>Tue, 23 Sep 2025 08:29:35 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117592175-inmycup,coffeeli</guid>
+      <link>https://sohaiku.art/poems/117592175-inmycup,coffeeli</link>
+    </item>
     <item>
       <title>like the heat bubble</title>
       <description>like the heat bubble&lt;br&gt;together, watching the birds&lt;br&gt;with your fluff and stance</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>115037982-thereexistsnothing</guid>
       <link>https://sohaiku.art/poems/115037982-thereexistsnothing</link>
-    </item>
-    <item>
-      <title>in the corner you</title>
-      <description>in the corner you&lt;br&gt;a palette knife smears serpents&lt;br&gt;to the stream; ocean</description>
-      <pubDate>Sun, 24 Aug 2025 12:29:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115014586-inthecorneryoua</guid>
-      <link>https://sohaiku.art/poems/115014586-inthecorneryoua</link>
     </item>
   </channel>
 </rss>
