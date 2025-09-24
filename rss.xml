@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 23 Sep 2025 21:01:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 03:48:33 GMT</lastBuildDate>
+    <item>
+      <title>long shadows pull me</title>
+      <description>long shadows pull me&lt;br&gt;that provide us with brilliance&lt;br&gt;joyfully alive</description>
+      <pubDate>Wed, 24 Sep 2025 03:48:33 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117661713-longshadowspullme</guid>
+      <link>https://sohaiku.art/poems/117661713-longshadowspullme</link>
+    </item>
     <item>
       <title>as you look down here</title>
       <description>as you look down here&lt;br&gt;changing, growing, condensing&lt;br&gt;puddle of raindrops</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>115104121-ourdaysarefractal</guid>
       <link>https://sohaiku.art/poems/115104121-ourdaysarefractal</link>
-    </item>
-    <item>
-      <title>this junction of ray</title>
-      <description>this junction of ray&lt;br&gt;will become covered with moss&lt;br&gt;centuries of flow</description>
-      <pubDate>Mon, 25 Aug 2025 07:10:01 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115081801-thisjunctionofray</guid>
-      <link>https://sohaiku.art/poems/115081801-thisjunctionofray</link>
     </item>
   </channel>
 </rss>
