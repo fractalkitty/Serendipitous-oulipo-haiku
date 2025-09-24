@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 23 Sep 2025 14:51:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 21:01:36 GMT</lastBuildDate>
+    <item>
+      <title>as you look down here</title>
+      <description>as you look down here&lt;br&gt;changing, growing, condensing&lt;br&gt;puddle of raindrops</description>
+      <pubDate>Tue, 23 Sep 2025 21:01:36 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117637296-asyoulookdownher</guid>
+      <link>https://sohaiku.art/poems/117637296-asyoulookdownher</link>
+    </item>
     <item>
       <title>I breath in and out</title>
       <description>I breath in and out&lt;br&gt;so they could all see this bird&lt;br&gt;at the oceans breath</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>115081801-thisjunctionofray</guid>
       <link>https://sohaiku.art/poems/115081801-thisjunctionofray</link>
-    </item>
-    <item>
-      <title>there are just some trails</title>
-      <description>there are just some trails&lt;br&gt;from an utter nakedness&lt;br&gt;parametric us</description>
-      <pubDate>Mon, 25 Aug 2025 01:00:19 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115059619-therearejustsome</guid>
-      <link>https://sohaiku.art/poems/115059619-therearejustsome</link>
     </item>
   </channel>
 </rss>
