@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 25 Sep 2025 06:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 14:12:11 GMT</lastBuildDate>
+    <item>
+      <title>“it’s the hill your on”</title>
+      <description>“it’s the hill your on”&lt;br&gt;swiftly move with such volume&lt;br&gt;together a seed</description>
+      <pubDate>Thu, 25 Sep 2025 14:12:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117785531-“it’sthehillyour</guid>
+      <link>https://sohaiku.art/poems/117785531-“it’sthehillyour</link>
+    </item>
     <item>
       <title>you gather yourself</title>
       <description>you gather yourself&lt;br&gt;in the rain beneath this sky&lt;br&gt;shoot; despite ourselves</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>115220865-ifoundacarcasscr</guid>
       <link>https://sohaiku.art/poems/115220865-ifoundacarcasscr</link>
-    </item>
-    <item>
-      <title>you are a symbol</title>
-      <description>you are a symbol&lt;br&gt;in fall you came, but no more&lt;br&gt;but, sometimes I break</description>
-      <pubDate>Tue, 26 Aug 2025 14:17:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115193831-youareasymbolin</guid>
-      <link>https://sohaiku.art/poems/115193831-youareasymbolin</link>
     </item>
   </channel>
 </rss>
