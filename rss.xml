@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 24 Sep 2025 18:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 00:15:11 GMT</lastBuildDate>
+    <item>
+      <title>do you ever just</title>
+      <description>do you ever just&lt;br&gt;my precious chickadee-dee&lt;br&gt;in this existence</description>
+      <pubDate>Thu, 25 Sep 2025 00:15:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117735311-doyoueverjustmy</guid>
+      <link>https://sohaiku.art/poems/117735311-doyoueverjustmy</link>
+    </item>
     <item>
       <title>I feel all the strands</title>
       <description>I feel all the strands&lt;br&gt;closest to the sun today&lt;br&gt;one drop fills my soul</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>115172228-it’sbestnottosee</guid>
       <link>https://sohaiku.art/poems/115172228-it’sbestnottosee</link>
-    </item>
-    <item>
-      <title>together we play</title>
-      <description>together we play&lt;br&gt;at the junction. Sand and sea.&lt;br&gt;orientation</description>
-      <pubDate>Tue, 26 Aug 2025 02:17:05 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115150625-togetherweplayat</guid>
-      <link>https://sohaiku.art/poems/115150625-togetherweplayat</link>
     </item>
   </channel>
 </rss>
