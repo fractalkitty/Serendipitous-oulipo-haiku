@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 25 Sep 2025 14:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 20:12:22 GMT</lastBuildDate>
+    <item>
+      <title>oh, oyster catcher</title>
+      <description>oh, oyster catcher&lt;br&gt;gulping berries at sun set&lt;br&gt;reflect and renew</description>
+      <pubDate>Thu, 25 Sep 2025 20:12:22 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117807142-oh,oystercatcherg</guid>
+      <link>https://sohaiku.art/poems/117807142-oh,oystercatcherg</link>
+    </item>
     <item>
       <title>“it’s the hill your on”</title>
       <description>“it’s the hill your on”&lt;br&gt;swiftly move with such volume&lt;br&gt;together a seed</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>115248892-ifeelallthestran</guid>
       <link>https://sohaiku.art/poems/115248892-ifeelallthestran</link>
-    </item>
-    <item>
-      <title>I found a carcass</title>
-      <description>I found a carcass&lt;br&gt;cross a bridge from the beneath&lt;br&gt;then they perch, so still</description>
-      <pubDate>Tue, 26 Aug 2025 21:47:45 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115220865-ifoundacarcasscr</guid>
-      <link>https://sohaiku.art/poems/115220865-ifoundacarcasscr</link>
     </item>
   </channel>
 </rss>
