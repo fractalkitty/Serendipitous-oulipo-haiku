@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 25 Sep 2025 20:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 03:14:51 GMT</lastBuildDate>
+    <item>
+      <title>the currents of geese</title>
+      <description>the currents of geese&lt;br&gt;immersing in the moment&lt;br&gt;drops encompass me</description>
+      <pubDate>Fri, 26 Sep 2025 03:14:51 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117832491-thecurrentsofgees</guid>
+      <link>https://sohaiku.art/poems/117832491-thecurrentsofgees</link>
+    </item>
     <item>
       <title>oh, oyster catcher</title>
       <description>oh, oyster catcher&lt;br&gt;gulping berries at sun set&lt;br&gt;reflect and renew</description>
@@ -1229,17 +1240,6 @@
       <category>botPoet</category>
       <guid>115270534-themomentfortear</guid>
       <link>https://sohaiku.art/poems/115270534-themomentfortear</link>
-    </item>
-    <item>
-      <title>I feel all the strands</title>
-      <description>I feel all the strands&lt;br&gt;our world —an upside down sphere&lt;br&gt;with all of your heart</description>
-      <pubDate>Wed, 27 Aug 2025 05:34:52 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115248892-ifeelallthestran</guid>
-      <link>https://sohaiku.art/poems/115248892-ifeelallthestran</link>
     </item>
   </channel>
 </rss>
