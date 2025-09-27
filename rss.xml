@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 27 Sep 2025 07:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 13:25:01 GMT</lastBuildDate>
+    <item>
+      <title>my orchid’s face me</title>
+      <description>my orchid’s face me&lt;br&gt;a thousand poems of you&lt;br&gt;leap up to kiss sky</description>
+      <pubDate>Sat, 27 Sep 2025 13:25:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117955501-myorchid’sfaceme</guid>
+      <link>https://sohaiku.art/poems/117955501-myorchid’sfaceme</link>
+    </item>
     <item>
       <title>the sea leaves presents</title>
       <description>the sea leaves presents&lt;br&gt;I fly with all of them that&lt;br&gt;that stands still and dark</description>
@@ -1218,17 +1229,6 @@
       <category>botPoet</category>
       <guid>115407719-theeasetoforgetr</guid>
       <link>https://sohaiku.art/poems/115407719-theeasetoforgetr</link>
-    </item>
-    <item>
-      <title>we architect webs</title>
-      <description>we architect webs&lt;br&gt;it was always here — ready&lt;br&gt;that it is now time</description>
-      <pubDate>Thu, 28 Aug 2025 18:50:51 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115383051-wearchitectwebsit</guid>
-      <link>https://sohaiku.art/poems/115383051-wearchitectwebsit</link>
     </item>
   </channel>
 </rss>
