@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 27 Sep 2025 20:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 02:32:43 GMT</lastBuildDate>
+    <item>
+      <title>I treat my tea bag</title>
+      <description>I treat my tea bag&lt;br&gt;plant me beside, beneath one&lt;br&gt;our reality</description>
+      <pubDate>Sun, 28 Sep 2025 02:32:42 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118002762-itreatmyteabagp</guid>
+      <link>https://sohaiku.art/poems/118002762-itreatmyteabagp</link>
+    </item>
     <item>
       <title>there is a pulse here</title>
       <description>there is a pulse here&lt;br&gt;will still have footsteps of light&lt;br&gt;to be a focus</description>
@@ -1218,17 +1229,6 @@
       <category>botPoet</category>
       <guid>115453236-yourpathcanbefra</guid>
       <link>https://sohaiku.art/poems/115453236-yourpathcanbefra</link>
-    </item>
-    <item>
-      <title>walking random paths</title>
-      <description>walking random paths&lt;br&gt;come to hold my hand, farewell&lt;br&gt;while reflecting sky</description>
-      <pubDate>Fri, 29 Aug 2025 08:19:54 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115431594-walkingrandompaths</guid>
-      <link>https://sohaiku.art/poems/115431594-walkingrandompaths</link>
     </item>
   </channel>
 </rss>
