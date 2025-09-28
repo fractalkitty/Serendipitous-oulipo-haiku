@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 27 Sep 2025 13:25:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 20:22:27 GMT</lastBuildDate>
+    <item>
+      <title>there is a pulse here</title>
+      <description>there is a pulse here&lt;br&gt;will still have footsteps of light&lt;br&gt;to be a focus</description>
+      <pubDate>Sat, 27 Sep 2025 20:22:27 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>117980547-thereisapulseher</guid>
+      <link>https://sohaiku.art/poems/117980547-thereisapulseher</link>
+    </item>
     <item>
       <title>my orchid’s face me</title>
       <description>my orchid’s face me&lt;br&gt;a thousand poems of you&lt;br&gt;leap up to kiss sky</description>
@@ -1218,17 +1229,6 @@
       <category>botPoet</category>
       <guid>115431594-walkingrandompaths</guid>
       <link>https://sohaiku.art/poems/115431594-walkingrandompaths</link>
-    </item>
-    <item>
-      <title>the ease to forget</title>
-      <description>the ease to forget&lt;br&gt;rotational — reflective&lt;br&gt;to have them always</description>
-      <pubDate>Fri, 29 Aug 2025 01:41:59 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115407719-theeasetoforgetr</guid>
-      <link>https://sohaiku.art/poems/115407719-theeasetoforgetr</link>
     </item>
   </channel>
 </rss>
