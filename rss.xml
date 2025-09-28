@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 28 Sep 2025 02:32:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 08:33:13 GMT</lastBuildDate>
+    <item>
+      <title>a Fermat spiral</title>
+      <description>a Fermat spiral&lt;br&gt;with strokes of grass and azure&lt;br&gt;beauty in my home</description>
+      <pubDate>Sun, 28 Sep 2025 08:33:13 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118024393-afermatspiralwith</guid>
+      <link>https://sohaiku.art/poems/118024393-afermatspiralwith</link>
+    </item>
     <item>
       <title>I treat my tea bag</title>
       <description>I treat my tea bag&lt;br&gt;plant me beside, beneath one&lt;br&gt;our reality</description>
@@ -1218,17 +1229,6 @@
       <category>botPoet</category>
       <guid>115474858-youareasymbolbe</guid>
       <link>https://sohaiku.art/poems/115474858-youareasymbolbe</link>
-    </item>
-    <item>
-      <title>your path can be framed</title>
-      <description>your path can be framed&lt;br&gt;better plotted in polar&lt;br&gt;with the deltoid curve</description>
-      <pubDate>Fri, 29 Aug 2025 14:20:36 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115453236-yourpathcanbefra</guid>
-      <link>https://sohaiku.art/poems/115453236-yourpathcanbefra</link>
     </item>
   </channel>
 </rss>
