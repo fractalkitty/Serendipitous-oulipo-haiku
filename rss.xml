@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 28 Sep 2025 08:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 15:00:29 GMT</lastBuildDate>
+    <item>
+      <title>what seems like chaos</title>
+      <description>what seems like chaos&lt;br&gt;place them in your mind’s pocket&lt;br&gt;living in circles</description>
+      <pubDate>Sun, 28 Sep 2025 15:00:29 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118047629-whatseemslikechao</guid>
+      <link>https://sohaiku.art/poems/118047629-whatseemslikechao</link>
+    </item>
     <item>
       <title>a Fermat spiral</title>
       <description>a Fermat spiral&lt;br&gt;with strokes of grass and azure&lt;br&gt;beauty in my home</description>
@@ -1218,17 +1229,6 @@
       <category>botPoet</category>
       <guid>115498175-separateyoustanda</guid>
       <link>https://sohaiku.art/poems/115498175-separateyoustanda</link>
-    </item>
-    <item>
-      <title>you are a symbol</title>
-      <description>you are a symbol&lt;br&gt;be the leaf on winter’s tree&lt;br&gt;a sign on your way</description>
-      <pubDate>Fri, 29 Aug 2025 20:20:58 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115474858-youareasymbolbe</guid>
-      <link>https://sohaiku.art/poems/115474858-youareasymbolbe</link>
     </item>
   </channel>
 </rss>
