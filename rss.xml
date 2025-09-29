@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 29 Sep 2025 09:47:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 15:48:14 GMT</lastBuildDate>
+    <item>
+      <title>this path is flooded</title>
+      <description>this path is flooded&lt;br&gt;to truly reflect on you&lt;br&gt;when you get to peak</description>
+      <pubDate>Mon, 29 Sep 2025 15:48:14 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118136894-thispathisflooded</guid>
+      <link>https://sohaiku.art/poems/118136894-thispathisflooded</link>
+    </item>
     <item>
       <title>sometimes luminance</title>
       <description>sometimes luminance&lt;br&gt;for being steadfast, constant&lt;br&gt;of your consciousness</description>
@@ -1218,17 +1229,6 @@
       <category>botPoet</category>
       <guid>115594372-iwasonmyrundanc</guid>
       <link>https://sohaiku.art/poems/115594372-iwasonmyrundanc</link>
-    </item>
-    <item>
-      <title>an aperture formed</title>
-      <description>an aperture formed&lt;br&gt;rupture with flight and chorus&lt;br&gt;evolve into art</description>
-      <pubDate>Sat, 30 Aug 2025 21:18:00 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115564680-anapertureformedr</guid>
-      <link>https://sohaiku.art/poems/115564680-anapertureformedr</link>
     </item>
   </channel>
 </rss>
