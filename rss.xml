@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 28 Sep 2025 21:34:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 03:47:05 GMT</lastBuildDate>
+    <item>
+      <title>autumn calls us all</title>
+      <description>autumn calls us all&lt;br&gt;on dead branches among clouds&lt;br&gt;of growth beneath soil</description>
+      <pubDate>Mon, 29 Sep 2025 03:47:05 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118093625-autumncallsusall</guid>
+      <link>https://sohaiku.art/poems/118093625-autumncallsusall</link>
+    </item>
     <item>
       <title>when I banished you</title>
       <description>when I banished you&lt;br&gt;silences itself only&lt;br&gt;view of this wonder</description>
@@ -1218,17 +1229,6 @@
       <category>botPoet</category>
       <guid>115543069-greatwhitefawnlil</guid>
       <link>https://sohaiku.art/poems/115543069-greatwhitefawnlil</link>
-    </item>
-    <item>
-      <title>trees dip their big toes</title>
-      <description>trees dip their big toes&lt;br&gt;reach with your iterations&lt;br&gt;of life around you</description>
-      <pubDate>Sat, 30 Aug 2025 09:02:32 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115520552-treesdiptheirbig</guid>
-      <link>https://sohaiku.art/poems/115520552-treesdiptheirbig</link>
     </item>
   </channel>
 </rss>
