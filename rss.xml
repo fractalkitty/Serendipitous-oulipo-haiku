@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 30 Sep 2025 20:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 04:19:40 GMT</lastBuildDate>
+    <item>
+      <title>you were in my hands</title>
+      <description>you were in my hands&lt;br&gt;the dunes of me — parallel&lt;br&gt;brightening shadows</description>
+      <pubDate>Wed, 01 Oct 2025 04:19:40 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118268380-youwereinmyhands</guid>
+      <link>https://sohaiku.art/poems/118268380-youwereinmyhands</link>
+    </item>
     <item>
       <title>coding with patterns</title>
       <description>coding with patterns&lt;br&gt;are but loops in the garment&lt;br&gt;of an inner light</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>115707089-littlehummingbirdl</guid>
       <link>https://sohaiku.art/poems/115707089-littlehummingbirdl</link>
-    </item>
-    <item>
-      <title>so many curves here</title>
-      <description>so many curves here&lt;br&gt;in your autumn glow, right now&lt;br&gt;like a point in space</description>
-      <pubDate>Mon, 01 Sep 2025 06:51:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115685477-somanycurveshere</guid>
-      <link>https://sohaiku.art/poems/115685477-somanycurveshere</link>
     </item>
   </channel>
 </rss>
