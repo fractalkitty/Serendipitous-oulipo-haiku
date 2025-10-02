@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 02 Oct 2025 10:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 16:40:05 GMT</lastBuildDate>
+    <item>
+      <title>so, obviously</title>
+      <description>so, obviously&lt;br&gt;you peek over the grapes to&lt;br&gt;absolute beauty</description>
+      <pubDate>Thu, 02 Oct 2025 16:40:04 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118399204-so,obviouslyyoupe</guid>
+      <link>https://sohaiku.art/poems/118399204-so,obviouslyyoupe</link>
+    </item>
     <item>
       <title>play brings character</title>
       <description>play brings character&lt;br&gt;I see you and your colors&lt;br&gt;glorious — alone</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>115850049-sloughofquietudes</guid>
       <link>https://sohaiku.art/poems/115850049-sloughofquietudes</link>
-    </item>
-    <item>
-      <title>and when you suffer</title>
-      <description>and when you suffer&lt;br&gt;center on infinity&lt;br&gt;watch me; smile at me</description>
-      <pubDate>Tue, 02 Sep 2025 21:36:47 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115825007-andwhenyousuffer</guid>
-      <link>https://sohaiku.art/poems/115825007-andwhenyousuffer</link>
     </item>
   </channel>
 </rss>
