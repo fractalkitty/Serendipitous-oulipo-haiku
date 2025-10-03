@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 02 Oct 2025 23:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 05:58:34 GMT</lastBuildDate>
+    <item>
+      <title>do you like to think</title>
+      <description>do you like to think&lt;br&gt;I will reach with all my time&lt;br&gt;like old memories</description>
+      <pubDate>Fri, 03 Oct 2025 05:58:34 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118447114-doyouliketothink</guid>
+      <link>https://sohaiku.art/poems/118447114-doyouliketothink</link>
+    </item>
     <item>
       <title>the weight of a cloud</title>
       <description>the weight of a cloud&lt;br&gt;together in flight and tree&lt;br&gt;days, loops, through the years</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>115894005-weallcantransform</guid>
       <link>https://sohaiku.art/poems/115894005-weallcantransform</link>
-    </item>
-    <item>
-      <title>I see you peeking</title>
-      <description>I see you peeking&lt;br&gt;come and sit with me; this day&lt;br&gt;paths, trails of wonder</description>
-      <pubDate>Wed, 03 Sep 2025 10:45:47 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115872347-iseeyoupeekingco</guid>
-      <link>https://sohaiku.art/poems/115872347-iseeyoupeekingco</link>
     </item>
   </channel>
 </rss>
