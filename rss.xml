@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 03 Oct 2025 05:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 11:58:43 GMT</lastBuildDate>
+    <item>
+      <title>a swallow ballet</title>
+      <description>a swallow ballet&lt;br&gt;revealing ancient forest&lt;br&gt;have ever loved me</description>
+      <pubDate>Fri, 03 Oct 2025 11:58:43 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118468723-aswallowballetrev</guid>
+      <link>https://sohaiku.art/poems/118468723-aswallowballetrev</link>
+    </item>
     <item>
       <title>do you like to think</title>
       <description>do you like to think&lt;br&gt;I will reach with all my time&lt;br&gt;like old memories</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>115917307-idreamthatyoukis</guid>
       <link>https://sohaiku.art/poems/115917307-idreamthatyoukis</link>
-    </item>
-    <item>
-      <title>we all can transform</title>
-      <description>we all can transform&lt;br&gt;like the sound of waves pulling&lt;br&gt;of my consciousness</description>
-      <pubDate>Wed, 03 Sep 2025 16:46:45 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115894005-weallcantransform</guid>
-      <link>https://sohaiku.art/poems/115894005-weallcantransform</link>
     </item>
   </channel>
 </rss>
