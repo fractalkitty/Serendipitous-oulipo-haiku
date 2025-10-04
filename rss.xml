@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 03 Oct 2025 11:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 17:58:46 GMT</lastBuildDate>
+    <item>
+      <title>the silver lining</title>
+      <description>the silver lining&lt;br&gt;for receding from my path&lt;br&gt;you just have to look</description>
+      <pubDate>Fri, 03 Oct 2025 17:58:46 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118490326-thesilverliningfo</guid>
+      <link>https://sohaiku.art/poems/118490326-thesilverliningfo</link>
+    </item>
     <item>
       <title>a swallow ballet</title>
       <description>a swallow ballet&lt;br&gt;revealing ancient forest&lt;br&gt;have ever loved me</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>115940969-yougathertospeak</guid>
       <link>https://sohaiku.art/poems/115940969-yougathertospeak</link>
-    </item>
-    <item>
-      <title>I dream that you kiss</title>
-      <description>I dream that you kiss&lt;br&gt;together like wolves that howl&lt;br&gt;into reminders</description>
-      <pubDate>Wed, 03 Sep 2025 23:15:07 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115917307-idreamthatyoukis</guid>
-      <link>https://sohaiku.art/poems/115917307-idreamthatyoukis</link>
     </item>
   </channel>
 </rss>
