@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 04 Oct 2025 08:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 14:35:36 GMT</lastBuildDate>
+    <item>
+      <title>I breathed alder air</title>
+      <description>I breathed alder air&lt;br&gt;that hug me; sitting so small&lt;br&gt;air, to tree, to air</description>
+      <pubDate>Sat, 04 Oct 2025 14:35:36 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118564536-ibreathedalderair</guid>
+      <link>https://sohaiku.art/poems/118564536-ibreathedalderair</link>
+    </item>
     <item>
       <title>to be a raven</title>
       <description>to be a raven&lt;br&gt;and I will love every&lt;br&gt;what currents we make</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116016618-iknow,eventhough</guid>
       <link>https://sohaiku.art/poems/116016618-iknow,eventhough</link>
-    </item>
-    <item>
-      <title>shadows stretch across</title>
-      <description>shadows stretch across&lt;br&gt;gossamer laced water beads&lt;br&gt;and breath in this life</description>
-      <pubDate>Thu, 04 Sep 2025 17:58:04 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>115984684-shadowsstretchacro</guid>
-      <link>https://sohaiku.art/poems/115984684-shadowsstretchacro</link>
     </item>
   </channel>
 </rss>
