@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 05 Oct 2025 09:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 15:41:02 GMT</lastBuildDate>
+    <item>
+      <title>The structure of you</title>
+      <description>The structure of you&lt;br&gt;come to hold my hand, farewell&lt;br&gt;utterly selfless</description>
+      <pubDate>Sun, 05 Oct 2025 15:41:02 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118654862-thestructureofyou</guid>
+      <link>https://sohaiku.art/poems/118654862-thestructureofyou</link>
+    </item>
     <item>
       <title>you know you must go</title>
       <description>you know you must go&lt;br&gt;the skeletal curvature&lt;br&gt;revealing true form</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116103399-atenderwavewafts</guid>
       <link>https://sohaiku.art/poems/116103399-atenderwavewafts</link>
-    </item>
-    <item>
-      <title>three generations</title>
-      <description>three generations&lt;br&gt;little hummingbirds come, go.&lt;br&gt;modest are the trees</description>
-      <pubDate>Fri, 05 Sep 2025 20:55:49 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116081749-threegenerationsli</guid>
-      <link>https://sohaiku.art/poems/116081749-threegenerationsli</link>
     </item>
   </channel>
 </rss>
