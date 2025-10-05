@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 05 Oct 2025 02:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 09:00:29 GMT</lastBuildDate>
+    <item>
+      <title>you know you must go</title>
+      <description>you know you must go&lt;br&gt;the skeletal curvature&lt;br&gt;revealing true form</description>
+      <pubDate>Sun, 05 Oct 2025 09:00:29 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118630829-youknowyoumustgo</guid>
+      <link>https://sohaiku.art/poems/118630829-youknowyoumustgo</link>
+    </item>
     <item>
       <title>oh, how you long to</title>
       <description>oh, how you long to&lt;br&gt;accidental flushing dog&lt;br&gt;joyful perfection</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116081749-threegenerationsli</guid>
       <link>https://sohaiku.art/poems/116081749-threegenerationsli</link>
-    </item>
-    <item>
-      <title>I stumbled upon</title>
-      <description>I stumbled upon&lt;br&gt;plant me beside, beneath one&lt;br&gt;and staying aligned</description>
-      <pubDate>Fri, 05 Sep 2025 14:55:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116060117-istumbleduponplan</guid>
-      <link>https://sohaiku.art/poems/116060117-istumbleduponplan</link>
     </item>
   </channel>
 </rss>
