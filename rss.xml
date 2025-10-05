@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 04 Oct 2025 14:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 20:48:49 GMT</lastBuildDate>
+    <item>
+      <title>I saw you today</title>
+      <description>I saw you today&lt;br&gt;and find they are but water&lt;br&gt;to be here and now</description>
+      <pubDate>Sat, 04 Oct 2025 20:48:49 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118586929-isawyoutodayand</guid>
+      <link>https://sohaiku.art/poems/118586929-isawyoutodayand</link>
+    </item>
     <item>
       <title>I breathed alder air</title>
       <description>I breathed alder air&lt;br&gt;that hug me; sitting so small&lt;br&gt;air, to tree, to air</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116038244-iamcondensateofm</guid>
       <link>https://sohaiku.art/poems/116038244-iamcondensateofm</link>
-    </item>
-    <item>
-      <title>I know, even though</title>
-      <description>I know, even though&lt;br&gt;I thought you might sit with me&lt;br&gt;in awe we exist</description>
-      <pubDate>Fri, 05 Sep 2025 02:50:18 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116016618-iknow,eventhough</guid>
-      <link>https://sohaiku.art/poems/116016618-iknow,eventhough</link>
     </item>
   </channel>
 </rss>
