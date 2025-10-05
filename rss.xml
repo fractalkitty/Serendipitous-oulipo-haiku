@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 04 Oct 2025 20:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 02:54:31 GMT</lastBuildDate>
+    <item>
+      <title>oh, how you long to</title>
+      <description>oh, how you long to&lt;br&gt;accidental flushing dog&lt;br&gt;joyful perfection</description>
+      <pubDate>Sun, 05 Oct 2025 02:54:31 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118608871-oh,howyoulongto</guid>
+      <link>https://sohaiku.art/poems/118608871-oh,howyoulongto</link>
+    </item>
     <item>
       <title>I saw you today</title>
       <description>I saw you today&lt;br&gt;and find they are but water&lt;br&gt;to be here and now</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116060117-istumbleduponplan</guid>
       <link>https://sohaiku.art/poems/116060117-istumbleduponplan</link>
-    </item>
-    <item>
-      <title>I am condensate</title>
-      <description>I am condensate&lt;br&gt;of moss, earth, stream, trees, and life&lt;br&gt;pareidolia</description>
-      <pubDate>Fri, 05 Sep 2025 08:50:44 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116038244-iamcondensateofm</guid>
-      <link>https://sohaiku.art/poems/116038244-iamcondensateofm</link>
     </item>
   </channel>
 </rss>
