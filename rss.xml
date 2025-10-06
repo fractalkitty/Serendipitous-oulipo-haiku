@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 06 Oct 2025 10:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 16:42:04 GMT</lastBuildDate>
+    <item>
+      <title>faint little circle</title>
+      <description>faint little circle&lt;br&gt;upon a forest by sea&lt;br&gt;envelope my eyes</description>
+      <pubDate>Mon, 06 Oct 2025 16:42:04 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118744924-faintlittlecircle</guid>
+      <link>https://sohaiku.art/poems/118744924-faintlittlecircle</link>
+    </item>
     <item>
       <title>plot the Devil’s Curve</title>
       <description>plot the Devil’s Curve&lt;br&gt;origami creases you&lt;br&gt;filtered solar light</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116197329-youturntowardsthe</guid>
       <link>https://sohaiku.art/poems/116197329-youturntowardsthe</link>
-    </item>
-    <item>
-      <title>when you submerge, keep</title>
-      <description>when you submerge, keep&lt;br&gt;the same and yet different&lt;br&gt;earth and sky as one</description>
-      <pubDate>Sat, 06 Sep 2025 22:15:36 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116172936-whenyousubmerge,k</guid>
-      <link>https://sohaiku.art/poems/116172936-whenyousubmerge,k</link>
     </item>
   </channel>
 </rss>
