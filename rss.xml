@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 07 Oct 2025 07:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 13:41:46 GMT</lastBuildDate>
+    <item>
+      <title>I saw the sunrise</title>
+      <description>I saw the sunrise&lt;br&gt;earlier now. Lets us know&lt;br&gt;breath in this wildwood</description>
+      <pubDate>Tue, 07 Oct 2025 13:41:46 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118820506-isawthesunriseea</guid>
+      <link>https://sohaiku.art/poems/118820506-isawthesunriseea</link>
+    </item>
     <item>
       <title>untangling this mess</title>
       <description>untangling this mess&lt;br&gt;pack them like bijou trinkets&lt;br&gt;at the shore of soul</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116266297-isawthesunrisevi</guid>
       <link>https://sohaiku.art/poems/116266297-isawthesunrisevi</link>
-    </item>
-    <item>
-      <title>maybe all our days</title>
-      <description>maybe all our days&lt;br&gt;that draw you in; and call you&lt;br&gt;thoughts wrapped around me</description>
-      <pubDate>Sun, 07 Sep 2025 17:57:20 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116243840-maybeallourdayst</guid>
-      <link>https://sohaiku.art/poems/116243840-maybeallourdayst</link>
     </item>
   </channel>
 </rss>
