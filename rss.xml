@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 06 Oct 2025 16:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 23:54:57 GMT</lastBuildDate>
+    <item>
+      <title>there you are, my hawk</title>
+      <description>there you are, my hawk&lt;br&gt;make this icosahedron&lt;br&gt;to find what is deep</description>
+      <pubDate>Mon, 06 Oct 2025 23:54:57 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118770897-thereyouare,myha</guid>
+      <link>https://sohaiku.art/poems/118770897-thereyouare,myha</link>
+    </item>
     <item>
       <title>faint little circle</title>
       <description>faint little circle&lt;br&gt;upon a forest by sea&lt;br&gt;envelope my eyes</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116220810-beautyinmymindto</guid>
       <link>https://sohaiku.art/poems/116220810-beautyinmymindto</link>
-    </item>
-    <item>
-      <title>you turn towards the light</title>
-      <description>you turn towards the light&lt;br&gt;are now weeks past their season&lt;br&gt;while reflecting sky</description>
-      <pubDate>Sun, 07 Sep 2025 05:02:09 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116197329-youturntowardsthe</guid>
-      <link>https://sohaiku.art/poems/116197329-youturntowardsthe</link>
     </item>
   </channel>
 </rss>
