@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 06 Oct 2025 23:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 07:13:10 GMT</lastBuildDate>
+    <item>
+      <title>untangling this mess</title>
+      <description>untangling this mess&lt;br&gt;pack them like bijou trinkets&lt;br&gt;at the shore of soul</description>
+      <pubDate>Tue, 07 Oct 2025 07:13:10 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118797190-untanglingthismess</guid>
+      <link>https://sohaiku.art/poems/118797190-untanglingthismess</link>
+    </item>
     <item>
       <title>there you are, my hawk</title>
       <description>there you are, my hawk&lt;br&gt;make this icosahedron&lt;br&gt;to find what is deep</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116243840-maybeallourdayst</guid>
       <link>https://sohaiku.art/poems/116243840-maybeallourdayst</link>
-    </item>
-    <item>
-      <title>beauty in my mind</title>
-      <description>beauty in my mind&lt;br&gt;to sit and watch little swifts&lt;br&gt;centuries of flow</description>
-      <pubDate>Sun, 07 Sep 2025 11:33:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116220810-beautyinmymindto</guid>
-      <link>https://sohaiku.art/poems/116220810-beautyinmymindto</link>
     </item>
   </channel>
 </rss>
