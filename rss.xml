@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 08 Oct 2025 03:45:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 09:45:46 GMT</lastBuildDate>
+    <item>
+      <title>the most open paths</title>
+      <description>the most open paths&lt;br&gt;to manifest silver clouds&lt;br&gt;charcoal to paper</description>
+      <pubDate>Wed, 08 Oct 2025 09:45:46 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118892746-themostopenpaths</guid>
+      <link>https://sohaiku.art/poems/118892746-themostopenpaths</link>
+    </item>
     <item>
       <title>I just glimpsed the light</title>
       <description>I just glimpsed the light&lt;br&gt;of dancing curves of sunshine&lt;br&gt;ablutions from sky</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116336378-windgustsbendingt</guid>
       <link>https://sohaiku.art/poems/116336378-windgustsbendingt</link>
-    </item>
-    <item>
-      <title>sunlight in canyons</title>
-      <description>sunlight in canyons&lt;br&gt;are but loops in the garment&lt;br&gt;a painted earful</description>
-      <pubDate>Mon, 08 Sep 2025 13:34:39 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116314479-sunlightincanyons</guid>
-      <link>https://sohaiku.art/poems/116314479-sunlightincanyons</link>
     </item>
   </channel>
 </rss>
