@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 07 Oct 2025 19:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 03:45:06 GMT</lastBuildDate>
+    <item>
+      <title>I just glimpsed the light</title>
+      <description>I just glimpsed the light&lt;br&gt;of dancing curves of sunshine&lt;br&gt;ablutions from sky</description>
+      <pubDate>Wed, 08 Oct 2025 03:45:06 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>118871106-ijustglimpsedthe</guid>
+      <link>https://sohaiku.art/poems/118871106-ijustglimpsedthe</link>
+    </item>
     <item>
       <title>breadcrumbs of sunbeams</title>
       <description>breadcrumbs of sunbeams&lt;br&gt;constructed with four circles&lt;br&gt;in my coffee cup</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116314479-sunlightincanyons</guid>
       <link>https://sohaiku.art/poems/116314479-sunlightincanyons</link>
-    </item>
-    <item>
-      <title>hoya of Nana</title>
-      <description>hoya of Nana&lt;br&gt;of flight above all of it&lt;br&gt;contrast is but life</description>
-      <pubDate>Mon, 08 Sep 2025 06:52:02 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116290322-hoyaofnanaofflig</guid>
-      <link>https://sohaiku.art/poems/116290322-hoyaofnanaofflig</link>
     </item>
   </channel>
 </rss>
