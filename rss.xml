@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 09 Oct 2025 12:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 18:10:29 GMT</lastBuildDate>
+    <item>
+      <title>the weight of a cloud</title>
+      <description>the weight of a cloud&lt;br&gt;droplets, the bubbles in air&lt;br&gt;have ever loved me</description>
+      <pubDate>Thu, 09 Oct 2025 18:10:29 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119009429-theweightofaclou</guid>
+      <link>https://sohaiku.art/poems/119009429-theweightofaclou</link>
+    </item>
     <item>
       <title>the color palettes</title>
       <description>the color palettes&lt;br&gt;always reaching to the west&lt;br&gt;due to gratitude</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116449821-sunlightincanyons</guid>
       <link>https://sohaiku.art/poems/116449821-sunlightincanyons</link>
-    </item>
-    <item>
-      <title>there are these comets</title>
-      <description>there are these comets&lt;br&gt;float away on gentle breeze&lt;br&gt;to dwell within me</description>
-      <pubDate>Tue, 09 Sep 2025 20:26:41 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116425601-therearethesecome</guid>
-      <link>https://sohaiku.art/poems/116425601-therearethesecome</link>
     </item>
   </channel>
 </rss>
