@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 11 Oct 2025 07:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 13:15:28 GMT</lastBuildDate>
+    <item>
+      <title>the seven of them</title>
+      <description>the seven of them&lt;br&gt;in one sedum, young to old&lt;br&gt;western wood-peewee</description>
+      <pubDate>Sat, 11 Oct 2025 13:15:28 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119164528-thesevenofthemin</guid>
+      <link>https://sohaiku.art/poems/119164528-thesevenofthemin</link>
+    </item>
     <item>
       <title>the seven of them</title>
       <description>the seven of them&lt;br&gt;as a Bee is to flower&lt;br&gt;iterated views</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116602601-black,soft,powder</guid>
       <link>https://sohaiku.art/poems/116602601-black,soft,powder</link>
-    </item>
-    <item>
-      <title>a forest burned shows</title>
-      <description>a forest burned shows&lt;br&gt;the raw transforms to beauty&lt;br&gt;of branches and roots</description>
-      <pubDate>Thu, 11 Sep 2025 15:36:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116580990-aforestburnedshow</guid>
-      <link>https://sohaiku.art/poems/116580990-aforestburnedshow</link>
     </item>
   </channel>
 </rss>
