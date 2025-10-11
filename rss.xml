@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 10 Oct 2025 12:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 18:39:52 GMT</lastBuildDate>
+    <item>
+      <title>some of us are those</title>
+      <description>some of us are those&lt;br&gt;I see you and your colors&lt;br&gt;waiting for sunset</description>
+      <pubDate>Fri, 10 Oct 2025 18:39:52 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119097592-someofusarethose</guid>
+      <link>https://sohaiku.art/poems/119097592-someofusarethose</link>
+    </item>
     <item>
       <title>little winter bee</title>
       <description>little winter bee&lt;br&gt;a permission slip to be&lt;br&gt;glitches in water</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116537247-inmycup,coffeebr</guid>
       <link>https://sohaiku.art/poems/116537247-inmycup,coffeebr</link>
-    </item>
-    <item>
-      <title>strands of life do hang</title>
-      <description>strands of life do hang&lt;br&gt;lead you to this perspective&lt;br&gt;beneath your breath — “spring”</description>
-      <pubDate>Wed, 10 Sep 2025 21:12:51 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116514771-strandsoflifedoh</guid>
-      <link>https://sohaiku.art/poems/116514771-strandsoflifedoh</link>
     </item>
   </channel>
 </rss>
