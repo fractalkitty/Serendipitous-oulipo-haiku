@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 10 Oct 2025 18:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 00:58:45 GMT</lastBuildDate>
+    <item>
+      <title>sunflowers bow their</title>
+      <description>sunflowers bow their&lt;br&gt;and find they are but water&lt;br&gt;hundreds of years old</description>
+      <pubDate>Sat, 11 Oct 2025 00:58:45 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119120325-sunflowersbowtheir</guid>
+      <link>https://sohaiku.art/poems/119120325-sunflowersbowtheir</link>
+    </item>
     <item>
       <title>some of us are those</title>
       <description>some of us are those&lt;br&gt;I see you and your colors&lt;br&gt;waiting for sunset</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116558861-whenyouturninas</guid>
       <link>https://sohaiku.art/poems/116558861-whenyouturninas</link>
-    </item>
-    <item>
-      <title>in my cup, coffee</title>
-      <description>in my cup, coffee&lt;br&gt;brings us through our existence&lt;br&gt;astonishing — bloom</description>
-      <pubDate>Thu, 11 Sep 2025 03:27:27 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116537247-inmycup,coffeebr</guid>
-      <link>https://sohaiku.art/poems/116537247-inmycup,coffeebr</link>
     </item>
   </channel>
 </rss>
