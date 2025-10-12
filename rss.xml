@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 12 Oct 2025 01:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 07:39:04 GMT</lastBuildDate>
+    <item>
+      <title>simple churns of thought</title>
+      <description>simple churns of thought&lt;br&gt;cross a bridge from the beneath&lt;br&gt;with grains of pollen</description>
+      <pubDate>Sun, 12 Oct 2025 07:39:04 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119230744-simplechurnsoftho</guid>
+      <link>https://sohaiku.art/poems/119230744-simplechurnsoftho</link>
+    </item>
     <item>
       <title>breadcrumbs of sunbeams</title>
       <description>breadcrumbs of sunbeams&lt;br&gt;settle down in the long light&lt;br&gt;white gives way to green</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116670871-thebaseofthirteen</guid>
       <link>https://sohaiku.art/poems/116670871-thebaseofthirteen</link>
-    </item>
-    <item>
-      <title>we all can transform</title>
-      <description>we all can transform&lt;br&gt;turbulence with breath, movement&lt;br&gt;remember the sky</description>
-      <pubDate>Fri, 12 Sep 2025 10:32:52 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116649172-weallcantransform</guid>
-      <link>https://sohaiku.art/poems/116649172-weallcantransform</link>
     </item>
   </channel>
 </rss>
