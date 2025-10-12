@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 11 Oct 2025 13:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 19:22:54 GMT</lastBuildDate>
+    <item>
+      <title>in the mossy dusk</title>
+      <description>in the mossy dusk&lt;br&gt;you are like honey and light&lt;br&gt;with all of your heart</description>
+      <pubDate>Sat, 11 Oct 2025 19:22:54 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119186574-inthemossyduskyo</guid>
+      <link>https://sohaiku.art/poems/119186574-inthemossyduskyo</link>
+    </item>
     <item>
       <title>the seven of them</title>
       <description>the seven of them&lt;br&gt;in one sedum, young to old&lt;br&gt;western wood-peewee</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116627546-oh,yes,thisisit!</guid>
       <link>https://sohaiku.art/poems/116627546-oh,yes,thisisit!</link>
-    </item>
-    <item>
-      <title>black, soft, powder stick</title>
-      <description>black, soft, powder stick&lt;br&gt;chaotic origami&lt;br&gt;parametric us</description>
-      <pubDate>Thu, 11 Sep 2025 21:36:41 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116602601-black,soft,powder</guid>
-      <link>https://sohaiku.art/poems/116602601-black,soft,powder</link>
     </item>
   </channel>
 </rss>
