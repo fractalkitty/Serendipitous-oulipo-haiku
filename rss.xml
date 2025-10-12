@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 11 Oct 2025 19:22:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 01:38:06 GMT</lastBuildDate>
+    <item>
+      <title>breadcrumbs of sunbeams</title>
+      <description>breadcrumbs of sunbeams&lt;br&gt;settle down in the long light&lt;br&gt;white gives way to green</description>
+      <pubDate>Sun, 12 Oct 2025 01:38:06 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119209086-breadcrumbsofsunbe</guid>
+      <link>https://sohaiku.art/poems/119209086-breadcrumbsofsunbe</link>
+    </item>
     <item>
       <title>in the mossy dusk</title>
       <description>in the mossy dusk&lt;br&gt;you are like honey and light&lt;br&gt;with all of your heart</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116649172-weallcantransform</guid>
       <link>https://sohaiku.art/poems/116649172-weallcantransform</link>
-    </item>
-    <item>
-      <title>oh, yes, this is it!</title>
-      <description>oh, yes, this is it!&lt;br&gt;may bring forth fruits beyond us&lt;br&gt;a precious orchid</description>
-      <pubDate>Fri, 12 Sep 2025 04:32:26 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116627546-oh,yes,thisisit!</guid>
-      <link>https://sohaiku.art/poems/116627546-oh,yes,thisisit!</link>
     </item>
   </channel>
 </rss>
