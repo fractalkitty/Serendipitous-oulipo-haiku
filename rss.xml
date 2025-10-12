@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 12 Oct 2025 07:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 14:31:50 GMT</lastBuildDate>
+    <item>
+      <title>I am condensate</title>
+      <description>I am condensate&lt;br&gt;catching the little white moths&lt;br&gt;this brief existence</description>
+      <pubDate>Sun, 12 Oct 2025 14:31:50 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119255510-iamcondensatecatc</guid>
+      <link>https://sohaiku.art/poems/119255510-iamcondensatecatc</link>
+    </item>
     <item>
       <title>simple churns of thought</title>
       <description>simple churns of thought&lt;br&gt;cross a bridge from the beneath&lt;br&gt;with grains of pollen</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116694216-injustonemomentt</guid>
       <link>https://sohaiku.art/poems/116694216-injustonemomentt</link>
-    </item>
-    <item>
-      <title>the base of thirteen</title>
-      <description>the base of thirteen&lt;br&gt;reflecting from this good earth&lt;br&gt;into me, not me</description>
-      <pubDate>Fri, 12 Sep 2025 16:34:31 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116670871-thebaseofthirteen</guid>
-      <link>https://sohaiku.art/poems/116670871-thebaseofthirteen</link>
     </item>
   </channel>
 </rss>
