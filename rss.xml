@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 12 Oct 2025 14:31:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 20:32:40 GMT</lastBuildDate>
+    <item>
+      <title>you gather yourself</title>
+      <description>you gather yourself&lt;br&gt;nodes in the past and future&lt;br&gt;this brief existence</description>
+      <pubDate>Sun, 12 Oct 2025 20:32:40 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119277160-yougatheryourself</guid>
+      <link>https://sohaiku.art/poems/119277160-yougatheryourself</link>
+    </item>
     <item>
       <title>I am condensate</title>
       <description>I am condensate&lt;br&gt;catching the little white moths&lt;br&gt;this brief existence</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116716916-iamcondensatewill</guid>
       <link>https://sohaiku.art/poems/116716916-iamcondensatewill</link>
-    </item>
-    <item>
-      <title>in just one moment</title>
-      <description>in just one moment&lt;br&gt;together like wolves that howl&lt;br&gt;ready to unfurl</description>
-      <pubDate>Fri, 12 Sep 2025 23:03:36 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116694216-injustonemomentt</guid>
-      <link>https://sohaiku.art/poems/116694216-injustonemomentt</link>
     </item>
   </channel>
 </rss>
