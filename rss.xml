@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 14 Oct 2025 10:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 16:28:19 GMT</lastBuildDate>
+    <item>
+      <title>all tracks in your life</title>
+      <description>all tracks in your life&lt;br&gt;still budding though you lay down&lt;br&gt;when alone with time</description>
+      <pubDate>Tue, 14 Oct 2025 16:28:19 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119435299-alltracksinyourl</guid>
+      <link>https://sohaiku.art/poems/119435299-alltracksinyourl</link>
+    </item>
     <item>
       <title>I folded this crane</title>
       <description>I folded this crane&lt;br&gt;to journey beneath the stars&lt;br&gt;that stands still and dark</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116879179-loftysequoiareleas</guid>
       <link>https://sohaiku.art/poems/116879179-loftysequoiareleas</link>
-    </item>
-    <item>
-      <title>vestiges of trees</title>
-      <description>vestiges of trees&lt;br&gt;we may spring forth foliage&lt;br&gt;listening to birds</description>
-      <pubDate>Sun, 14 Sep 2025 18:40:38 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116851238-vestigesoftreeswe</guid>
-      <link>https://sohaiku.art/poems/116851238-vestigesoftreeswe</link>
     </item>
   </channel>
 </rss>
