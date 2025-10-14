@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 14 Oct 2025 03:47:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 10:17:20 GMT</lastBuildDate>
+    <item>
+      <title>I folded this crane</title>
+      <description>I folded this crane&lt;br&gt;to journey beneath the stars&lt;br&gt;that stands still and dark</description>
+      <pubDate>Tue, 14 Oct 2025 10:17:20 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119413040-ifoldedthiscrane</guid>
+      <link>https://sohaiku.art/poems/119413040-ifoldedthiscrane</link>
+    </item>
     <item>
       <title>oh, yes, this is it!</title>
       <description>oh, yes, this is it!&lt;br&gt;the depths of the light and dark&lt;br&gt;the ultimate hug</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116851238-vestigesoftreeswe</guid>
       <link>https://sohaiku.art/poems/116851238-vestigesoftreeswe</link>
-    </item>
-    <item>
-      <title>you are potential</title>
-      <description>you are potential&lt;br&gt;perfect, beautiful flowers&lt;br&gt;cobbles at high tide</description>
-      <pubDate>Sun, 14 Sep 2025 12:23:37 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116828617-youarepotentialpe</guid>
-      <link>https://sohaiku.art/poems/116828617-youarepotentialpe</link>
     </item>
   </channel>
 </rss>
