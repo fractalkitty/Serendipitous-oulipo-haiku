@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 13 Oct 2025 21:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 03:47:36 GMT</lastBuildDate>
+    <item>
+      <title>oh, yes, this is it!</title>
+      <description>oh, yes, this is it!&lt;br&gt;the depths of the light and dark&lt;br&gt;the ultimate hug</description>
+      <pubDate>Tue, 14 Oct 2025 03:47:36 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119389656-oh,yes,thisisit!</guid>
+      <link>https://sohaiku.art/poems/119389656-oh,yes,thisisit!</link>
+    </item>
     <item>
       <title>great white fawn lily</title>
       <description>great white fawn lily&lt;br&gt;in and out of your being&lt;br&gt;completing a proof</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116828617-youarepotentialpe</guid>
       <link>https://sohaiku.art/poems/116828617-youarepotentialpe</link>
-    </item>
-    <item>
-      <title>and when you suffer</title>
-      <description>and when you suffer&lt;br&gt;that you store your quietness&lt;br&gt;is there really up?</description>
-      <pubDate>Sun, 14 Sep 2025 06:21:52 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116806912-andwhenyousuffer</guid>
-      <link>https://sohaiku.art/poems/116806912-andwhenyousuffer</link>
     </item>
   </channel>
 </rss>
