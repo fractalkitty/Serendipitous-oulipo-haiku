@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 15 Oct 2025 06:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:51:50 GMT</lastBuildDate>
+    <item>
+      <title>evening clouds whisper</title>
+      <description>evening clouds whisper&lt;br&gt;that draw you in; and call you&lt;br&gt;boardwalk to the sky</description>
+      <pubDate>Wed, 15 Oct 2025 12:51:50 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119508710-eveningcloudswhisp</guid>
+      <link>https://sohaiku.art/poems/119508710-eveningcloudswhisp</link>
+    </item>
     <item>
       <title>there exists nothing</title>
       <description>there exists nothing&lt;br&gt;origami creases you&lt;br&gt;connected to Earth</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116945600-lightoffersshadows</guid>
       <link>https://sohaiku.art/poems/116945600-lightoffersshadows</link>
-    </item>
-    <item>
-      <title>when is it, you ask</title>
-      <description>when is it, you ask&lt;br&gt;vector fields of stick and cloth&lt;br&gt;trailing a mother</description>
-      <pubDate>Mon, 15 Sep 2025 14:52:58 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116923978-whenisit,youask</guid>
-      <link>https://sohaiku.art/poems/116923978-whenisit,youask</link>
     </item>
   </channel>
 </rss>
