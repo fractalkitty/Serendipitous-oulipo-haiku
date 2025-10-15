@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 14 Oct 2025 23:36:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 06:34:42 GMT</lastBuildDate>
+    <item>
+      <title>there exists nothing</title>
+      <description>there exists nothing&lt;br&gt;origami creases you&lt;br&gt;connected to Earth</description>
+      <pubDate>Wed, 15 Oct 2025 06:34:42 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119486082-thereexistsnothing</guid>
+      <link>https://sohaiku.art/poems/119486082-thereexistsnothing</link>
+    </item>
     <item>
       <title>night time thoughts bring focus</title>
       <description>night time thoughts bring focus&lt;br&gt;does not point its beam at you&lt;br&gt;ever evolving</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116923978-whenisit,youask</guid>
       <link>https://sohaiku.art/poems/116923978-whenisit,youask</link>
-    </item>
-    <item>
-      <title>sometimes you just run</title>
-      <description>sometimes you just run&lt;br&gt;lift into the sky above&lt;br&gt;at your ocean’s edge</description>
-      <pubDate>Mon, 15 Sep 2025 08:26:43 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116900803-sometimesyoujustr</guid>
-      <link>https://sohaiku.art/poems/116900803-sometimesyoujustr</link>
     </item>
   </channel>
 </rss>
