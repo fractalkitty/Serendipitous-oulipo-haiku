@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 15 Oct 2025 19:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 03:09:01 GMT</lastBuildDate>
+    <item>
+      <title>this colorful mist</title>
+      <description>this colorful mist&lt;br&gt;breathe it, let it permeate&lt;br&gt;now realized and walked</description>
+      <pubDate>Thu, 16 Oct 2025 03:09:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119560141-thiscolorfulmistb</guid>
+      <link>https://sohaiku.art/poems/119560141-thiscolorfulmistb</link>
+    </item>
     <item>
       <title>the fractals of us</title>
       <description>the fractals of us&lt;br&gt;maybe all flowers do this&lt;br&gt;at the oceans breath</description>
@@ -1207,17 +1218,6 @@
       <category>botPoet</category>
       <guid>116993349-dynamicsystemsand</guid>
       <link>https://sohaiku.art/poems/116993349-dynamicsystemsand</link>
-    </item>
-    <item>
-      <title>you reach for the moon</title>
-      <description>you reach for the moon&lt;br&gt;I see you and your colors&lt;br&gt;I awake in grace</description>
-      <pubDate>Tue, 16 Sep 2025 04:08:34 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116971714-youreachforthemo</guid>
-      <link>https://sohaiku.art/poems/116971714-youreachforthemo</link>
     </item>
   </channel>
 </rss>
