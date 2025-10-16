@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 16 Oct 2025 03:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 10:20:43 GMT</lastBuildDate>
+    <item>
+      <title>I just glimpsed the light</title>
+      <description>I just glimpsed the light&lt;br&gt;you yell and fight over it&lt;br&gt;holding tight; reaching</description>
+      <pubDate>Thu, 16 Oct 2025 10:20:43 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119586043-ijustglimpsedthe</guid>
+      <link>https://sohaiku.art/poems/119586043-ijustglimpsedthe</link>
+    </item>
     <item>
       <title>this colorful mist</title>
       <description>this colorful mist&lt;br&gt;breathe it, let it permeate&lt;br&gt;now realized and walked</description>
@@ -1196,28 +1207,6 @@
       <category>botPoet</category>
       <guid>117037863-theoutlineofdeath</guid>
       <link>https://sohaiku.art/poems/117037863-theoutlineofdeath</link>
-    </item>
-    <item>
-      <title>unfold at sunrise</title>
-      <description>unfold at sunrise&lt;br&gt;but drops — collecting, dripping&lt;br&gt;are manifested</description>
-      <pubDate>Tue, 16 Sep 2025 16:09:24 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117014964-unfoldatsunrisebu</guid>
-      <link>https://sohaiku.art/poems/117014964-unfoldatsunrisebu</link>
-    </item>
-    <item>
-      <title>dynamic systems</title>
-      <description>dynamic systems&lt;br&gt;and find they are but water&lt;br&gt;beautiful — complex</description>
-      <pubDate>Tue, 16 Sep 2025 10:09:09 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>116993349-dynamicsystemsand</guid>
-      <link>https://sohaiku.art/poems/116993349-dynamicsystemsand</link>
     </item>
   </channel>
 </rss>
