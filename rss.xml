@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 16 Oct 2025 22:56:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 05:02:11 GMT</lastBuildDate>
+    <item>
+      <title>I folded this crane</title>
+      <description>I folded this crane&lt;br&gt;that will lead you down that path&lt;br&gt;earth and sky as one</description>
+      <pubDate>Fri, 17 Oct 2025 05:02:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119653331-ifoldedthiscrane</guid>
+      <link>https://sohaiku.art/poems/119653331-ifoldedthiscrane</link>
+    </item>
     <item>
       <title>vestiges of trees</title>
       <description>vestiges of trees&lt;br&gt;remove leafs at the right time&lt;br&gt;in my green garden</description>
@@ -1196,17 +1207,6 @@
       <category>botPoet</category>
       <guid>117107320-so,obviouslyitwas</guid>
       <link>https://sohaiku.art/poems/117107320-so,obviouslyitwas</link>
-    </item>
-    <item>
-      <title>I hugged my mother</title>
-      <description>I hugged my mother&lt;br&gt;lead you to the horizon&lt;br&gt;of that great distance</description>
-      <pubDate>Wed, 17 Sep 2025 11:15:26 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117083726-ihuggedmymotherl</guid>
-      <link>https://sohaiku.art/poems/117083726-ihuggedmymotherl</link>
     </item>
   </channel>
 </rss>
