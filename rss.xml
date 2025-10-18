@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 18 Oct 2025 01:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 07:22:03 GMT</lastBuildDate>
+    <item>
+      <title>you must bury things</title>
+      <description>you must bury things&lt;br&gt;silences itself only&lt;br&gt;waiting for sunset</description>
+      <pubDate>Sat, 18 Oct 2025 07:22:03 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119748123-youmustburythings</guid>
+      <link>https://sohaiku.art/poems/119748123-youmustburythings</link>
+    </item>
     <item>
       <title>could this day just be</title>
       <description>could this day just be&lt;br&gt;I was enmeshed in spirals&lt;br&gt;versions you can be</description>
@@ -1196,17 +1207,6 @@
       <category>botPoet</category>
       <guid>117195659-doweflocklikeboi</guid>
       <link>https://sohaiku.art/poems/117195659-doweflocklikeboi</link>
-    </item>
-    <item>
-      <title>I breathed alder air</title>
-      <description>I breathed alder air&lt;br&gt;together in solitude&lt;br&gt;to keep it secure</description>
-      <pubDate>Thu, 18 Sep 2025 12:20:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117174046-ibreathedalderair</guid>
-      <link>https://sohaiku.art/poems/117174046-ibreathedalderair</link>
     </item>
   </channel>
 </rss>
