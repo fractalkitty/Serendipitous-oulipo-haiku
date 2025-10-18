@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 17 Oct 2025 11:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 17:51:12 GMT</lastBuildDate>
+    <item>
+      <title>just for a moment</title>
+      <description>just for a moment&lt;br&gt;just before this headland warmed&lt;br&gt;joyful perfection</description>
+      <pubDate>Fri, 17 Oct 2025 17:51:12 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119699472-justforamomentju</guid>
+      <link>https://sohaiku.art/poems/119699472-justforamomentju</link>
+    </item>
     <item>
       <title>to connect with you</title>
       <description>to connect with you&lt;br&gt;glorious touching the earth&lt;br&gt;your smile — a delight</description>
@@ -1196,17 +1207,6 @@
       <category>botPoet</category>
       <guid>117151784-werunthesamepath</guid>
       <link>https://sohaiku.art/poems/117151784-werunthesamepath</link>
-    </item>
-    <item>
-      <title>plot the Devil’s Curve</title>
-      <description>plot the Devil’s Curve&lt;br&gt;that make you feel like you’re on&lt;br&gt;in the winter sun</description>
-      <pubDate>Wed, 17 Sep 2025 23:56:38 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117129398-plotthedevil’scur</guid>
-      <link>https://sohaiku.art/poems/117129398-plotthedevil’scur</link>
     </item>
   </channel>
 </rss>
