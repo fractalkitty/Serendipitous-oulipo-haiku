@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 17 Oct 2025 17:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 01:02:29 GMT</lastBuildDate>
+    <item>
+      <title>could this day just be</title>
+      <description>could this day just be&lt;br&gt;I was enmeshed in spirals&lt;br&gt;versions you can be</description>
+      <pubDate>Sat, 18 Oct 2025 01:02:29 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119725349-couldthisdayjust</guid>
+      <link>https://sohaiku.art/poems/119725349-couldthisdayjust</link>
+    </item>
     <item>
       <title>just for a moment</title>
       <description>just for a moment&lt;br&gt;just before this headland warmed&lt;br&gt;joyful perfection</description>
@@ -1196,17 +1207,6 @@
       <category>botPoet</category>
       <guid>117174046-ibreathedalderair</guid>
       <link>https://sohaiku.art/poems/117174046-ibreathedalderair</link>
-    </item>
-    <item>
-      <title>we run the same paths</title>
-      <description>we run the same paths&lt;br&gt;quivering with their cuteness&lt;br&gt;heaven and the Earth</description>
-      <pubDate>Thu, 18 Sep 2025 06:09:44 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117151784-werunthesamepath</guid>
-      <link>https://sohaiku.art/poems/117151784-werunthesamepath</link>
     </item>
   </channel>
 </rss>
