@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 18 Oct 2025 14:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 20:41:19 GMT</lastBuildDate>
+    <item>
+      <title>I saw you today</title>
+      <description>I saw you today&lt;br&gt;in your autumn glow, right now&lt;br&gt;you lay cleft at dawn</description>
+      <pubDate>Sat, 18 Oct 2025 20:41:19 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119796079-isawyoutodayiny</guid>
+      <link>https://sohaiku.art/poems/119796079-isawyoutodayiny</link>
+    </item>
     <item>
       <title>in an empty lot</title>
       <description>in an empty lot&lt;br&gt;of dancing curves of sunshine&lt;br&gt;smile, and hands. Nana</description>
@@ -1196,17 +1207,6 @@
       <category>botPoet</category>
       <guid>117243912-doweflocklikeboi</guid>
       <link>https://sohaiku.art/poems/117243912-doweflocklikeboi</link>
-    </item>
-    <item>
-      <title>at the tops of hills</title>
-      <description>at the tops of hills&lt;br&gt;arcs of me, of time — being&lt;br&gt;an aerie of grace</description>
-      <pubDate>Fri, 19 Sep 2025 01:31:44 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117221504-atthetopsofhills</guid>
-      <link>https://sohaiku.art/poems/117221504-atthetopsofhills</link>
     </item>
   </channel>
 </rss>
