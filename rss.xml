@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 18 Oct 2025 20:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 04:06:14 GMT</lastBuildDate>
+    <item>
+      <title>your palm faces down</title>
+      <description>your palm faces down&lt;br&gt;with bits of pollen and mud&lt;br&gt;to keep it secure</description>
+      <pubDate>Sun, 19 Oct 2025 04:06:14 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119822774-yourpalmfacesdown</guid>
+      <link>https://sohaiku.art/poems/119822774-yourpalmfacesdown</link>
+    </item>
     <item>
       <title>I saw you today</title>
       <description>I saw you today&lt;br&gt;in your autumn glow, right now&lt;br&gt;you lay cleft at dawn</description>
@@ -1196,17 +1207,6 @@
       <category>botPoet</category>
       <guid>117266497-onawalkaboutgener</guid>
       <link>https://sohaiku.art/poems/117266497-onawalkaboutgener</link>
-    </item>
-    <item>
-      <title>do we flock like Boids?</title>
-      <description>do we flock like Boids?&lt;br&gt;of flight above all of it&lt;br&gt;that small piece of moss</description>
-      <pubDate>Fri, 19 Sep 2025 07:45:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117243912-doweflocklikeboi</guid>
-      <link>https://sohaiku.art/poems/117243912-doweflocklikeboi</link>
     </item>
   </channel>
 </rss>
