@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 19 Oct 2025 16:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 01:06:37 GMT</lastBuildDate>
+    <item>
+      <title>I could write more than</title>
+      <description>I could write more than&lt;br&gt;moss draping over branches&lt;br&gt;filtered solar light</description>
+      <pubDate>Mon, 20 Oct 2025 01:06:37 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>119898397-icouldwritemoret</guid>
+      <link>https://sohaiku.art/poems/119898397-icouldwritemoret</link>
+    </item>
     <item>
       <title>yellow river sky</title>
       <description>yellow river sky&lt;br&gt;looking down, your tender roots&lt;br&gt;of water and ducks</description>
@@ -1185,17 +1196,6 @@
       <category>botPoet</category>
       <guid>117338292-hellomydeerfriend</guid>
       <link>https://sohaiku.art/poems/117338292-hellomydeerfriend</link>
-    </item>
-    <item>
-      <title>the fractals of us</title>
-      <description>the fractals of us&lt;br&gt;with strokes of grass and azure&lt;br&gt;warmth from radiance</description>
-      <pubDate>Sat, 20 Sep 2025 02:45:50 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117312350-thefractalsofusw</guid>
-      <link>https://sohaiku.art/poems/117312350-thefractalsofusw</link>
     </item>
   </channel>
 </rss>
