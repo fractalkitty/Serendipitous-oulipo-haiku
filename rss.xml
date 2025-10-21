@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 21 Oct 2025 08:19:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 14:24:19 GMT</lastBuildDate>
+    <item>
+      <title>a beautiful Run</title>
+      <description>a beautiful Run&lt;br&gt;take a breath and do something&lt;br&gt;trailing a mother</description>
+      <pubDate>Tue, 21 Oct 2025 14:24:19 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120032659-abeautifulruntake</guid>
+      <link>https://sohaiku.art/poems/120032659-abeautifulruntake</link>
+    </item>
     <item>
       <title>in an empty lot</title>
       <description>in an empty lot&lt;br&gt;and dip myself in the clouds&lt;br&gt;you bring me such joy</description>
@@ -1185,17 +1196,6 @@
       <category>botPoet</category>
       <guid>117471965-doweflocklikeboi</guid>
       <link>https://sohaiku.art/poems/117471965-doweflocklikeboi</link>
-    </item>
-    <item>
-      <title>what seems like chaos</title>
-      <description>what seems like chaos&lt;br&gt;infinite, ever-changing&lt;br&gt;beauty does abound</description>
-      <pubDate>Sun, 21 Sep 2025 16:33:21 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117448401-whatseemslikechao</guid>
-      <link>https://sohaiku.art/poems/117448401-whatseemslikechao</link>
     </item>
   </channel>
 </rss>
