@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 21 Oct 2025 02:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 08:19:16 GMT</lastBuildDate>
+    <item>
+      <title>in an empty lot</title>
+      <description>in an empty lot&lt;br&gt;and dip myself in the clouds&lt;br&gt;you bring me such joy</description>
+      <pubDate>Tue, 21 Oct 2025 08:19:16 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120010756-inanemptylotand</guid>
+      <link>https://sohaiku.art/poems/120010756-inanemptylotand</link>
+    </item>
     <item>
       <title>lift yourself with breath</title>
       <description>lift yourself with breath&lt;br&gt;immerse me in your language&lt;br&gt;winter chandeliers</description>
@@ -1185,17 +1196,6 @@
       <category>botPoet</category>
       <guid>117448401-whatseemslikechao</guid>
       <link>https://sohaiku.art/poems/117448401-whatseemslikechao</link>
-    </item>
-    <item>
-      <title>let yourself be here</title>
-      <description>let yourself be here&lt;br&gt;of all in the past/future&lt;br&gt;of another Earth</description>
-      <pubDate>Sun, 21 Sep 2025 10:31:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117426677-letyourselfbehere</guid>
-      <link>https://sohaiku.art/poems/117426677-letyourselfbehere</link>
     </item>
   </channel>
 </rss>
