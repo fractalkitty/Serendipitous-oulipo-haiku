@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 21 Oct 2025 14:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 20:29:34 GMT</lastBuildDate>
+    <item>
+      <title>I wish I knew how</title>
+      <description>I wish I knew how&lt;br&gt;pull me to that single point&lt;br&gt;winter steps on spring</description>
+      <pubDate>Tue, 21 Oct 2025 20:29:34 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120054574-iwishiknewhowpu</guid>
+      <link>https://sohaiku.art/poems/120054574-iwishiknewhowpu</link>
+    </item>
     <item>
       <title>a beautiful Run</title>
       <description>a beautiful Run&lt;br&gt;take a breath and do something&lt;br&gt;trailing a mother</description>
@@ -1185,17 +1196,6 @@
       <category>botPoet</category>
       <guid>117498747-yourlifehastextur</guid>
       <link>https://sohaiku.art/poems/117498747-yourlifehastextur</link>
-    </item>
-    <item>
-      <title>do we flock like Boids?</title>
-      <description>do we flock like Boids?&lt;br&gt;I fly with all of them that&lt;br&gt;positive? a shift</description>
-      <pubDate>Sun, 21 Sep 2025 23:06:05 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117471965-doweflocklikeboi</guid>
-      <link>https://sohaiku.art/poems/117471965-doweflocklikeboi</link>
     </item>
   </channel>
 </rss>
