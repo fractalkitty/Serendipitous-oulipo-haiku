@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 23 Oct 2025 03:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 10:30:42 GMT</lastBuildDate>
+    <item>
+      <title>be the horizon</title>
+      <description>be the horizon&lt;br&gt;in an ocean of currents&lt;br&gt;ablutions from sky</description>
+      <pubDate>Thu, 23 Oct 2025 10:30:42 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120191442-bethehorizoninan</guid>
+      <link>https://sohaiku.art/poems/120191442-bethehorizoninan</link>
+    </item>
     <item>
       <title>puddles of sunlight</title>
       <description>puddles of sunlight&lt;br&gt;come and sit with me; this day&lt;br&gt;a slow dance of white</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>117637296-asyoulookdownher</guid>
       <link>https://sohaiku.art/poems/117637296-asyoulookdownher</link>
-    </item>
-    <item>
-      <title>I breath in and out</title>
-      <description>I breath in and out&lt;br&gt;so they could all see this bird&lt;br&gt;at the oceans breath</description>
-      <pubDate>Tue, 23 Sep 2025 14:51:34 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117615094-ibreathinandout</guid>
-      <link>https://sohaiku.art/poems/117615094-ibreathinandout</link>
     </item>
   </channel>
 </rss>
