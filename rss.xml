@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 22 Oct 2025 20:21:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 03:17:58 GMT</lastBuildDate>
+    <item>
+      <title>puddles of sunlight</title>
+      <description>puddles of sunlight&lt;br&gt;come and sit with me; this day&lt;br&gt;a slow dance of white</description>
+      <pubDate>Thu, 23 Oct 2025 03:17:58 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120165478-puddlesofsunlight</guid>
+      <link>https://sohaiku.art/poems/120165478-puddlesofsunlight</link>
+    </item>
     <item>
       <title>immerse all of you</title>
       <description>immerse all of you&lt;br&gt;with the steel beams of your thoughts&lt;br&gt;to start to become</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>117615094-ibreathinandout</guid>
       <link>https://sohaiku.art/poems/117615094-ibreathinandout</link>
-    </item>
-    <item>
-      <title>in my cup, coffee</title>
-      <description>in my cup, coffee&lt;br&gt;lift into the sky above&lt;br&gt;breath in this wildwood</description>
-      <pubDate>Tue, 23 Sep 2025 08:29:35 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117592175-inmycup,coffeeli</guid>
-      <link>https://sohaiku.art/poems/117592175-inmycup,coffeeli</link>
     </item>
   </channel>
 </rss>
