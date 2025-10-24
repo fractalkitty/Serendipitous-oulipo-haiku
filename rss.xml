@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 24 Oct 2025 08:32:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 15:18:11 GMT</lastBuildDate>
+    <item>
+      <title>oh, yes, this is it!</title>
+      <description>oh, yes, this is it!&lt;br&gt;a thousand poems of you&lt;br&gt;fractal winter days</description>
+      <pubDate>Fri, 24 Oct 2025 15:18:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120295091-oh,yes,thisisit!</guid>
+      <link>https://sohaiku.art/poems/120295091-oh,yes,thisisit!</link>
+    </item>
     <item>
       <title>shadows can bring forth</title>
       <description>shadows can bring forth&lt;br&gt;like the sound of waves pulling&lt;br&gt;beauty in my home</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>117735311-doyoueverjustmy</guid>
       <link>https://sohaiku.art/poems/117735311-doyoueverjustmy</link>
-    </item>
-    <item>
-      <title>I feel all the strands</title>
-      <description>I feel all the strands&lt;br&gt;closest to the sun today&lt;br&gt;one drop fills my soul</description>
-      <pubDate>Wed, 24 Sep 2025 18:12:02 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117713522-ifeelallthestran</guid>
-      <link>https://sohaiku.art/poems/117713522-ifeelallthestran</link>
     </item>
   </channel>
 </rss>
