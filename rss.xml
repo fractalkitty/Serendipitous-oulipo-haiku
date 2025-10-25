@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 25 Oct 2025 03:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 09:30:48 GMT</lastBuildDate>
+    <item>
+      <title>sometimes you long to</title>
+      <description>sometimes you long to&lt;br&gt;beneath the trees, sun, and moon&lt;br&gt;beneath your breath — “spring”</description>
+      <pubDate>Sat, 25 Oct 2025 09:30:47 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120360647-sometimesyoulongt</guid>
+      <link>https://sohaiku.art/poems/120360647-sometimesyoulongt</link>
+    </item>
     <item>
       <title>a puddle can seem</title>
       <description>a puddle can seem&lt;br&gt;together in solitude&lt;br&gt;blooming in my sill</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>117807142-oh,oystercatcherg</guid>
       <link>https://sohaiku.art/poems/117807142-oh,oystercatcherg</link>
-    </item>
-    <item>
-      <title>“it’s the hill your on”</title>
-      <description>“it’s the hill your on”&lt;br&gt;swiftly move with such volume&lt;br&gt;together a seed</description>
-      <pubDate>Thu, 25 Sep 2025 14:12:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117785531-“it’sthehillyour</guid>
-      <link>https://sohaiku.art/poems/117785531-“it’sthehillyour</link>
     </item>
   </channel>
 </rss>
