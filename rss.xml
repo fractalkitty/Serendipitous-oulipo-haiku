@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 25 Oct 2025 09:30:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 15:56:43 GMT</lastBuildDate>
+    <item>
+      <title>vortex of petals</title>
+      <description>vortex of petals&lt;br&gt;in the rain beneath this sky&lt;br&gt;but, sometimes I break</description>
+      <pubDate>Sat, 25 Oct 2025 15:56:43 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120383803-vortexofpetalsin</guid>
+      <link>https://sohaiku.art/poems/120383803-vortexofpetalsin</link>
+    </item>
     <item>
       <title>sometimes you long to</title>
       <description>sometimes you long to&lt;br&gt;beneath the trees, sun, and moon&lt;br&gt;beneath your breath — “spring”</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>117832491-thecurrentsofgees</guid>
       <link>https://sohaiku.art/poems/117832491-thecurrentsofgees</link>
-    </item>
-    <item>
-      <title>oh, oyster catcher</title>
-      <description>oh, oyster catcher&lt;br&gt;gulping berries at sun set&lt;br&gt;reflect and renew</description>
-      <pubDate>Thu, 25 Sep 2025 20:12:22 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117807142-oh,oystercatcherg</guid>
-      <link>https://sohaiku.art/poems/117807142-oh,oystercatcherg</link>
     </item>
   </channel>
 </rss>
