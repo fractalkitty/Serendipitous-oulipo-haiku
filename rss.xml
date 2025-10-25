@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 24 Oct 2025 21:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 03:29:59 GMT</lastBuildDate>
+    <item>
+      <title>a puddle can seem</title>
+      <description>a puddle can seem&lt;br&gt;together in solitude&lt;br&gt;blooming in my sill</description>
+      <pubDate>Sat, 25 Oct 2025 03:29:59 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120338999-apuddlecanseemto</guid>
+      <link>https://sohaiku.art/poems/120338999-apuddlecanseemto</link>
+    </item>
     <item>
       <title>a Fermat spiral</title>
       <description>a Fermat spiral&lt;br&gt;that mountain ahead; summit;&lt;br&gt;wrapping around beams</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>117785531-“it’sthehillyour</guid>
       <link>https://sohaiku.art/poems/117785531-“it’sthehillyour</link>
-    </item>
-    <item>
-      <title>you gather yourself</title>
-      <description>you gather yourself&lt;br&gt;in the rain beneath this sky&lt;br&gt;shoot; despite ourselves</description>
-      <pubDate>Thu, 25 Sep 2025 06:51:42 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117759102-yougatheryourself</guid>
-      <link>https://sohaiku.art/poems/117759102-yougatheryourself</link>
     </item>
   </channel>
 </rss>
