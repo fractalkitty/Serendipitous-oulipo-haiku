@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 24 Oct 2025 15:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 21:19:11 GMT</lastBuildDate>
+    <item>
+      <title>a Fermat spiral</title>
+      <description>a Fermat spiral&lt;br&gt;that mountain ahead; summit;&lt;br&gt;wrapping around beams</description>
+      <pubDate>Fri, 24 Oct 2025 21:19:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120316751-afermatspiralthat</guid>
+      <link>https://sohaiku.art/poems/120316751-afermatspiralthat</link>
+    </item>
     <item>
       <title>oh, yes, this is it!</title>
       <description>oh, yes, this is it!&lt;br&gt;a thousand poems of you&lt;br&gt;fractal winter days</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>117759102-yougatheryourself</guid>
       <link>https://sohaiku.art/poems/117759102-yougatheryourself</link>
-    </item>
-    <item>
-      <title>do you ever just</title>
-      <description>do you ever just&lt;br&gt;my precious chickadee-dee&lt;br&gt;in this existence</description>
-      <pubDate>Thu, 25 Sep 2025 00:15:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117735311-doyoueverjustmy</guid>
-      <link>https://sohaiku.art/poems/117735311-doyoueverjustmy</link>
     </item>
   </channel>
 </rss>
