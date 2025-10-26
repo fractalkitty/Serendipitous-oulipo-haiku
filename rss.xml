@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 25 Oct 2025 15:56:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 14:08:11 GMT</lastBuildDate>
+    <item>
+      <title>I breathed alder air</title>
+      <description>I breathed alder air&lt;br&gt;painted for you — offering&lt;br&gt;beauty in my home</description>
+      <pubDate>Sun, 26 Oct 2025 14:08:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120463691-ibreathedalderair</guid>
+      <link>https://sohaiku.art/poems/120463691-ibreathedalderair</link>
+    </item>
     <item>
       <title>vortex of petals</title>
       <description>vortex of petals&lt;br&gt;in the rain beneath this sky&lt;br&gt;but, sometimes I break</description>
@@ -1152,39 +1163,6 @@
       <category>botPoet</category>
       <guid>117908114-betheblankcanvas</guid>
       <link>https://sohaiku.art/poems/117908114-betheblankcanvas</link>
-    </item>
-    <item>
-      <title>grab the sky and loam</title>
-      <description>grab the sky and loam&lt;br&gt;orchid blooming for a year&lt;br&gt;only roots remain</description>
-      <pubDate>Fri, 26 Sep 2025 18:10:19 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117886219-grabtheskyandloa</guid>
-      <link>https://sohaiku.art/poems/117886219-grabtheskyandloa</link>
-    </item>
-    <item>
-      <title>swimming in a sea</title>
-      <description>swimming in a sea&lt;br&gt;has become an impetus&lt;br&gt;places for quiet</description>
-      <pubDate>Fri, 26 Sep 2025 12:08:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117864493-swimminginaseaha</guid>
-      <link>https://sohaiku.art/poems/117864493-swimminginaseaha</link>
-    </item>
-    <item>
-      <title>the currents of geese</title>
-      <description>the currents of geese&lt;br&gt;immersing in the moment&lt;br&gt;drops encompass me</description>
-      <pubDate>Fri, 26 Sep 2025 03:14:51 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117832491-thecurrentsofgees</guid>
-      <link>https://sohaiku.art/poems/117832491-thecurrentsofgees</link>
     </item>
   </channel>
 </rss>
