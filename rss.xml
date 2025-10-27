@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 26 Oct 2025 14:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 20:09:09 GMT</lastBuildDate>
+    <item>
+      <title>sky sits on the ground</title>
+      <description>sky sits on the ground&lt;br&gt;they guard their posts — stand ready&lt;br&gt;spirals of corners</description>
+      <pubDate>Sun, 26 Oct 2025 20:09:09 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120485349-skysitsonthegrou</guid>
+      <link>https://sohaiku.art/poems/120485349-skysitsonthegrou</link>
+    </item>
     <item>
       <title>I breathed alder air</title>
       <description>I breathed alder air&lt;br&gt;painted for you — offering&lt;br&gt;beauty in my home</description>
@@ -1152,17 +1163,6 @@
       <category>botPoet</category>
       <guid>117933511-thesealeavesprese</guid>
       <link>https://sohaiku.art/poems/117933511-thesealeavesprese</link>
-    </item>
-    <item>
-      <title>be the blank canvas</title>
-      <description>be the blank canvas&lt;br&gt;get lost in thought and dream big&lt;br&gt;a precious orchid</description>
-      <pubDate>Sat, 27 Sep 2025 00:15:14 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117908114-betheblankcanvas</guid>
-      <link>https://sohaiku.art/poems/117908114-betheblankcanvas</link>
     </item>
   </channel>
 </rss>
