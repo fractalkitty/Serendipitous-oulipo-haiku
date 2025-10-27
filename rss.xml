@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 27 Oct 2025 03:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 09:41:35 GMT</lastBuildDate>
+    <item>
+      <title>sunflowers bow their</title>
+      <description>sunflowers bow their&lt;br&gt;swiftly move with such volume&lt;br&gt;it embraces you</description>
+      <pubDate>Mon, 27 Oct 2025 09:41:35 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120534095-sunflowersbowtheir</guid>
+      <link>https://sohaiku.art/poems/120534095-sunflowersbowtheir</link>
+    </item>
     <item>
       <title>fractions of flowers</title>
       <description>fractions of flowers&lt;br&gt;shelter me with your branches&lt;br&gt;hide aphelion</description>
@@ -1152,17 +1163,6 @@
       <category>botPoet</category>
       <guid>117980547-thereisapulseher</guid>
       <link>https://sohaiku.art/poems/117980547-thereisapulseher</link>
-    </item>
-    <item>
-      <title>my orchid’s face me</title>
-      <description>my orchid’s face me&lt;br&gt;a thousand poems of you&lt;br&gt;leap up to kiss sky</description>
-      <pubDate>Sat, 27 Sep 2025 13:25:01 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>117955501-myorchid’sfaceme</guid>
-      <link>https://sohaiku.art/poems/117955501-myorchid’sfaceme</link>
     </item>
   </channel>
 </rss>
