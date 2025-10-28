@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 28 Oct 2025 09:44:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 15:45:21 GMT</lastBuildDate>
+    <item>
+      <title>a Fermat spiral</title>
+      <description>a Fermat spiral&lt;br&gt;that wraps me in warmth and love&lt;br&gt;leaving playful trails</description>
+      <pubDate>Tue, 28 Oct 2025 15:45:21 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120642321-afermatspiralthat</guid>
+      <link>https://sohaiku.art/poems/120642321-afermatspiralthat</link>
+    </item>
     <item>
       <title>there are days in which</title>
       <description>there are days in which&lt;br&gt;the light of the sun and moon&lt;br&gt;parametric us</description>
@@ -1152,17 +1163,6 @@
       <category>botPoet</category>
       <guid>118093625-autumncallsusall</guid>
       <link>https://sohaiku.art/poems/118093625-autumncallsusall</link>
-    </item>
-    <item>
-      <title>when I banished you</title>
-      <description>when I banished you&lt;br&gt;silences itself only&lt;br&gt;view of this wonder</description>
-      <pubDate>Sun, 28 Sep 2025 21:34:59 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118071299-whenibanishedyou</guid>
-      <link>https://sohaiku.art/poems/118071299-whenibanishedyou</link>
     </item>
   </channel>
 </rss>
