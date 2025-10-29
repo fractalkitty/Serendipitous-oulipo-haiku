@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 29 Oct 2025 03:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 09:51:55 GMT</lastBuildDate>
+    <item>
+      <title>do we flock like Boids?</title>
+      <description>do we flock like Boids?&lt;br&gt;from life that I did not know&lt;br&gt;beauty does abound</description>
+      <pubDate>Wed, 29 Oct 2025 09:51:55 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120707515-doweflocklikeboi</guid>
+      <link>https://sohaiku.art/poems/120707515-doweflocklikeboi</link>
+    </item>
     <item>
       <title>like the heat bubble</title>
       <description>like the heat bubble&lt;br&gt;approach ing— and yet you’re here&lt;br&gt;and breath in this life</description>
@@ -1152,17 +1163,6 @@
       <category>botPoet</category>
       <guid>118158513-somehowbloomsdofo</guid>
       <link>https://sohaiku.art/poems/118158513-somehowbloomsdofo</link>
-    </item>
-    <item>
-      <title>this path is flooded</title>
-      <description>this path is flooded&lt;br&gt;to truly reflect on you&lt;br&gt;when you get to peak</description>
-      <pubDate>Mon, 29 Sep 2025 15:48:14 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118136894-thispathisflooded</guid>
-      <link>https://sohaiku.art/poems/118136894-thispathisflooded</link>
     </item>
   </channel>
 </rss>
