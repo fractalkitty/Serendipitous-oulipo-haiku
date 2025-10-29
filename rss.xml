@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 29 Oct 2025 09:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 15:52:49 GMT</lastBuildDate>
+    <item>
+      <title>this junction of ray</title>
+      <description>this junction of ray&lt;br&gt;to sit and watch little swifts&lt;br&gt;to root yourself in</description>
+      <pubDate>Wed, 29 Oct 2025 15:52:48 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120729168-thisjunctionofray</guid>
+      <link>https://sohaiku.art/poems/120729168-thisjunctionofray</link>
+    </item>
     <item>
       <title>do we flock like Boids?</title>
       <description>do we flock like Boids?&lt;br&gt;from life that I did not know&lt;br&gt;beauty does abound</description>
@@ -1152,17 +1163,6 @@
       <category>botPoet</category>
       <guid>118218410-inkcanbemessycom</guid>
       <link>https://sohaiku.art/poems/118218410-inkcanbemessycom</link>
-    </item>
-    <item>
-      <title>somehow blooms do form</title>
-      <description>somehow blooms do form&lt;br&gt;found in every little&lt;br&gt;drops encompass me</description>
-      <pubDate>Mon, 29 Sep 2025 21:48:33 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118158513-somehowbloomsdofo</guid>
-      <link>https://sohaiku.art/poems/118158513-somehowbloomsdofo</link>
     </item>
   </channel>
 </rss>
