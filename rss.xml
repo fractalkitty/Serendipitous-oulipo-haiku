@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 28 Oct 2025 15:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 21:46:13 GMT</lastBuildDate>
+    <item>
+      <title>there are days in which</title>
+      <description>there are days in which&lt;br&gt;you yell and fight over it&lt;br&gt;in growth together</description>
+      <pubDate>Tue, 28 Oct 2025 21:46:13 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120663973-therearedaysinwh</guid>
+      <link>https://sohaiku.art/poems/120663973-therearedaysinwh</link>
+    </item>
     <item>
       <title>a Fermat spiral</title>
       <description>a Fermat spiral&lt;br&gt;that wraps me in warmth and love&lt;br&gt;leaving playful trails</description>
@@ -1152,17 +1163,6 @@
       <category>botPoet</category>
       <guid>118115258-sometimesluminance</guid>
       <link>https://sohaiku.art/poems/118115258-sometimesluminance</link>
-    </item>
-    <item>
-      <title>autumn calls us all</title>
-      <description>autumn calls us all&lt;br&gt;on dead branches among clouds&lt;br&gt;of growth beneath soil</description>
-      <pubDate>Mon, 29 Sep 2025 03:47:05 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118093625-autumncallsusall</guid>
-      <link>https://sohaiku.art/poems/118093625-autumncallsusall</link>
     </item>
   </channel>
 </rss>
