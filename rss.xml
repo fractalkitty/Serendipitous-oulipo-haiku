@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 30 Oct 2025 10:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 16:23:43 GMT</lastBuildDate>
+    <item>
+      <title>I wish I knew how</title>
+      <description>I wish I knew how&lt;br&gt;immerse me in your language&lt;br&gt;winter steps on spring</description>
+      <pubDate>Thu, 30 Oct 2025 16:23:43 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120817423-iwishiknewhowim</guid>
+      <link>https://sohaiku.art/poems/120817423-iwishiknewhowim</link>
+    </item>
     <item>
       <title>this isolation</title>
       <description>this isolation&lt;br&gt;echoes with branches in streams&lt;br&gt;of growth and decay</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>118268380-youwereinmyhands</guid>
       <link>https://sohaiku.art/poems/118268380-youwereinmyhands</link>
-    </item>
-    <item>
-      <title>coding with patterns</title>
-      <description>coding with patterns&lt;br&gt;are but loops in the garment&lt;br&gt;of an inner light</description>
-      <pubDate>Tue, 30 Sep 2025 20:36:34 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118240594-codingwithpatterns</guid>
-      <link>https://sohaiku.art/poems/118240594-codingwithpatterns</link>
     </item>
   </channel>
 </rss>
