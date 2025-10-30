@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 30 Oct 2025 04:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 10:22:51 GMT</lastBuildDate>
+    <item>
+      <title>this isolation</title>
+      <description>this isolation&lt;br&gt;echoes with branches in streams&lt;br&gt;of growth and decay</description>
+      <pubDate>Thu, 30 Oct 2025 10:22:51 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120795771-thisisolationechoe</guid>
+      <link>https://sohaiku.art/poems/120795771-thisisolationechoe</link>
+    </item>
     <item>
       <title>lichen brings color</title>
       <description>lichen brings color&lt;br&gt;rupture with flight and chorus&lt;br&gt;birds flit from my path</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>118240594-codingwithpatterns</guid>
       <link>https://sohaiku.art/poems/118240594-codingwithpatterns</link>
-    </item>
-    <item>
-      <title>ink can be messy</title>
-      <description>ink can be messy&lt;br&gt;come to hold my hand, farewell&lt;br&gt;charcoal to paper</description>
-      <pubDate>Tue, 30 Sep 2025 14:26:50 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118218410-inkcanbemessycom</guid>
-      <link>https://sohaiku.art/poems/118218410-inkcanbemessycom</link>
     </item>
   </channel>
 </rss>
