@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 31 Oct 2025 04:29:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 10:32:50 GMT</lastBuildDate>
+    <item>
+      <title>you gather yourself</title>
+      <description>you gather yourself&lt;br&gt;together, watching the birds&lt;br&gt;turning in at night</description>
+      <pubDate>Fri, 31 Oct 2025 10:32:50 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120882770-yougatheryourself</guid>
+      <link>https://sohaiku.art/poems/120882770-yougatheryourself</link>
+    </item>
     <item>
       <title>I always look up</title>
       <description>I always look up&lt;br&gt;reach, spread your canopy&lt;br&gt;mirrors for inside</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>118333266-eventhestrongestt</guid>
       <link>https://sohaiku.art/poems/118333266-eventhestrongestt</link>
-    </item>
-    <item>
-      <title>you ensure the life</title>
-      <description>you ensure the life&lt;br&gt;break free from these tangled limbs&lt;br&gt;of growth and decay</description>
-      <pubDate>Wed, 01 Oct 2025 16:20:55 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118311655-youensurethelife</guid>
-      <link>https://sohaiku.art/poems/118311655-youensurethelife</link>
     </item>
   </channel>
 </rss>
