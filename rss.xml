@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 30 Oct 2025 16:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 22:28:39 GMT</lastBuildDate>
+    <item>
+      <title>and so, here I am</title>
+      <description>and so, here I am&lt;br&gt;whisper of white oaks and fir&lt;br&gt;of this universe</description>
+      <pubDate>Thu, 30 Oct 2025 22:28:39 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120839319-andso,hereiamwh</guid>
+      <link>https://sohaiku.art/poems/120839319-andso,hereiamwh</link>
+    </item>
     <item>
       <title>I wish I knew how</title>
       <description>I wish I knew how&lt;br&gt;immerse me in your language&lt;br&gt;winter steps on spring</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>118290039-sometimesluminance</guid>
       <link>https://sohaiku.art/poems/118290039-sometimesluminance</link>
-    </item>
-    <item>
-      <title>you were in my hands</title>
-      <description>you were in my hands&lt;br&gt;the dunes of me — parallel&lt;br&gt;brightening shadows</description>
-      <pubDate>Wed, 01 Oct 2025 04:19:40 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118268380-youwereinmyhands</guid>
-      <link>https://sohaiku.art/poems/118268380-youwereinmyhands</link>
     </item>
   </channel>
 </rss>
