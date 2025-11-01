@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 31 Oct 2025 23:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 06:16:00 GMT</lastBuildDate>
+    <item>
+      <title>sunlight in canyons</title>
+      <description>sunlight in canyons&lt;br&gt;in the rain beneath this sky&lt;br&gt;announce the sunset</description>
+      <pubDate>Sat, 01 Nov 2025 06:16:00 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>120953760-sunlightincanyons</guid>
+      <link>https://sohaiku.art/poems/120953760-sunlightincanyons</link>
+    </item>
     <item>
       <title>you take off and fly</title>
       <description>you take off and fly&lt;br&gt;composite life of crutose&lt;br&gt;relax your creases</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>118399204-so,obviouslyyoupe</guid>
       <link>https://sohaiku.art/poems/118399204-so,obviouslyyoupe</link>
-    </item>
-    <item>
-      <title>play brings character</title>
-      <description>play brings character&lt;br&gt;I see you and your colors&lt;br&gt;glorious — alone</description>
-      <pubDate>Thu, 02 Oct 2025 10:26:30 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118376790-playbringscharacte</guid>
-      <link>https://sohaiku.art/poems/118376790-playbringscharacte</link>
     </item>
   </channel>
 </rss>
