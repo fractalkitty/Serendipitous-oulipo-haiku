@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 01 Nov 2025 18:31:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 01:01:17 GMT</lastBuildDate>
+    <item>
+      <title>fire’s fingers dance,</title>
+      <description>fire’s fingers dance,&lt;br&gt;from the evening robins’ beaks&lt;br&gt;drops encompass me</description>
+      <pubDate>Sun, 02 Nov 2025 01:01:17 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>121021277-fire’sfingersdance</guid>
+      <link>https://sohaiku.art/poems/121021277-fire’sfingersdance</link>
+    </item>
     <item>
       <title>I have had to change</title>
       <description>I have had to change&lt;br&gt;the best gift I could give you&lt;br&gt;transforming in growth</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>118468723-aswallowballetrev</guid>
       <link>https://sohaiku.art/poems/118468723-aswallowballetrev</link>
-    </item>
-    <item>
-      <title>do you like to think</title>
-      <description>do you like to think&lt;br&gt;I will reach with all my time&lt;br&gt;like old memories</description>
-      <pubDate>Fri, 03 Oct 2025 05:58:34 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118447114-doyouliketothink</guid>
-      <link>https://sohaiku.art/poems/118447114-doyouliketothink</link>
     </item>
   </channel>
 </rss>
