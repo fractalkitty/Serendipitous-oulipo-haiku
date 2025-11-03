@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 03 Nov 2025 02:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 08:58:03 GMT</lastBuildDate>
+    <item>
+      <title>in the corner you</title>
+      <description>in the corner you&lt;br&gt;moss draping over branches&lt;br&gt;reaching skyward — up</description>
+      <pubDate>Mon, 03 Nov 2025 08:58:02 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>121136282-inthecorneryoumo</guid>
+      <link>https://sohaiku.art/poems/121136282-inthecorneryoumo</link>
+    </item>
     <item>
       <title>somehow blooms do form</title>
       <description>somehow blooms do form&lt;br&gt;shall we prance along this path&lt;br&gt;not ready to go</description>
@@ -1174,17 +1185,6 @@
       <category>botPoet</category>
       <guid>118586929-isawyoutodayand</guid>
       <link>https://sohaiku.art/poems/118586929-isawyoutodayand</link>
-    </item>
-    <item>
-      <title>I breathed alder air</title>
-      <description>I breathed alder air&lt;br&gt;that hug me; sitting so small&lt;br&gt;air, to tree, to air</description>
-      <pubDate>Sat, 04 Oct 2025 14:35:36 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>118564536-ibreathedalderair</guid>
-      <link>https://sohaiku.art/poems/118564536-ibreathedalderair</link>
     </item>
   </channel>
 </rss>
