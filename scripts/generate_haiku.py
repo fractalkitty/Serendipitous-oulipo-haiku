@@ -1337,6 +1337,7 @@ def main():
     print(haiku['content'])
     print(f"Generated at: {haiku['date']}")
     print(f"Total poems in archive: {len(poems)}")
+    
 
     return haiku
 
