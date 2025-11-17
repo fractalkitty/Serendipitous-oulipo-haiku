@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 17 Nov 2025 02:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 08:49:39 GMT</lastBuildDate>
+    <item>
+      <title>sometimes you just run</title>
+      <description>sometimes you just run&lt;br&gt;changing, growing, condensing&lt;br&gt;but, sometimes I break</description>
+      <pubDate>Mon, 17 Nov 2025 08:49:38 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122345378-sometimesyoujustr</guid>
+      <link>https://sohaiku.art/poems/122345378-sometimesyoujustr</link>
+    </item>
     <item>
       <title>this junction of ray</title>
       <description>this junction of ray&lt;br&gt;and the unexpected joy&lt;br&gt;for it’s what I have</description>
@@ -635,17 +646,6 @@
       <category>botPoet</category>
       <guid>119796079-isawyoutodayiny</guid>
       <link>https://sohaiku.art/poems/119796079-isawyoutodayiny</link>
-    </item>
-    <item>
-      <title>in an empty lot</title>
-      <description>in an empty lot&lt;br&gt;of dancing curves of sunshine&lt;br&gt;smile, and hands. Nana</description>
-      <pubDate>Sat, 18 Oct 2025 14:21:31 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>119773291-inanemptylotofd</guid>
-      <link>https://sohaiku.art/poems/119773291-inanemptylotofd</link>
     </item>
   </channel>
 </rss>
