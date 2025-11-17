@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 16 Nov 2025 13:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 19:53:08 GMT</lastBuildDate>
+    <item>
+      <title>simple churns of thought</title>
+      <description>simple churns of thought&lt;br&gt;that will lead you down that path&lt;br&gt;conforming to curve</description>
+      <pubDate>Sun, 16 Nov 2025 19:53:07 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122298787-simplechurnsoftho</guid>
+      <link>https://sohaiku.art/poems/122298787-simplechurnsoftho</link>
+    </item>
     <item>
       <title>together we play</title>
       <description>together we play&lt;br&gt;the tiny details abound&lt;br&gt;western wood-peewee</description>
@@ -635,17 +646,6 @@
       <category>botPoet</category>
       <guid>119748123-youmustburythings</guid>
       <link>https://sohaiku.art/poems/119748123-youmustburythings</link>
-    </item>
-    <item>
-      <title>could this day just be</title>
-      <description>could this day just be&lt;br&gt;I was enmeshed in spirals&lt;br&gt;versions you can be</description>
-      <pubDate>Sat, 18 Oct 2025 01:02:29 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>119725349-couldthisdayjust</guid>
-      <link>https://sohaiku.art/poems/119725349-couldthisdayjust</link>
     </item>
   </channel>
 </rss>
