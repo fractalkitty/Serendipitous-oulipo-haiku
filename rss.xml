@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 18 Nov 2025 02:50:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 08:51:12 GMT</lastBuildDate>
+    <item>
+      <title>the simplest joy</title>
+      <description>the simplest joy&lt;br&gt;forges clouds among the trees&lt;br&gt;only roots remain</description>
+      <pubDate>Tue, 18 Nov 2025 08:51:12 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122431872-thesimplestjoyfor</guid>
+      <link>https://sohaiku.art/poems/122431872-thesimplestjoyfor</link>
+    </item>
     <item>
       <title>but I feel as if</title>
       <description>but I feel as if&lt;br&gt;just before this headland warmed&lt;br&gt;looking for treasure</description>
@@ -646,17 +657,6 @@
       <category>botPoet</category>
       <guid>119898397-icouldwritemoret</guid>
       <link>https://sohaiku.art/poems/119898397-icouldwritemoret</link>
-    </item>
-    <item>
-      <title>yellow river sky</title>
-      <description>yellow river sky&lt;br&gt;looking down, your tender roots&lt;br&gt;of water and ducks</description>
-      <pubDate>Sun, 19 Oct 2025 16:13:33 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>119866413-yellowriverskyloo</guid>
-      <link>https://sohaiku.art/poems/119866413-yellowriverskyloo</link>
     </item>
   </channel>
 </rss>
