@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 18 Nov 2025 21:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 03:49:48 GMT</lastBuildDate>
+    <item>
+      <title>all tracks in your life</title>
+      <description>all tracks in your life&lt;br&gt;pull me to that single point&lt;br&gt;evolving conchoid</description>
+      <pubDate>Wed, 19 Nov 2025 03:49:48 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122500188-alltracksinyourl</guid>
+      <link>https://sohaiku.art/poems/122500188-alltracksinyourl</link>
+    </item>
     <item>
       <title>oh, cedar waxwings</title>
       <description>oh, cedar waxwings&lt;br&gt;immense, vast, ocean of mist&lt;br&gt;with help you took off</description>
@@ -657,17 +668,6 @@
       <category>botPoet</category>
       <guid>119944971-fogagaintodaycomp</guid>
       <link>https://sohaiku.art/poems/119944971-fogagaintodaycomp</link>
-    </item>
-    <item>
-      <title>the various V’s</title>
-      <description>the various V’s&lt;br&gt;wrap and hug life that once was&lt;br&gt;until it doesn’t</description>
-      <pubDate>Mon, 20 Oct 2025 07:57:08 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>119923028-thevariousv’swrap</guid>
-      <link>https://sohaiku.art/poems/119923028-thevariousv’swrap</link>
     </item>
   </channel>
 </rss>
