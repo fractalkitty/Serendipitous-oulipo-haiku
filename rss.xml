@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 18 Nov 2025 15:00:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 21:00:32 GMT</lastBuildDate>
+    <item>
+      <title>oh, cedar waxwings</title>
+      <description>oh, cedar waxwings&lt;br&gt;immense, vast, ocean of mist&lt;br&gt;with help you took off</description>
+      <pubDate>Tue, 18 Nov 2025 21:00:32 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122475632-oh,cedarwaxwingsi</guid>
+      <link>https://sohaiku.art/poems/122475632-oh,cedarwaxwingsi</link>
+    </item>
     <item>
       <title>sometimes your anthers</title>
       <description>sometimes your anthers&lt;br&gt;I feel their anxiety&lt;br&gt;so that I may flow</description>
@@ -657,17 +668,6 @@
       <category>botPoet</category>
       <guid>119923028-thevariousv’swrap</guid>
       <link>https://sohaiku.art/poems/119923028-thevariousv’swrap</link>
-    </item>
-    <item>
-      <title>I could write more than</title>
-      <description>I could write more than&lt;br&gt;moss draping over branches&lt;br&gt;filtered solar light</description>
-      <pubDate>Mon, 20 Oct 2025 01:06:37 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>119898397-icouldwritemoret</guid>
-      <link>https://sohaiku.art/poems/119898397-icouldwritemoret</link>
     </item>
   </channel>
 </rss>
