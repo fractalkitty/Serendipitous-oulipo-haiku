@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 19 Nov 2025 09:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 15:51:49 GMT</lastBuildDate>
+    <item>
+      <title>why isn’t solstice</title>
+      <description>why isn’t solstice&lt;br&gt;the most beautiful pattern&lt;br&gt;the eddies of life</description>
+      <pubDate>Wed, 19 Nov 2025 15:51:49 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122543509-whyisn’tsolsticet</guid>
+      <link>https://sohaiku.art/poems/122543509-whyisn’tsolsticet</link>
+    </item>
     <item>
       <title>there are days in which</title>
       <description>there are days in which&lt;br&gt;your eyes wide open to see&lt;br&gt;glorious — alone</description>
@@ -657,17 +668,6 @@
       <category>botPoet</category>
       <guid>119988851-liftyourselfwithb</guid>
       <link>https://sohaiku.art/poems/119988851-liftyourselfwithb</link>
-    </item>
-    <item>
-      <title>there’s this ritual</title>
-      <description>there’s this ritual&lt;br&gt;the best gift I could give you&lt;br&gt;utter abundance</description>
-      <pubDate>Mon, 20 Oct 2025 20:08:41 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>119966921-there’sthisritual</guid>
-      <link>https://sohaiku.art/poems/119966921-there’sthisritual</link>
     </item>
   </channel>
 </rss>
