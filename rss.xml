@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 20 Nov 2025 03:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 09:54:45 GMT</lastBuildDate>
+    <item>
+      <title>non-linear time</title>
+      <description>non-linear time&lt;br&gt;ripples from raindrops expand&lt;br&gt;make a space for this</description>
+      <pubDate>Thu, 20 Nov 2025 09:54:45 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122608485-non-lineartimeripp</guid>
+      <link>https://sohaiku.art/poems/122608485-non-lineartimeripp</link>
+    </item>
     <item>
       <title>the forget-me-nots</title>
       <description>the forget-me-nots&lt;br&gt;heavy heads in reverence&lt;br&gt;another planet</description>
@@ -657,17 +668,6 @@
       <category>botPoet</category>
       <guid>120054574-iwishiknewhowpu</guid>
       <link>https://sohaiku.art/poems/120054574-iwishiknewhowpu</link>
-    </item>
-    <item>
-      <title>a beautiful Run</title>
-      <description>a beautiful Run&lt;br&gt;take a breath and do something&lt;br&gt;trailing a mother</description>
-      <pubDate>Tue, 21 Oct 2025 14:24:19 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120032659-abeautifulruntake</guid>
-      <link>https://sohaiku.art/poems/120032659-abeautifulruntake</link>
     </item>
   </channel>
 </rss>
