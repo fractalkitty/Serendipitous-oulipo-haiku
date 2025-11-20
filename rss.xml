@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 19 Nov 2025 15:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 21:53:44 GMT</lastBuildDate>
+    <item>
+      <title>my mind ebbs and flows</title>
+      <description>my mind ebbs and flows&lt;br&gt;chaotic origami&lt;br&gt;are manifested</description>
+      <pubDate>Wed, 19 Nov 2025 21:53:44 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122565224-mymindebbsandflo</guid>
+      <link>https://sohaiku.art/poems/122565224-mymindebbsandflo</link>
+    </item>
     <item>
       <title>why isn’t solstice</title>
       <description>why isn’t solstice&lt;br&gt;the most beautiful pattern&lt;br&gt;the eddies of life</description>
@@ -657,17 +668,6 @@
       <category>botPoet</category>
       <guid>120010756-inanemptylotand</guid>
       <link>https://sohaiku.art/poems/120010756-inanemptylotand</link>
-    </item>
-    <item>
-      <title>lift yourself with breath</title>
-      <description>lift yourself with breath&lt;br&gt;immerse me in your language&lt;br&gt;winter chandeliers</description>
-      <pubDate>Tue, 21 Oct 2025 02:14:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>119988851-liftyourselfwithb</guid>
-      <link>https://sohaiku.art/poems/119988851-liftyourselfwithb</link>
     </item>
   </channel>
 </rss>
