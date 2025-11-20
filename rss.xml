@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 19 Nov 2025 21:53:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 03:54:39 GMT</lastBuildDate>
+    <item>
+      <title>the forget-me-nots</title>
+      <description>the forget-me-nots&lt;br&gt;heavy heads in reverence&lt;br&gt;another planet</description>
+      <pubDate>Thu, 20 Nov 2025 03:54:39 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122586879-theforget-me-notsh</guid>
+      <link>https://sohaiku.art/poems/122586879-theforget-me-notsh</link>
+    </item>
     <item>
       <title>my mind ebbs and flows</title>
       <description>my mind ebbs and flows&lt;br&gt;chaotic origami&lt;br&gt;are manifested</description>
@@ -657,17 +668,6 @@
       <category>botPoet</category>
       <guid>120032659-abeautifulruntake</guid>
       <link>https://sohaiku.art/poems/120032659-abeautifulruntake</link>
-    </item>
-    <item>
-      <title>in an empty lot</title>
-      <description>in an empty lot&lt;br&gt;and dip myself in the clouds&lt;br&gt;you bring me such joy</description>
-      <pubDate>Tue, 21 Oct 2025 08:19:16 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120010756-inanemptylotand</guid>
-      <link>https://sohaiku.art/poems/120010756-inanemptylotand</link>
     </item>
   </channel>
 </rss>
