@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 21 Nov 2025 23:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 05:15:01 GMT</lastBuildDate>
+    <item>
+      <title>little hummingbird</title>
+      <description>little hummingbird&lt;br&gt;with the steel beams of your thoughts&lt;br&gt;when you get to peak</description>
+      <pubDate>Sat, 22 Nov 2025 05:15:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122764501-littlehummingbirdw</guid>
+      <link>https://sohaiku.art/poems/122764501-littlehummingbirdw</link>
+    </item>
     <item>
       <title>black, soft, powder stick</title>
       <description>black, soft, powder stick&lt;br&gt;lead you to the horizon&lt;br&gt;due to gratitude</description>
@@ -668,17 +679,6 @@
       <category>botPoet</category>
       <guid>120214716-youharborbeautya</guid>
       <link>https://sohaiku.art/poems/120214716-youharborbeautya</link>
-    </item>
-    <item>
-      <title>be the horizon</title>
-      <description>be the horizon&lt;br&gt;in an ocean of currents&lt;br&gt;ablutions from sky</description>
-      <pubDate>Thu, 23 Oct 2025 10:30:42 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120191442-bethehorizoninan</guid>
-      <link>https://sohaiku.art/poems/120191442-bethehorizoninan</link>
     </item>
   </channel>
 </rss>
