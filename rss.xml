@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 21 Nov 2025 10:59:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 17:00:26 GMT</lastBuildDate>
+    <item>
+      <title>laying on my back</title>
+      <description>laying on my back&lt;br&gt;in and out of your being&lt;br&gt;look at what’s in reach</description>
+      <pubDate>Fri, 21 Nov 2025 17:00:26 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122720426-layingonmybackin</guid>
+      <link>https://sohaiku.art/poems/122720426-layingonmybackin</link>
+    </item>
     <item>
       <title>happiness is now</title>
       <description>happiness is now&lt;br&gt;scintillate with the soft breeze&lt;br&gt;on the forest floor</description>
@@ -668,17 +679,6 @@
       <category>botPoet</category>
       <guid>120165478-puddlesofsunlight</guid>
       <link>https://sohaiku.art/poems/120165478-puddlesofsunlight</link>
-    </item>
-    <item>
-      <title>immerse all of you</title>
-      <description>immerse all of you&lt;br&gt;with the steel beams of your thoughts&lt;br&gt;to start to become</description>
-      <pubDate>Wed, 22 Oct 2025 20:21:15 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120140475-immerseallofyouw</guid>
-      <link>https://sohaiku.art/poems/120140475-immerseallofyouw</link>
     </item>
   </channel>
 </rss>
