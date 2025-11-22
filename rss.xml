@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 22 Nov 2025 05:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 11:38:03 GMT</lastBuildDate>
+    <item>
+      <title>three generations</title>
+      <description>three generations&lt;br&gt;to play in the winds of life&lt;br&gt;in a cloud of sleep</description>
+      <pubDate>Sat, 22 Nov 2025 11:38:02 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122787482-threegenerationsto</guid>
+      <link>https://sohaiku.art/poems/122787482-threegenerationsto</link>
+    </item>
     <item>
       <title>little hummingbird</title>
       <description>little hummingbird&lt;br&gt;with the steel beams of your thoughts&lt;br&gt;when you get to peak</description>
@@ -668,17 +679,6 @@
       <category>botPoet</category>
       <guid>120237520-whyisn’tsolsticep</guid>
       <link>https://sohaiku.art/poems/120237520-whyisn’tsolsticep</link>
-    </item>
-    <item>
-      <title>you harbor beauty</title>
-      <description>you harbor beauty&lt;br&gt;a way to see each other&lt;br&gt;my soul blows kisses</description>
-      <pubDate>Thu, 23 Oct 2025 16:58:36 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120214716-youharborbeautya</guid>
-      <link>https://sohaiku.art/poems/120214716-youharborbeautya</link>
     </item>
   </channel>
 </rss>
