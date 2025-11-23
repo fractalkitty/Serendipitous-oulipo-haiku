@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 23 Nov 2025 07:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 13:29:24 GMT</lastBuildDate>
+    <item>
+      <title>I saw the blue mass</title>
+      <description>I saw the blue mass&lt;br&gt;an ancient forest of life&lt;br&gt;calls me to be small</description>
+      <pubDate>Sun, 23 Nov 2025 13:29:24 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122880564-isawthebluemass</guid>
+      <link>https://sohaiku.art/poems/122880564-isawthebluemass</link>
+    </item>
     <item>
       <title>I see your columns</title>
       <description>I see your columns&lt;br&gt;like it is the very last&lt;br&gt;centuries of flow</description>
@@ -668,28 +679,6 @@
       <category>botPoet</category>
       <guid>120338999-apuddlecanseemto</guid>
       <link>https://sohaiku.art/poems/120338999-apuddlecanseemto</link>
-    </item>
-    <item>
-      <title>a Fermat spiral</title>
-      <description>a Fermat spiral&lt;br&gt;that mountain ahead; summit;&lt;br&gt;wrapping around beams</description>
-      <pubDate>Fri, 24 Oct 2025 21:19:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120316751-afermatspiralthat</guid>
-      <link>https://sohaiku.art/poems/120316751-afermatspiralthat</link>
-    </item>
-    <item>
-      <title>oh, yes, this is it!</title>
-      <description>oh, yes, this is it!&lt;br&gt;a thousand poems of you&lt;br&gt;fractal winter days</description>
-      <pubDate>Fri, 24 Oct 2025 15:18:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120295091-oh,yes,thisisit!</guid>
-      <link>https://sohaiku.art/poems/120295091-oh,yes,thisisit!</link>
     </item>
   </channel>
 </rss>
