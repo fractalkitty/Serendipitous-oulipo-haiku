@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 22 Nov 2025 11:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 18:03:26 GMT</lastBuildDate>
+    <item>
+      <title>you gather to speak</title>
+      <description>you gather to speak&lt;br&gt;run your fingers through this sand&lt;br&gt;at the tops of trees</description>
+      <pubDate>Sat, 22 Nov 2025 18:03:26 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122810606-yougathertospeak</guid>
+      <link>https://sohaiku.art/poems/122810606-yougathertospeak</link>
+    </item>
     <item>
       <title>three generations</title>
       <description>three generations&lt;br&gt;to play in the winds of life&lt;br&gt;in a cloud of sleep</description>
@@ -668,17 +679,6 @@
       <category>botPoet</category>
       <guid>120270762-shadowscanbringfo</guid>
       <link>https://sohaiku.art/poems/120270762-shadowscanbringfo</link>
-    </item>
-    <item>
-      <title>why isn’t solstice</title>
-      <description>why isn’t solstice&lt;br&gt;perfect, beautiful flowers&lt;br&gt;spores of seasons’ growth</description>
-      <pubDate>Thu, 23 Oct 2025 23:18:40 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120237520-whyisn’tsolsticep</guid>
-      <link>https://sohaiku.art/poems/120237520-whyisn’tsolsticep</link>
     </item>
   </channel>
 </rss>
