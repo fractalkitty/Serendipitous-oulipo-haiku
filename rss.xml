@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 24 Nov 2025 03:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 09:28:12 GMT</lastBuildDate>
+    <item>
+      <title>soak in your warm bath</title>
+      <description>soak in your warm bath&lt;br&gt;like the sound of waves pulling&lt;br&gt;wrapping around beams</description>
+      <pubDate>Mon, 24 Nov 2025 09:28:12 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>122952492-soakinyourwarmba</guid>
+      <link>https://sohaiku.art/poems/122952492-soakinyourwarmba</link>
+    </item>
     <item>
       <title>geometric egg</title>
       <description>geometric egg&lt;br&gt;the year’s end or beginning&lt;br&gt;branches reach, yearning</description>
@@ -668,17 +679,6 @@
       <category>botPoet</category>
       <guid>120463691-ibreathedalderair</guid>
       <link>https://sohaiku.art/poems/120463691-ibreathedalderair</link>
-    </item>
-    <item>
-      <title>vortex of petals</title>
-      <description>vortex of petals&lt;br&gt;in the rain beneath this sky&lt;br&gt;but, sometimes I break</description>
-      <pubDate>Sat, 25 Oct 2025 15:56:43 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120383803-vortexofpetalsin</guid>
-      <link>https://sohaiku.art/poems/120383803-vortexofpetalsin</link>
     </item>
   </channel>
 </rss>
