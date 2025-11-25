@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 25 Nov 2025 05:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 11:11:55 GMT</lastBuildDate>
+    <item>
+      <title>the most precious things</title>
+      <description>the most precious things&lt;br&gt;dew that has settled on life&lt;br&gt;I grew it for you</description>
+      <pubDate>Tue, 25 Nov 2025 11:11:55 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123045115-themostpreciousth</guid>
+      <link>https://sohaiku.art/poems/123045115-themostpreciousth</link>
+    </item>
     <item>
       <title>ocean sand ridges</title>
       <description>ocean sand ridges&lt;br&gt;that mountain ahead; summit;&lt;br&gt;to tuck me in — dream</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120485349-skysitsonthegrou</guid>
       <link>https://sohaiku.art/poems/120485349-skysitsonthegrou</link>
-    </item>
-    <item>
-      <title>I breathed alder air</title>
-      <description>I breathed alder air&lt;br&gt;painted for you — offering&lt;br&gt;beauty in my home</description>
-      <pubDate>Sun, 26 Oct 2025 14:08:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120463691-ibreathedalderair</guid>
-      <link>https://sohaiku.art/poems/120463691-ibreathedalderair</link>
     </item>
   </channel>
 </rss>
