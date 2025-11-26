@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 25 Nov 2025 11:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 17:14:08 GMT</lastBuildDate>
+    <item>
+      <title>you gather right there</title>
+      <description>you gather right there&lt;br&gt;makes me feel like a kitten&lt;br&gt;in the winter sun</description>
+      <pubDate>Tue, 25 Nov 2025 17:14:08 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123066848-yougatherrightthe</guid>
+      <link>https://sohaiku.art/poems/123066848-yougatherrightthe</link>
+    </item>
     <item>
       <title>the most precious things</title>
       <description>the most precious things&lt;br&gt;dew that has settled on life&lt;br&gt;I grew it for you</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120512489-fractionsofflowers</guid>
       <link>https://sohaiku.art/poems/120512489-fractionsofflowers</link>
-    </item>
-    <item>
-      <title>sky sits on the ground</title>
-      <description>sky sits on the ground&lt;br&gt;they guard their posts — stand ready&lt;br&gt;spirals of corners</description>
-      <pubDate>Sun, 26 Oct 2025 20:09:09 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120485349-skysitsonthegrou</guid>
-      <link>https://sohaiku.art/poems/120485349-skysitsonthegrou</link>
     </item>
   </channel>
 </rss>
