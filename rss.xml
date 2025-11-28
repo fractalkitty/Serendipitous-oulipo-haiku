@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 28 Nov 2025 00:56:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 07:02:51 GMT</lastBuildDate>
+    <item>
+      <title>sine waves in the clouds</title>
+      <description>sine waves in the clouds&lt;br&gt;that your trail will not be full&lt;br&gt;so wondrously new</description>
+      <pubDate>Fri, 28 Nov 2025 07:02:51 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123289371-sinewavesinthecl</guid>
+      <link>https://sohaiku.art/poems/123289371-sinewavesinthecl</link>
+    </item>
     <item>
       <title>the seven of them</title>
       <description>the seven of them&lt;br&gt;ripples from raindrops expand&lt;br&gt;are we not of space?</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120729168-thisjunctionofray</guid>
       <link>https://sohaiku.art/poems/120729168-thisjunctionofray</link>
-    </item>
-    <item>
-      <title>do we flock like Boids?</title>
-      <description>do we flock like Boids?&lt;br&gt;from life that I did not know&lt;br&gt;beauty does abound</description>
-      <pubDate>Wed, 29 Oct 2025 09:51:55 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120707515-doweflocklikeboi</guid>
-      <link>https://sohaiku.art/poems/120707515-doweflocklikeboi</link>
     </item>
   </channel>
 </rss>
