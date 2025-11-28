@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 27 Nov 2025 18:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 00:56:20 GMT</lastBuildDate>
+    <item>
+      <title>the seven of them</title>
+      <description>the seven of them&lt;br&gt;ripples from raindrops expand&lt;br&gt;are we not of space?</description>
+      <pubDate>Fri, 28 Nov 2025 00:56:20 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123267380-thesevenofthemri</guid>
+      <link>https://sohaiku.art/poems/123267380-thesevenofthemri</link>
+    </item>
     <item>
       <title>some of these rivers</title>
       <description>some of these rivers&lt;br&gt;so delicate and hidden&lt;br&gt;as the darkness came</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120707515-doweflocklikeboi</guid>
       <link>https://sohaiku.art/poems/120707515-doweflocklikeboi</link>
-    </item>
-    <item>
-      <title>like the heat bubble</title>
-      <description>like the heat bubble&lt;br&gt;approach ing— and yet you’re here&lt;br&gt;and breath in this life</description>
-      <pubDate>Wed, 29 Oct 2025 03:47:21 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120685641-liketheheatbubble</guid>
-      <link>https://sohaiku.art/poems/120685641-liketheheatbubble</link>
     </item>
   </channel>
 </rss>
