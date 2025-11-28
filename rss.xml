@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 27 Nov 2025 12:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 18:53:12 GMT</lastBuildDate>
+    <item>
+      <title>some of these rivers</title>
+      <description>some of these rivers&lt;br&gt;so delicate and hidden&lt;br&gt;as the darkness came</description>
+      <pubDate>Thu, 27 Nov 2025 18:53:12 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123245592-someoftheserivers</guid>
+      <link>https://sohaiku.art/poems/123245592-someoftheserivers</link>
+    </item>
     <item>
       <title>I saw you today</title>
       <description>I saw you today&lt;br&gt;your eyes wide open to see&lt;br&gt;preparing to bloom</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120685641-liketheheatbubble</guid>
       <link>https://sohaiku.art/poems/120685641-liketheheatbubble</link>
-    </item>
-    <item>
-      <title>there are days in which</title>
-      <description>there are days in which&lt;br&gt;you yell and fight over it&lt;br&gt;in growth together</description>
-      <pubDate>Tue, 28 Oct 2025 21:46:13 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120663973-therearedaysinwh</guid>
-      <link>https://sohaiku.art/poems/120663973-therearedaysinwh</link>
     </item>
   </channel>
 </rss>
