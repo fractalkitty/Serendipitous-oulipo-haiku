@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 28 Nov 2025 13:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 19:25:23 GMT</lastBuildDate>
+    <item>
+      <title>maybe all our days</title>
+      <description>maybe all our days&lt;br&gt;that you stand alone out here&lt;br&gt;tied for each refill</description>
+      <pubDate>Fri, 28 Nov 2025 19:25:23 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123333923-maybeallourdayst</guid>
+      <link>https://sohaiku.art/poems/123333923-maybeallourdayst</link>
+    </item>
     <item>
       <title>ice rains down on life</title>
       <description>ice rains down on life&lt;br&gt;of an origami quilt&lt;br&gt;absolute values</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120774046-lichenbringscolor</guid>
       <link>https://sohaiku.art/poems/120774046-lichenbringscolor</link>
-    </item>
-    <item>
-      <title>I hugged my mother</title>
-      <description>I hugged my mother&lt;br&gt;immense, vast, ocean of mist&lt;br&gt;smile, and hands. Nana</description>
-      <pubDate>Wed, 29 Oct 2025 22:15:58 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120752158-ihuggedmymotheri</guid>
-      <link>https://sohaiku.art/poems/120752158-ihuggedmymotheri</link>
     </item>
   </channel>
 </rss>
