@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 28 Nov 2025 19:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 01:42:24 GMT</lastBuildDate>
+    <item>
+      <title>an insane loudness</title>
+      <description>an insane loudness&lt;br&gt;in the window made by rain&lt;br&gt;lemniscate in walls</description>
+      <pubDate>Sat, 29 Nov 2025 01:42:24 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123356544-aninsaneloudnessi</guid>
+      <link>https://sohaiku.art/poems/123356544-aninsaneloudnessi</link>
+    </item>
     <item>
       <title>maybe all our days</title>
       <description>maybe all our days&lt;br&gt;that you stand alone out here&lt;br&gt;tied for each refill</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120795771-thisisolationechoe</guid>
       <link>https://sohaiku.art/poems/120795771-thisisolationechoe</link>
-    </item>
-    <item>
-      <title>lichen brings color</title>
-      <description>lichen brings color&lt;br&gt;rupture with flight and chorus&lt;br&gt;birds flit from my path</description>
-      <pubDate>Thu, 30 Oct 2025 04:20:46 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120774046-lichenbringscolor</guid>
-      <link>https://sohaiku.art/poems/120774046-lichenbringscolor</link>
     </item>
   </channel>
 </rss>
