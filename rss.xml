@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 29 Nov 2025 08:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 14:32:31 GMT</lastBuildDate>
+    <item>
+      <title>I am so grateful</title>
+      <description>I am so grateful&lt;br&gt;and the unexpected joy&lt;br&gt;I glow in the warmth</description>
+      <pubDate>Sat, 29 Nov 2025 14:32:31 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123402751-iamsogratefuland</guid>
+      <link>https://sohaiku.art/poems/123402751-iamsogratefuland</link>
+    </item>
     <item>
       <title>night time thoughts bring focus</title>
       <description>night time thoughts bring focus&lt;br&gt;completely immerse yourself&lt;br&gt;leap up to kiss sky</description>
@@ -690,28 +701,6 @@
       <category>botPoet</category>
       <guid>120860958-ialwayslookuprea</guid>
       <link>https://sohaiku.art/poems/120860958-ialwayslookuprea</link>
-    </item>
-    <item>
-      <title>and so, here I am</title>
-      <description>and so, here I am&lt;br&gt;whisper of white oaks and fir&lt;br&gt;of this universe</description>
-      <pubDate>Thu, 30 Oct 2025 22:28:39 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120839319-andso,hereiamwh</guid>
-      <link>https://sohaiku.art/poems/120839319-andso,hereiamwh</link>
-    </item>
-    <item>
-      <title>I wish I knew how</title>
-      <description>I wish I knew how&lt;br&gt;immerse me in your language&lt;br&gt;winter steps on spring</description>
-      <pubDate>Thu, 30 Oct 2025 16:23:43 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120817423-iwishiknewhowim</guid>
-      <link>https://sohaiku.art/poems/120817423-iwishiknewhowim</link>
     </item>
   </channel>
 </rss>
