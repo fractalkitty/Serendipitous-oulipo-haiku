@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 30 Nov 2025 09:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 15:50:09 GMT</lastBuildDate>
+    <item>
+      <title>early morning song</title>
+      <description>early morning song&lt;br&gt;found in every little&lt;br&gt;that still my being</description>
+      <pubDate>Sun, 30 Nov 2025 15:50:09 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123493809-earlymorningsongf</guid>
+      <link>https://sohaiku.art/poems/123493809-earlymorningsongf</link>
+    </item>
     <item>
       <title>I breathed alder air</title>
       <description>I breathed alder air&lt;br&gt;you savor the wind and light&lt;br&gt;holding tight; reaching</description>
@@ -690,17 +701,6 @@
       <category>botPoet</category>
       <guid>120953760-sunlightincanyons</guid>
       <link>https://sohaiku.art/poems/120953760-sunlightincanyons</link>
-    </item>
-    <item>
-      <title>you take off and fly</title>
-      <description>you take off and fly&lt;br&gt;composite life of crutose&lt;br&gt;relax your creases</description>
-      <pubDate>Fri, 31 Oct 2025 23:12:14 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120928334-youtakeoffandfly</guid>
-      <link>https://sohaiku.art/poems/120928334-youtakeoffandfly</link>
     </item>
   </channel>
 </rss>
