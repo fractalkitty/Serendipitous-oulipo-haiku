@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 30 Nov 2025 03:37:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 09:49:47 GMT</lastBuildDate>
+    <item>
+      <title>I breathed alder air</title>
+      <description>I breathed alder air&lt;br&gt;you savor the wind and light&lt;br&gt;holding tight; reaching</description>
+      <pubDate>Sun, 30 Nov 2025 09:49:47 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123472187-ibreathedalderair</guid>
+      <link>https://sohaiku.art/poems/123472187-ibreathedalderair</link>
+    </item>
     <item>
       <title>lofty sequoia</title>
       <description>lofty sequoia&lt;br&gt;to sit and watch little swifts&lt;br&gt;only roots remain</description>
@@ -690,17 +701,6 @@
       <category>botPoet</category>
       <guid>120928334-youtakeoffandfly</guid>
       <link>https://sohaiku.art/poems/120928334-youtakeoffandfly</link>
-    </item>
-    <item>
-      <title>great white fawn lily</title>
-      <description>great white fawn lily&lt;br&gt;to remind me of your laugh,&lt;br&gt;the squirrel tail scolds</description>
-      <pubDate>Fri, 31 Oct 2025 16:50:16 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120905416-greatwhitefawnlil</guid>
-      <link>https://sohaiku.art/poems/120905416-greatwhitefawnlil</link>
     </item>
   </channel>
 </rss>
