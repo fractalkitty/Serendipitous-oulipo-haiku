@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 29 Nov 2025 20:33:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 03:37:38 GMT</lastBuildDate>
+    <item>
+      <title>lofty sequoia</title>
+      <description>lofty sequoia&lt;br&gt;to sit and watch little swifts&lt;br&gt;only roots remain</description>
+      <pubDate>Sun, 30 Nov 2025 03:37:38 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123449858-loftysequoiatosit</guid>
+      <link>https://sohaiku.art/poems/123449858-loftysequoiatosit</link>
+    </item>
     <item>
       <title>we all can transform</title>
       <description>we all can transform&lt;br&gt;configurations of flight&lt;br&gt;clouds gather to speak</description>
@@ -690,17 +701,6 @@
       <category>botPoet</category>
       <guid>120905416-greatwhitefawnlil</guid>
       <link>https://sohaiku.art/poems/120905416-greatwhitefawnlil</link>
-    </item>
-    <item>
-      <title>you gather yourself</title>
-      <description>you gather yourself&lt;br&gt;together, watching the birds&lt;br&gt;turning in at night</description>
-      <pubDate>Fri, 31 Oct 2025 10:32:50 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120882770-yougatheryourself</guid>
-      <link>https://sohaiku.art/poems/120882770-yougatheryourself</link>
     </item>
   </channel>
 </rss>
