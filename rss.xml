@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 30 Nov 2025 21:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 04:01:06 GMT</lastBuildDate>
+    <item>
+      <title>you’re my paradox</title>
+      <description>you’re my paradox&lt;br&gt;cross a bridge from the beneath&lt;br&gt;to start to become</description>
+      <pubDate>Mon, 01 Dec 2025 04:01:06 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123537666-you’remyparadoxcr</guid>
+      <link>https://sohaiku.art/poems/123537666-you’remyparadoxcr</link>
+    </item>
     <item>
       <title>the moment for tea</title>
       <description>the moment for tea&lt;br&gt;the skeletal curvature&lt;br&gt;looking for treasure</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>120976108-yourentireself—w</guid>
       <link>https://sohaiku.art/poems/120976108-yourentireself—w</link>
-    </item>
-    <item>
-      <title>sunlight in canyons</title>
-      <description>sunlight in canyons&lt;br&gt;in the rain beneath this sky&lt;br&gt;announce the sunset</description>
-      <pubDate>Sat, 01 Nov 2025 06:16:00 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120953760-sunlightincanyons</guid>
-      <link>https://sohaiku.art/poems/120953760-sunlightincanyons</link>
     </item>
   </channel>
 </rss>
