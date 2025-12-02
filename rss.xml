@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 01 Dec 2025 10:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 16:09:46 GMT</lastBuildDate>
+    <item>
+      <title>I am sorry friend</title>
+      <description>I am sorry friend&lt;br&gt;so you can hear the whispers&lt;br&gt;to keep it secure</description>
+      <pubDate>Mon, 01 Dec 2025 16:09:46 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123581386-iamsorryfriendso</guid>
+      <link>https://sohaiku.art/poems/123581386-iamsorryfriendso</link>
+    </item>
     <item>
       <title>in a full orbit</title>
       <description>in a full orbit&lt;br&gt;in fall you came, but no more&lt;br&gt;ever evolving</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>121021277-fire’sfingersdance</guid>
       <link>https://sohaiku.art/poems/121021277-fire’sfingersdance</link>
-    </item>
-    <item>
-      <title>I have had to change</title>
-      <description>I have had to change&lt;br&gt;the best gift I could give you&lt;br&gt;transforming in growth</description>
-      <pubDate>Sat, 01 Nov 2025 18:31:16 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>120997876-ihavehadtochange</guid>
-      <link>https://sohaiku.art/poems/120997876-ihavehadtochange</link>
     </item>
   </channel>
 </rss>
