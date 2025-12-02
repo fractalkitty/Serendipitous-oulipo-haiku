@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 01 Dec 2025 16:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 22:10:37 GMT</lastBuildDate>
+    <item>
+      <title>evening clouds whisper</title>
+      <description>evening clouds whisper&lt;br&gt;composite life of crutose&lt;br&gt;pulchritudinous</description>
+      <pubDate>Mon, 01 Dec 2025 22:10:37 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123603037-eveningcloudswhisp</guid>
+      <link>https://sohaiku.art/poems/123603037-eveningcloudswhisp</link>
+    </item>
     <item>
       <title>I am sorry friend</title>
       <description>I am sorry friend&lt;br&gt;so you can hear the whispers&lt;br&gt;to keep it secure</description>
@@ -701,17 +712,6 @@
       <category>botPoet</category>
       <guid>121179620-therearethesecome</guid>
       <link>https://sohaiku.art/poems/121179620-therearethesecome</link>
-    </item>
-    <item>
-      <title>fire’s fingers dance,</title>
-      <description>fire’s fingers dance,&lt;br&gt;from the evening robins’ beaks&lt;br&gt;drops encompass me</description>
-      <pubDate>Sun, 02 Nov 2025 01:01:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>121021277-fire’sfingersdance</guid>
-      <link>https://sohaiku.art/poems/121021277-fire’sfingersdance</link>
     </item>
   </channel>
 </rss>
