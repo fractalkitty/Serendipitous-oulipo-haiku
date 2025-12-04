@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 03 Dec 2025 12:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 18:09:20 GMT</lastBuildDate>
+    <item>
+      <title>pappus chains; circles</title>
+      <description>pappus chains; circles&lt;br&gt;in the cracks beneath my feet&lt;br&gt;ruffles in our time</description>
+      <pubDate>Wed, 03 Dec 2025 18:09:20 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123761360-pappuschains;circl</guid>
+      <link>https://sohaiku.art/poems/123761360-pappuschains;circl</link>
+    </item>
     <item>
       <title>bubbles have been packed</title>
       <description>bubbles have been packed&lt;br&gt;to comfort devastation&lt;br&gt;our place in the stars</description>
@@ -767,17 +778,6 @@
       <category>botPoet</category>
       <guid>121207104-lightoffersshadows</guid>
       <link>https://sohaiku.art/poems/121207104-lightoffersshadows</link>
-    </item>
-    <item>
-      <title>there are these comets</title>
-      <description>there are these comets&lt;br&gt;of earth and aether — of self&lt;br&gt;to start to become</description>
-      <pubDate>Mon, 03 Nov 2025 21:00:20 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>121179620-therearethesecome</guid>
-      <link>https://sohaiku.art/poems/121179620-therearethesecome</link>
     </item>
   </channel>
 </rss>
