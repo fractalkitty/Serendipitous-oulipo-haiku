@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 03 Dec 2025 18:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:55:33 GMT</lastBuildDate>
+    <item>
+      <title>your path can be framed</title>
+      <description>your path can be framed&lt;br&gt;together in flight and tree&lt;br&gt;fog rolls in like tide</description>
+      <pubDate>Thu, 04 Dec 2025 00:55:33 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>123785733-yourpathcanbefra</guid>
+      <link>https://sohaiku.art/poems/123785733-yourpathcanbefra</link>
+    </item>
     <item>
       <title>pappus chains; circles</title>
       <description>pappus chains; circles&lt;br&gt;in the cracks beneath my feet&lt;br&gt;ruffles in our time</description>
@@ -767,17 +778,6 @@
       <category>botPoet</category>
       <guid>122258231-gazeinreflectionf</guid>
       <link>https://sohaiku.art/poems/122258231-gazeinreflectionf</link>
-    </item>
-    <item>
-      <title>light offers shadows</title>
-      <description>light offers shadows&lt;br&gt;into the streams of the sky&lt;br&gt;connected to Earth</description>
-      <pubDate>Tue, 04 Nov 2025 04:38:24 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>121207104-lightoffersshadows</guid>
-      <link>https://sohaiku.art/poems/121207104-lightoffersshadows</link>
     </item>
   </channel>
 </rss>
