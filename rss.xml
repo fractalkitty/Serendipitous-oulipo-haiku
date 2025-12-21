@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 21 Dec 2025 05:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 12:02:01 GMT</lastBuildDate>
+    <item>
+      <title>serendipity</title>
+      <description>serendipity&lt;br&gt;earlier now. Lets us know&lt;br&gt;contrast on our path</description>
+      <pubDate>Sun, 21 Dec 2025 12:02:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125294521-serendipityearlier</guid>
+      <link>https://sohaiku.art/poems/125294521-serendipityearlier</link>
+    </item>
     <item>
       <title>on a walkabout</title>
       <description>on a walkabout&lt;br&gt;in quite moments of breath&lt;br&gt;for a sunlit hug</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122742676-black,soft,powder</guid>
       <link>https://sohaiku.art/poems/122742676-black,soft,powder</link>
-    </item>
-    <item>
-      <title>laying on my back</title>
-      <description>laying on my back&lt;br&gt;in and out of your being&lt;br&gt;look at what’s in reach</description>
-      <pubDate>Fri, 21 Nov 2025 17:00:26 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122720426-layingonmybackin</guid>
-      <link>https://sohaiku.art/poems/122720426-layingonmybackin</link>
     </item>
   </channel>
 </rss>
