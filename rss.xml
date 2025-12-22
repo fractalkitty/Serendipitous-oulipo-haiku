@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 21 Dec 2025 12:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 18:06:19 GMT</lastBuildDate>
+    <item>
+      <title>you just might feel it</title>
+      <description>you just might feel it&lt;br&gt;that wraps me in warmth and love&lt;br&gt;violet, green flight</description>
+      <pubDate>Sun, 21 Dec 2025 18:06:19 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125316379-youjustmightfeel</guid>
+      <link>https://sohaiku.art/poems/125316379-youjustmightfeel</link>
+    </item>
     <item>
       <title>serendipity</title>
       <description>serendipity&lt;br&gt;earlier now. Lets us know&lt;br&gt;contrast on our path</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122764501-littlehummingbirdw</guid>
       <link>https://sohaiku.art/poems/122764501-littlehummingbirdw</link>
-    </item>
-    <item>
-      <title>black, soft, powder stick</title>
-      <description>black, soft, powder stick&lt;br&gt;lead you to the horizon&lt;br&gt;due to gratitude</description>
-      <pubDate>Fri, 21 Nov 2025 23:11:16 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122742676-black,soft,powder</guid>
-      <link>https://sohaiku.art/poems/122742676-black,soft,powder</link>
     </item>
   </channel>
 </rss>
