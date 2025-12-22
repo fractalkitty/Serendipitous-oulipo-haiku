@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 22 Dec 2025 06:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 12:55:12 GMT</lastBuildDate>
+    <item>
+      <title>you take off and fly</title>
+      <description>you take off and fly&lt;br&gt;lift into the sky above&lt;br&gt;of utter delight</description>
+      <pubDate>Mon, 22 Dec 2025 12:55:12 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125384112-youtakeoffandfly</guid>
+      <link>https://sohaiku.art/poems/125384112-youtakeoffandfly</link>
+    </item>
     <item>
       <title>council of the crows</title>
       <description>council of the crows&lt;br&gt;I will reach with all my time&lt;br&gt;bring us forth those pearls</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122833942-plotthedevil’scur</guid>
       <link>https://sohaiku.art/poems/122833942-plotthedevil’scur</link>
-    </item>
-    <item>
-      <title>you gather to speak</title>
-      <description>you gather to speak&lt;br&gt;run your fingers through this sand&lt;br&gt;at the tops of trees</description>
-      <pubDate>Sat, 22 Nov 2025 18:03:26 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122810606-yougathertospeak</guid>
-      <link>https://sohaiku.art/poems/122810606-yougathertospeak</link>
     </item>
   </channel>
 </rss>
