@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 21 Dec 2025 18:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 00:12:09 GMT</lastBuildDate>
+    <item>
+      <title>swimming in a sea</title>
+      <description>swimming in a sea&lt;br&gt;of little feathers and down&lt;br&gt;fog rolls in like tide</description>
+      <pubDate>Mon, 22 Dec 2025 00:12:09 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125338329-swimminginaseaof</guid>
+      <link>https://sohaiku.art/poems/125338329-swimminginaseaof</link>
+    </item>
     <item>
       <title>you just might feel it</title>
       <description>you just might feel it&lt;br&gt;that wraps me in warmth and love&lt;br&gt;violet, green flight</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122787482-threegenerationsto</guid>
       <link>https://sohaiku.art/poems/122787482-threegenerationsto</link>
-    </item>
-    <item>
-      <title>little hummingbird</title>
-      <description>little hummingbird&lt;br&gt;with the steel beams of your thoughts&lt;br&gt;when you get to peak</description>
-      <pubDate>Sat, 22 Nov 2025 05:15:01 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122764501-littlehummingbirdw</guid>
-      <link>https://sohaiku.art/poems/122764501-littlehummingbirdw</link>
     </item>
   </channel>
 </rss>
