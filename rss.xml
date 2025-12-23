@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 22 Dec 2025 18:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 00:56:25 GMT</lastBuildDate>
+    <item>
+      <title>I dream that you kiss</title>
+      <description>I dream that you kiss&lt;br&gt;turbulence with breath, movement&lt;br&gt;utterly selfless</description>
+      <pubDate>Tue, 23 Dec 2025 00:56:25 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125427385-idreamthatyoukis</guid>
+      <link>https://sohaiku.art/poems/125427385-idreamthatyoukis</link>
+    </item>
     <item>
       <title>fractions of flowers</title>
       <description>fractions of flowers&lt;br&gt;but then just came anyway&lt;br&gt;to have them always</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122880564-isawthebluemass</guid>
       <link>https://sohaiku.art/poems/122880564-isawthebluemass</link>
-    </item>
-    <item>
-      <title>I see your columns</title>
-      <description>I see your columns&lt;br&gt;like it is the very last&lt;br&gt;centuries of flow</description>
-      <pubDate>Sun, 23 Nov 2025 07:13:49 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122858029-iseeyourcolumnsl</guid>
-      <link>https://sohaiku.art/poems/122858029-iseeyourcolumnsl</link>
     </item>
   </channel>
 </rss>
