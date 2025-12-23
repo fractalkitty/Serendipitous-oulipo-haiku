@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 23 Dec 2025 00:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 07:06:28 GMT</lastBuildDate>
+    <item>
+      <title>a tide of forest</title>
+      <description>a tide of forest&lt;br&gt;finding your way without sight&lt;br&gt;a focus within</description>
+      <pubDate>Tue, 23 Dec 2025 07:06:28 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125449588-atideofforestfin</guid>
+      <link>https://sohaiku.art/poems/125449588-atideofforestfin</link>
+    </item>
     <item>
       <title>I dream that you kiss</title>
       <description>I dream that you kiss&lt;br&gt;turbulence with breath, movement&lt;br&gt;utterly selfless</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122906032-withnodimensionin</guid>
       <link>https://sohaiku.art/poems/122906032-withnodimensionin</link>
-    </item>
-    <item>
-      <title>I saw the blue mass</title>
-      <description>I saw the blue mass&lt;br&gt;an ancient forest of life&lt;br&gt;calls me to be small</description>
-      <pubDate>Sun, 23 Nov 2025 13:29:24 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122880564-isawthebluemass</guid>
-      <link>https://sohaiku.art/poems/122880564-isawthebluemass</link>
     </item>
   </channel>
 </rss>
