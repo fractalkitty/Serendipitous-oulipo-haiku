@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 22 Dec 2025 12:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 18:55:29 GMT</lastBuildDate>
+    <item>
+      <title>fractions of flowers</title>
+      <description>fractions of flowers&lt;br&gt;but then just came anyway&lt;br&gt;to have them always</description>
+      <pubDate>Mon, 22 Dec 2025 18:55:29 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125405729-fractionsofflowers</guid>
+      <link>https://sohaiku.art/poems/125405729-fractionsofflowers</link>
+    </item>
     <item>
       <title>you take off and fly</title>
       <description>you take off and fly&lt;br&gt;lift into the sky above&lt;br&gt;of utter delight</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122858029-iseeyourcolumnsl</guid>
       <link>https://sohaiku.art/poems/122858029-iseeyourcolumnsl</link>
-    </item>
-    <item>
-      <title>plot the Devil’s Curve</title>
-      <description>plot the Devil’s Curve&lt;br&gt;just the other day, grape leaves&lt;br&gt;such different days</description>
-      <pubDate>Sun, 23 Nov 2025 00:32:22 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122833942-plotthedevil’scur</guid>
-      <link>https://sohaiku.art/poems/122833942-plotthedevil’scur</link>
     </item>
   </channel>
 </rss>
