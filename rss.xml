@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 23 Dec 2025 07:06:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 13:34:32 GMT</lastBuildDate>
+    <item>
+      <title>modest are the trees</title>
+      <description>modest are the trees&lt;br&gt;of moss, earth, stream, trees, and life&lt;br&gt;fog rolls in like tide</description>
+      <pubDate>Tue, 23 Dec 2025 13:34:32 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125472872-modestarethetrees</guid>
+      <link>https://sohaiku.art/poems/125472872-modestarethetrees</link>
+    </item>
     <item>
       <title>a tide of forest</title>
       <description>a tide of forest&lt;br&gt;finding your way without sight&lt;br&gt;a focus within</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122930873-geometriceggtheye</guid>
       <link>https://sohaiku.art/poems/122930873-geometriceggtheye</link>
-    </item>
-    <item>
-      <title>with no dimension</title>
-      <description>with no dimension&lt;br&gt;in your layers as they fall&lt;br&gt;the eddies of life</description>
-      <pubDate>Sun, 23 Nov 2025 20:33:52 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122906032-withnodimensionin</guid>
-      <link>https://sohaiku.art/poems/122906032-withnodimensionin</link>
     </item>
   </channel>
 </rss>
