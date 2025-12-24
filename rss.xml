@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 24 Dec 2025 09:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 15:32:06 GMT</lastBuildDate>
+    <item>
+      <title>your path can be framed</title>
+      <description>your path can be framed&lt;br&gt;that we are but on a speck&lt;br&gt;such different days</description>
+      <pubDate>Wed, 24 Dec 2025 15:32:06 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125566326-yourpathcanbefra</guid>
+      <link>https://sohaiku.art/poems/125566326-yourpathcanbefra</link>
+    </item>
     <item>
       <title>I treat my tea bag</title>
       <description>I treat my tea bag&lt;br&gt;to truly reflect on you&lt;br&gt;the spring surprises</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123023459-oceansandridgesth</guid>
       <link>https://sohaiku.art/poems/123023459-oceansandridgesth</link>
-    </item>
-    <item>
-      <title>somehow blooms do form</title>
-      <description>somehow blooms do form&lt;br&gt;will be erased by time’s tides&lt;br&gt;winter steps on spring</description>
-      <pubDate>Mon, 24 Nov 2025 22:23:05 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122998985-somehowbloomsdofo</guid>
-      <link>https://sohaiku.art/poems/122998985-somehowbloomsdofo</link>
     </item>
   </channel>
 </rss>
