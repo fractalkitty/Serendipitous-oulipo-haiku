@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 24 Dec 2025 02:57:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 09:05:12 GMT</lastBuildDate>
+    <item>
+      <title>I treat my tea bag</title>
+      <description>I treat my tea bag&lt;br&gt;to truly reflect on you&lt;br&gt;the spring surprises</description>
+      <pubDate>Wed, 24 Dec 2025 09:05:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125543111-itreatmyteabagt</guid>
+      <link>https://sohaiku.art/poems/125543111-itreatmyteabagt</link>
+    </item>
     <item>
       <title>the weight of a cloud</title>
       <description>the weight of a cloud&lt;br&gt;dew that has settled on life&lt;br&gt;quintessence being</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>122998985-somehowbloomsdofo</guid>
       <link>https://sohaiku.art/poems/122998985-somehowbloomsdofo</link>
-    </item>
-    <item>
-      <title>there are these comets</title>
-      <description>there are these comets&lt;br&gt;flow through the ocean of sky&lt;br&gt;to dwell within me</description>
-      <pubDate>Mon, 24 Nov 2025 16:15:17 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>122976917-therearethesecome</guid>
-      <link>https://sohaiku.art/poems/122976917-therearethesecome</link>
     </item>
   </channel>
 </rss>
