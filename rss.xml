@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 25 Dec 2025 10:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 16:35:10 GMT</lastBuildDate>
+    <item>
+      <title>a beautiful Run</title>
+      <description>a beautiful Run&lt;br&gt;for all of the abundance&lt;br&gt;on the azure sky</description>
+      <pubDate>Thu, 25 Dec 2025 16:35:10 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125656510-abeautifulrunfor</guid>
+      <link>https://sohaiku.art/poems/125656510-abeautifulrunfor</link>
+    </item>
     <item>
       <title>stopped my class today</title>
       <description>stopped my class today&lt;br&gt;swirls in your radiant light&lt;br&gt;waiting for sunset</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123112062-themindofachild</guid>
       <link>https://sohaiku.art/poems/123112062-themindofachild</link>
-    </item>
-    <item>
-      <title>your entire self — world</title>
-      <description>your entire self — world&lt;br&gt;origami creases you&lt;br&gt;lemniscate in walls</description>
-      <pubDate>Tue, 25 Nov 2025 23:24:15 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123089055-yourentireself—w</guid>
-      <link>https://sohaiku.art/poems/123089055-yourentireself—w</link>
     </item>
   </channel>
 </rss>
