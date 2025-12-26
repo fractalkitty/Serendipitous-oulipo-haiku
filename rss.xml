@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 25 Dec 2025 16:35:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 22:36:04 GMT</lastBuildDate>
+    <item>
+      <title>tuck your babies in</title>
+      <description>tuck your babies in&lt;br&gt;fractals into more windows&lt;br&gt;for loops in the wool</description>
+      <pubDate>Thu, 25 Dec 2025 22:36:04 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125678164-tuckyourbabiesin</guid>
+      <link>https://sohaiku.art/poems/125678164-tuckyourbabiesin</link>
+    </item>
     <item>
       <title>a beautiful Run</title>
       <description>a beautiful Run&lt;br&gt;for all of the abundance&lt;br&gt;on the azure sky</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123135002-playbringscharacte</guid>
       <link>https://sohaiku.art/poems/123135002-playbringscharacte</link>
-    </item>
-    <item>
-      <title>the mind of a child</title>
-      <description>the mind of a child&lt;br&gt;make this icosahedron&lt;br&gt;resonant with us</description>
-      <pubDate>Wed, 26 Nov 2025 05:47:42 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123112062-themindofachild</guid>
-      <link>https://sohaiku.art/poems/123112062-themindofachild</link>
     </item>
   </channel>
 </rss>
