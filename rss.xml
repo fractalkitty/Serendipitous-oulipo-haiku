@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 26 Dec 2025 05:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 11:36:21 GMT</lastBuildDate>
+    <item>
+      <title>pull that little string</title>
+      <description>pull that little string&lt;br&gt;but my distance grows in time&lt;br&gt;iota of earth</description>
+      <pubDate>Fri, 26 Dec 2025 11:36:21 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125724981-pullthatlittlestr</guid>
+      <link>https://sohaiku.art/poems/125724981-pullthatlittlestr</link>
+    </item>
     <item>
       <title>maybe all our days</title>
       <description>maybe all our days&lt;br&gt;on the floor of the forest&lt;br&gt;danced in the changed wind</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123179050-weareprojectionsg</guid>
       <link>https://sohaiku.art/poems/123179050-weareprojectionsg</link>
-    </item>
-    <item>
-      <title>you are potential</title>
-      <description>you are potential&lt;br&gt;in and out of your being&lt;br&gt;cradled by the Earth</description>
-      <pubDate>Wed, 26 Nov 2025 18:14:20 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123156860-youarepotentialin</guid>
-      <link>https://sohaiku.art/poems/123156860-youarepotentialin</link>
     </item>
   </channel>
 </rss>
