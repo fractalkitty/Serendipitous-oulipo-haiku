@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 27 Dec 2025 05:40:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 11:44:27 GMT</lastBuildDate>
+    <item>
+      <title>rain in the winter</title>
+      <description>rain in the winter&lt;br&gt;be the leaf on winter’s tree&lt;br&gt;catches the sun’s rays</description>
+      <pubDate>Sat, 27 Dec 2025 11:44:27 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125811867-raininthewinterb</guid>
+      <link>https://sohaiku.art/poems/125811867-raininthewinterb</link>
+    </item>
     <item>
       <title>some windows are but</title>
       <description>some windows are but&lt;br&gt;is but a dew drop of sky,&lt;br&gt;and empty of self</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123267380-thesevenofthemri</guid>
       <link>https://sohaiku.art/poems/123267380-thesevenofthemri</link>
-    </item>
-    <item>
-      <title>some of these rivers</title>
-      <description>some of these rivers&lt;br&gt;so delicate and hidden&lt;br&gt;as the darkness came</description>
-      <pubDate>Thu, 27 Nov 2025 18:53:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123245592-someoftheserivers</guid>
-      <link>https://sohaiku.art/poems/123245592-someoftheserivers</link>
     </item>
   </channel>
 </rss>
