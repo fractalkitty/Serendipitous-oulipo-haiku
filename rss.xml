@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 26 Dec 2025 17:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 23:37:01 GMT</lastBuildDate>
+    <item>
+      <title>I know what you are!</title>
+      <description>I know what you are!&lt;br&gt;chaotic origami&lt;br&gt;a slow dance of white</description>
+      <pubDate>Fri, 26 Dec 2025 23:37:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125768221-iknowwhatyouare!</guid>
+      <link>https://sohaiku.art/poems/125768221-iknowwhatyouare!</link>
+    </item>
     <item>
       <title>my luck dragon came</title>
       <description>my luck dragon came&lt;br&gt;heavy heads in reverence&lt;br&gt;dreading suffering</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123223332-isawyoutodayyour</guid>
       <link>https://sohaiku.art/poems/123223332-isawyoutodayyour</link>
-    </item>
-    <item>
-      <title>our days are fractals</title>
-      <description>our days are fractals&lt;br&gt;on the forest floor — I feel&lt;br&gt;and eddies of life</description>
-      <pubDate>Thu, 27 Nov 2025 06:32:51 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123201171-ourdaysarefractal</guid>
-      <link>https://sohaiku.art/poems/123201171-ourdaysarefractal</link>
     </item>
   </channel>
 </rss>
