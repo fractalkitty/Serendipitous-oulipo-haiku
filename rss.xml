@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 26 Dec 2025 11:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 17:36:37 GMT</lastBuildDate>
+    <item>
+      <title>my luck dragon came</title>
+      <description>my luck dragon came&lt;br&gt;heavy heads in reverence&lt;br&gt;dreading suffering</description>
+      <pubDate>Fri, 26 Dec 2025 17:36:37 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125746597-myluckdragoncame</guid>
+      <link>https://sohaiku.art/poems/125746597-myluckdragoncame</link>
+    </item>
     <item>
       <title>pull that little string</title>
       <description>pull that little string&lt;br&gt;but my distance grows in time&lt;br&gt;iota of earth</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123201171-ourdaysarefractal</guid>
       <link>https://sohaiku.art/poems/123201171-ourdaysarefractal</link>
-    </item>
-    <item>
-      <title>we are projections</title>
-      <description>we are projections&lt;br&gt;glazing ice on leaf and limb&lt;br&gt;warmth from radiance</description>
-      <pubDate>Thu, 27 Nov 2025 00:24:10 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123179050-weareprojectionsg</guid>
-      <link>https://sohaiku.art/poems/123179050-weareprojectionsg</link>
     </item>
   </channel>
 </rss>
