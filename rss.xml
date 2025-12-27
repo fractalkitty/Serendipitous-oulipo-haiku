@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 26 Dec 2025 23:37:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 05:40:08 GMT</lastBuildDate>
+    <item>
+      <title>some windows are but</title>
+      <description>some windows are but&lt;br&gt;is but a dew drop of sky,&lt;br&gt;and empty of self</description>
+      <pubDate>Sat, 27 Dec 2025 05:40:08 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125790008-somewindowsarebut</guid>
+      <link>https://sohaiku.art/poems/125790008-somewindowsarebut</link>
+    </item>
     <item>
       <title>I know what you are!</title>
       <description>I know what you are!&lt;br&gt;chaotic origami&lt;br&gt;a slow dance of white</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123245592-someoftheserivers</guid>
       <link>https://sohaiku.art/poems/123245592-someoftheserivers</link>
-    </item>
-    <item>
-      <title>I saw you today</title>
-      <description>I saw you today&lt;br&gt;your eyes wide open to see&lt;br&gt;preparing to bloom</description>
-      <pubDate>Thu, 27 Nov 2025 12:42:12 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123223332-isawyoutodayyour</guid>
-      <link>https://sohaiku.art/poems/123223332-isawyoutodayyour</link>
     </item>
   </channel>
 </rss>
