@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 28 Dec 2025 00:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 06:25:24 GMT</lastBuildDate>
+    <item>
+      <title>you were in my hands</title>
+      <description>you were in my hands&lt;br&gt;between points into a void&lt;br&gt;closer to the light</description>
+      <pubDate>Sun, 28 Dec 2025 06:25:24 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125879124-youwereinmyhands</guid>
+      <link>https://sohaiku.art/poems/125879124-youwereinmyhands</link>
+    </item>
     <item>
       <title>sing to the kitties</title>
       <description>sing to the kitties&lt;br&gt;that wraps me in warmth and love&lt;br&gt;charcoal to paper</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123333923-maybeallourdayst</guid>
       <link>https://sohaiku.art/poems/123333923-maybeallourdayst</link>
-    </item>
-    <item>
-      <title>ice rains down on life</title>
-      <description>ice rains down on life&lt;br&gt;of an origami quilt&lt;br&gt;absolute values</description>
-      <pubDate>Fri, 28 Nov 2025 13:03:04 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123310984-icerainsdownonli</guid>
-      <link>https://sohaiku.art/poems/123310984-icerainsdownonli</link>
     </item>
   </channel>
 </rss>
