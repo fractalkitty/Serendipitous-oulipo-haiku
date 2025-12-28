@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 28 Dec 2025 06:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 12:33:02 GMT</lastBuildDate>
+    <item>
+      <title>geometric egg</title>
+      <description>geometric egg&lt;br&gt;you tripped me, floating there. but&lt;br&gt;quintessence being</description>
+      <pubDate>Sun, 28 Dec 2025 12:33:02 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125901182-geometriceggyoutr</guid>
+      <link>https://sohaiku.art/poems/125901182-geometriceggyoutr</link>
+    </item>
     <item>
       <title>you were in my hands</title>
       <description>you were in my hands&lt;br&gt;between points into a void&lt;br&gt;closer to the light</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123356544-aninsaneloudnessi</guid>
       <link>https://sohaiku.art/poems/123356544-aninsaneloudnessi</link>
-    </item>
-    <item>
-      <title>maybe all our days</title>
-      <description>maybe all our days&lt;br&gt;that you stand alone out here&lt;br&gt;tied for each refill</description>
-      <pubDate>Fri, 28 Nov 2025 19:25:23 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123333923-maybeallourdayst</guid>
-      <link>https://sohaiku.art/poems/123333923-maybeallourdayst</link>
     </item>
   </channel>
 </rss>
