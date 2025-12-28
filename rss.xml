@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 27 Dec 2025 17:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 00:18:07 GMT</lastBuildDate>
+    <item>
+      <title>sing to the kitties</title>
+      <description>sing to the kitties&lt;br&gt;that wraps me in warmth and love&lt;br&gt;charcoal to paper</description>
+      <pubDate>Sun, 28 Dec 2025 00:18:07 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125857087-singtothekitties</guid>
+      <link>https://sohaiku.art/poems/125857087-singtothekitties</link>
+    </item>
     <item>
       <title>like glaciers in spring</title>
       <description>like glaciers in spring&lt;br&gt;to feel this — a precious earth&lt;br&gt;critical moments</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123310984-icerainsdownonli</guid>
       <link>https://sohaiku.art/poems/123310984-icerainsdownonli</link>
-    </item>
-    <item>
-      <title>sine waves in the clouds</title>
-      <description>sine waves in the clouds&lt;br&gt;that your trail will not be full&lt;br&gt;so wondrously new</description>
-      <pubDate>Fri, 28 Nov 2025 07:02:51 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123289371-sinewavesinthecl</guid>
-      <link>https://sohaiku.art/poems/123289371-sinewavesinthecl</link>
     </item>
   </channel>
 </rss>
