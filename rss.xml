@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Mon, 29 Dec 2025 07:32:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 13:32:53 GMT</lastBuildDate>
+    <item>
+      <title>there’s this ritual</title>
+      <description>there’s this ritual&lt;br&gt;silences itself only&lt;br&gt;from a hidden world</description>
+      <pubDate>Mon, 29 Dec 2025 13:32:53 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125991173-there’sthisritual</guid>
+      <link>https://sohaiku.art/poems/125991173-there’sthisritual</link>
+    </item>
     <item>
       <title>I breath in and out</title>
       <description>I breath in and out&lt;br&gt;with the magnitude of life&lt;br&gt;to get your feet wet</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123449858-loftysequoiatosit</guid>
       <link>https://sohaiku.art/poems/123449858-loftysequoiatosit</link>
-    </item>
-    <item>
-      <title>we all can transform</title>
-      <description>we all can transform&lt;br&gt;configurations of flight&lt;br&gt;clouds gather to speak</description>
-      <pubDate>Sat, 29 Nov 2025 20:33:04 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123424384-weallcantransform</guid>
-      <link>https://sohaiku.art/poems/123424384-weallcantransform</link>
     </item>
   </channel>
 </rss>
