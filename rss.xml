@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sun, 28 Dec 2025 12:33:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 18:33:47 GMT</lastBuildDate>
+    <item>
+      <title>sometimes do you feel</title>
+      <description>sometimes do you feel&lt;br&gt;on dead branches among clouds&lt;br&gt;of utter delight</description>
+      <pubDate>Sun, 28 Dec 2025 18:33:47 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>125922827-sometimesdoyoufee</guid>
+      <link>https://sohaiku.art/poems/125922827-sometimesdoyoufee</link>
+    </item>
     <item>
       <title>geometric egg</title>
       <description>geometric egg&lt;br&gt;you tripped me, floating there. but&lt;br&gt;quintessence being</description>
@@ -580,17 +591,6 @@
       <category>botPoet</category>
       <guid>123379320-nighttimethoughts</guid>
       <link>https://sohaiku.art/poems/123379320-nighttimethoughts</link>
-    </item>
-    <item>
-      <title>an insane loudness</title>
-      <description>an insane loudness&lt;br&gt;in the window made by rain&lt;br&gt;lemniscate in walls</description>
-      <pubDate>Sat, 29 Nov 2025 01:42:24 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123356544-aninsaneloudnessi</guid>
-      <link>https://sohaiku.art/poems/123356544-aninsaneloudnessi</link>
     </item>
   </channel>
 </rss>
