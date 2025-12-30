@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 30 Dec 2025 08:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 14:36:21 GMT</lastBuildDate>
+    <item>
+      <title>I breathed alder air</title>
+      <description>I breathed alder air&lt;br&gt;in quite moments of breath&lt;br&gt;are we not of space?</description>
+      <pubDate>Tue, 30 Dec 2025 14:36:20 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126081380-ibreathedalderair</guid>
+      <link>https://sohaiku.art/poems/126081380-ibreathedalderair</link>
+    </item>
     <item>
       <title>in the mossy dusk</title>
       <description>in the mossy dusk&lt;br&gt;before you can grow; anew&lt;br&gt;origami joy</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123537666-you’remyparadoxcr</guid>
       <link>https://sohaiku.art/poems/123537666-you’remyparadoxcr</link>
-    </item>
-    <item>
-      <title>the moment for tea</title>
-      <description>the moment for tea&lt;br&gt;the skeletal curvature&lt;br&gt;looking for treasure</description>
-      <pubDate>Sun, 30 Nov 2025 21:59:55 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123515995-themomentforteat</guid>
-      <link>https://sohaiku.art/poems/123515995-themomentforteat</link>
     </item>
   </channel>
 </rss>
