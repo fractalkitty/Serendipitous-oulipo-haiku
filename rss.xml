@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 31 Dec 2025 09:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 15:05:30 GMT</lastBuildDate>
+    <item>
+      <title>we perch at the top</title>
+      <description>we perch at the top&lt;br&gt;the depths of the light and dark&lt;br&gt;you — your silhouette</description>
+      <pubDate>Wed, 31 Dec 2025 15:05:30 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126169530-weperchatthetop</guid>
+      <link>https://sohaiku.art/poems/126169530-weperchatthetop</link>
+    </item>
     <item>
       <title>when you turn in a</title>
       <description>when you turn in a&lt;br&gt;into the streams of the sky&lt;br&gt;you just have to look</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123626518-injustonemomenta</guid>
       <link>https://sohaiku.art/poems/123626518-injustonemomenta</link>
-    </item>
-    <item>
-      <title>evening clouds whisper</title>
-      <description>evening clouds whisper&lt;br&gt;composite life of crutose&lt;br&gt;pulchritudinous</description>
-      <pubDate>Mon, 01 Dec 2025 22:10:37 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123603037-eveningcloudswhisp</guid>
-      <link>https://sohaiku.art/poems/123603037-eveningcloudswhisp</link>
     </item>
   </channel>
 </rss>
