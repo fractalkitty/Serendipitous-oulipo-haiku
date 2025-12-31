@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Tue, 30 Dec 2025 14:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 20:37:01 GMT</lastBuildDate>
+    <item>
+      <title>ice rains down on life</title>
+      <description>ice rains down on life&lt;br&gt;swept away — a tide of men&lt;br&gt;boardwalk to the sky</description>
+      <pubDate>Tue, 30 Dec 2025 20:37:01 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126103021-icerainsdownonli</guid>
+      <link>https://sohaiku.art/poems/126103021-icerainsdownonli</link>
+    </item>
     <item>
       <title>I breathed alder air</title>
       <description>I breathed alder air&lt;br&gt;in quite moments of breath&lt;br&gt;are we not of space?</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123559757-inafullorbitinf</guid>
       <link>https://sohaiku.art/poems/123559757-inafullorbitinf</link>
-    </item>
-    <item>
-      <title>you’re my paradox</title>
-      <description>you’re my paradox&lt;br&gt;cross a bridge from the beneath&lt;br&gt;to start to become</description>
-      <pubDate>Mon, 01 Dec 2025 04:01:06 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123537666-you’remyparadoxcr</guid>
-      <link>https://sohaiku.art/poems/123537666-you’remyparadoxcr</link>
     </item>
   </channel>
 </rss>
