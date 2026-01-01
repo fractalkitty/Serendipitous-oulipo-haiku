@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Wed, 31 Dec 2025 15:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 21:47:55 GMT</lastBuildDate>
+    <item>
+      <title>I breath in and out</title>
+      <description>I breath in and out&lt;br&gt;to remind me of your laugh,&lt;br&gt;Pisano petals</description>
+      <pubDate>Wed, 31 Dec 2025 21:47:55 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126193675-ibreathinandout</guid>
+      <link>https://sohaiku.art/poems/126193675-ibreathinandout</link>
+    </item>
     <item>
       <title>we perch at the top</title>
       <description>we perch at the top&lt;br&gt;the depths of the light and dark&lt;br&gt;you — your silhouette</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123648362-puddlesofsunlight</guid>
       <link>https://sohaiku.art/poems/123648362-puddlesofsunlight</link>
-    </item>
-    <item>
-      <title>in just one moment</title>
-      <description>in just one moment&lt;br&gt;and I will love every&lt;br&gt;pulchritudinous</description>
-      <pubDate>Tue, 02 Dec 2025 04:41:58 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123626518-injustonemomenta</guid>
-      <link>https://sohaiku.art/poems/123626518-injustonemomenta</link>
     </item>
   </channel>
 </rss>
