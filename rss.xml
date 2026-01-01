@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 01 Jan 2026 05:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 11:14:15 GMT</lastBuildDate>
+    <item>
+      <title>window deja vu</title>
+      <description>window deja vu&lt;br&gt;place them in your mind’s pocket&lt;br&gt;whispering of blue</description>
+      <pubDate>Thu, 01 Jan 2026 11:14:14 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126242054-windowdejavuplace</guid>
+      <link>https://sohaiku.art/poems/126242054-windowdejavuplace</link>
+    </item>
     <item>
       <title>bees bring such a joy</title>
       <description>bees bring such a joy&lt;br&gt;pink Clouds wrap around my eyes&lt;br&gt;turning in at night</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123692938-aspiralbeautyappe</guid>
       <link>https://sohaiku.art/poems/123692938-aspiralbeautyappe</link>
-    </item>
-    <item>
-      <title>light offers shadows</title>
-      <description>light offers shadows&lt;br&gt;on the surface of the depths&lt;br&gt;between our essence</description>
-      <pubDate>Tue, 02 Dec 2025 17:07:20 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123671240-lightoffersshadows</guid>
-      <link>https://sohaiku.art/poems/123671240-lightoffersshadows</link>
     </item>
   </channel>
 </rss>
