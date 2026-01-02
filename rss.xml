@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 01 Jan 2026 11:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 17:14:56 GMT</lastBuildDate>
+    <item>
+      <title>that forest fragrance</title>
+      <description>that forest fragrance&lt;br&gt;float away on gentle breeze&lt;br&gt;but they will have light</description>
+      <pubDate>Thu, 01 Jan 2026 17:14:56 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126263696-thatforestfragranc</guid>
+      <link>https://sohaiku.art/poems/126263696-thatforestfragranc</link>
+    </item>
     <item>
       <title>window deja vu</title>
       <description>window deja vu&lt;br&gt;place them in your mind’s pocket&lt;br&gt;whispering of blue</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123716515-companionwithinlea</guid>
       <link>https://sohaiku.art/poems/123716515-companionwithinlea</link>
-    </item>
-    <item>
-      <title>a spiral beauty</title>
-      <description>a spiral beauty&lt;br&gt;appear on my walkabouts&lt;br&gt;goes – as you orbit</description>
-      <pubDate>Tue, 02 Dec 2025 23:08:58 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123692938-aspiralbeautyappe</guid>
-      <link>https://sohaiku.art/poems/123692938-aspiralbeautyappe</link>
     </item>
   </channel>
 </rss>
