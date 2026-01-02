@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Thu, 01 Jan 2026 23:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 05:55:05 GMT</lastBuildDate>
+    <item>
+      <title>a Fermat spiral</title>
+      <description>a Fermat spiral&lt;br&gt;ripples from raindrops expand&lt;br&gt;contrast is but life</description>
+      <pubDate>Fri, 02 Jan 2026 05:55:05 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126309305-afermatspiralripp</guid>
+      <link>https://sohaiku.art/poems/126309305-afermatspiralripp</link>
+    </item>
     <item>
       <title>even planets, stars</title>
       <description>even planets, stars&lt;br&gt;lead us to the mind’s wonders&lt;br&gt;calling you to dance</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123761360-pappuschains;circl</guid>
       <link>https://sohaiku.art/poems/123761360-pappuschains;circl</link>
-    </item>
-    <item>
-      <title>bubbles have been packed</title>
-      <description>bubbles have been packed&lt;br&gt;to comfort devastation&lt;br&gt;our place in the stars</description>
-      <pubDate>Wed, 03 Dec 2025 12:08:36 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123739716-bubbleshavebeenpa</guid>
-      <link>https://sohaiku.art/poems/123739716-bubbleshavebeenpa</link>
     </item>
   </channel>
 </rss>
