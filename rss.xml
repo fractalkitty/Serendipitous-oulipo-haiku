@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 02 Jan 2026 05:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 11:55:42 GMT</lastBuildDate>
+    <item>
+      <title>your entire self — world</title>
+      <description>your entire self — world&lt;br&gt;we may spring forth foliage&lt;br&gt;to find what is deep</description>
+      <pubDate>Fri, 02 Jan 2026 11:55:42 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126330942-yourentireself—w</guid>
+      <link>https://sohaiku.art/poems/126330942-yourentireself—w</link>
+    </item>
     <item>
       <title>a Fermat spiral</title>
       <description>a Fermat spiral&lt;br&gt;ripples from raindrops expand&lt;br&gt;contrast is but life</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123785733-yourpathcanbefra</guid>
       <link>https://sohaiku.art/poems/123785733-yourpathcanbefra</link>
-    </item>
-    <item>
-      <title>pappus chains; circles</title>
-      <description>pappus chains; circles&lt;br&gt;in the cracks beneath my feet&lt;br&gt;ruffles in our time</description>
-      <pubDate>Wed, 03 Dec 2025 18:09:20 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123761360-pappuschains;circl</guid>
-      <link>https://sohaiku.art/poems/123761360-pappuschains;circl</link>
     </item>
   </channel>
 </rss>
