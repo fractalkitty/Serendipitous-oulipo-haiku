@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 03 Jan 2026 06:43:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 13:01:11 GMT</lastBuildDate>
+    <item>
+      <title>you asked permission</title>
+      <description>you asked permission&lt;br&gt;just before this headland warmed&lt;br&gt;in a universe</description>
+      <pubDate>Sat, 03 Jan 2026 13:01:11 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126421271-youaskedpermission</guid>
+      <link>https://sohaiku.art/poems/126421271-youaskedpermission</link>
+    </item>
     <item>
       <title>the fractals of us</title>
       <description>the fractals of us&lt;br&gt;the tiny details abound&lt;br&gt;a moment will do</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>125249192-gazeinreflectiont</guid>
       <link>https://sohaiku.art/poems/125249192-gazeinreflectiont</link>
-    </item>
-    <item>
-      <title>slough of quietude</title>
-      <description>slough of quietude&lt;br&gt;grab the celestial light&lt;br&gt;propagating good</description>
-      <pubDate>Thu, 04 Dec 2025 19:24:48 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123852288-sloughofquietudeg</guid>
-      <link>https://sohaiku.art/poems/123852288-sloughofquietudeg</link>
     </item>
   </channel>
 </rss>
