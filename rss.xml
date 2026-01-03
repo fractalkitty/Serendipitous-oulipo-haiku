@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 02 Jan 2026 17:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:06 GMT</lastBuildDate>
+    <item>
+      <title>I am so grateful</title>
+      <description>I am so grateful&lt;br&gt;crows in puddles and in trees&lt;br&gt;places for quiet</description>
+      <pubDate>Sat, 03 Jan 2026 00:00:06 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126374406-iamsogratefulcro</guid>
+      <link>https://sohaiku.art/poems/126374406-iamsogratefulcro</link>
+    </item>
     <item>
       <title>see the underneath</title>
       <description>see the underneath&lt;br&gt;to each other, back and forth&lt;br&gt;pocket of lilies</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123829837-maybeallourdaysb</guid>
       <link>https://sohaiku.art/poems/123829837-maybeallourdaysb</link>
-    </item>
-    <item>
-      <title>she removes her veil</title>
-      <description>she removes her veil&lt;br&gt;together in flight and tree&lt;br&gt;a sign on your way</description>
-      <pubDate>Thu, 04 Dec 2025 07:10:11 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123808211-sheremovesherveil</guid>
-      <link>https://sohaiku.art/poems/123808211-sheremovesherveil</link>
     </item>
   </channel>
 </rss>
