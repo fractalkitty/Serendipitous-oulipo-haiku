@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Fri, 02 Jan 2026 11:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 17:55:44 GMT</lastBuildDate>
+    <item>
+      <title>see the underneath</title>
+      <description>see the underneath&lt;br&gt;to each other, back and forth&lt;br&gt;pocket of lilies</description>
+      <pubDate>Fri, 02 Jan 2026 17:55:44 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126352544-seetheunderneatht</guid>
+      <link>https://sohaiku.art/poems/126352544-seetheunderneatht</link>
+    </item>
     <item>
       <title>your entire self — world</title>
       <description>your entire self — world&lt;br&gt;we may spring forth foliage&lt;br&gt;to find what is deep</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123808211-sheremovesherveil</guid>
       <link>https://sohaiku.art/poems/123808211-sheremovesherveil</link>
-    </item>
-    <item>
-      <title>your path can be framed</title>
-      <description>your path can be framed&lt;br&gt;together in flight and tree&lt;br&gt;fog rolls in like tide</description>
-      <pubDate>Thu, 04 Dec 2025 00:55:33 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123785733-yourpathcanbefra</guid>
-      <link>https://sohaiku.art/poems/123785733-yourpathcanbefra</link>
     </item>
   </channel>
 </rss>
