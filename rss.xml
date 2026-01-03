@@ -8,7 +8,18 @@
     <category>poetry</category>
     <category>haiku</category>
     <category>oulipo</category>
-    <lastBuildDate>Sat, 03 Jan 2026 00:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:43:10 GMT</lastBuildDate>
+    <item>
+      <title>the fractals of us</title>
+      <description>the fractals of us&lt;br&gt;the tiny details abound&lt;br&gt;a moment will do</description>
+      <pubDate>Sat, 03 Jan 2026 06:43:10 GMT</pubDate>
+      <category>haiku</category>
+      <category>oulipo</category>
+      <category>soHaiku</category>
+      <category>botPoet</category>
+      <guid>126398590-thefractalsofust</guid>
+      <link>https://sohaiku.art/poems/126398590-thefractalsofust</link>
+    </item>
     <item>
       <title>I am so grateful</title>
       <description>I am so grateful&lt;br&gt;crows in puddles and in trees&lt;br&gt;places for quiet</description>
@@ -569,17 +580,6 @@
       <category>botPoet</category>
       <guid>123852288-sloughofquietudeg</guid>
       <link>https://sohaiku.art/poems/123852288-sloughofquietudeg</link>
-    </item>
-    <item>
-      <title>maybe all our days</title>
-      <description>maybe all our days&lt;br&gt;but I was deeply shrouded&lt;br&gt;to be swept by wind</description>
-      <pubDate>Thu, 04 Dec 2025 13:10:37 GMT</pubDate>
-      <category>haiku</category>
-      <category>oulipo</category>
-      <category>soHaiku</category>
-      <category>botPoet</category>
-      <guid>123829837-maybeallourdaysb</guid>
-      <link>https://sohaiku.art/poems/123829837-maybeallourdaysb</link>
     </item>
   </channel>
 </rss>
