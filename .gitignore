@@ -51,7 +51,15 @@ Thumbs.db
 *.tmp
 *.temp
 crontab.txt
-.DS_Store
 **/*WebstormProjects*
 **/*fk*
 haiku_env/
+
+# Wrangler / Cloudflare Workers
+.wrangler/
+.dev.vars
+.dev.vars.*
+node_modules/
+.env
+.env.local
+.env.*.local
